@@ -3,9 +3,7 @@ UN Numbers
 
 The data directory contains one JSON file for each UN Number, e.g., data/1203.json.
 
-Each JSON file contains three keys, "description", "class", and "number".
-
-For example, https://raw.github.com/tantalor/un/master/data/1203.json
+Each JSON file contains three keys: "description", "class", and "number".
 
 What is a UN number?
 --------------------
@@ -27,4 +25,6 @@ License
 
 Collected from [List of UN numbers - Wikipedia](http://en.wikipedia.org/wiki/List_of_UN_numbers), 16 Feb 2012.
 
-Distributed under the [Creative Commons Attribution-ShareAlike License](http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).
+Original project: https://github.com/tantalor/un
+
+This project was originally created by [tantalor](https://github.com/tantalor) and is used under the [Creative Commons Attribution-ShareAlike License](http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).

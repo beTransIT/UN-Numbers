@@ -1,5 +1,4 @@
-UN Numbers
-=========
+# UN Numbers
 
 The data directory contains one JSON file for each UN Number, e.g., data/1203.json.
 
@@ -23,8 +22,11 @@ From [UN number - Wikipedia](http://en.wikipedia.org/wiki/UN_number), 16 Feb 201
 License
 -------
 
-Collected from [List of UN numbers - Wikipedia](http://en.wikipedia.org/wiki/List_of_UN_numbers), 16 Feb 2012.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Original project: https://github.com/tantalor/un
+Attribution
+----------
 
-This project was originally created by [tantalor](https://github.com/tantalor) and is used under the [Creative Commons Attribution-ShareAlike License](http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).
+The original UN number data was collected from [List of UN numbers - Wikipedia](http://en.wikipedia.org/wiki/List_of_UN_numbers), 16 Feb 2012.
+
+This project was forked from the original work by [tantalor](https://github.com/tantalor) ([original repository](https://github.com/tantalor/un)), which was licensed under the [Creative Commons Attribution-ShareAlike License](http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License). The data has since been updated and the codebase has been modified.

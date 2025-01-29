@@ -21,8 +21,8 @@ Pull requests are the best way to propose changes to the codebase. We actively w
 5. Make sure your code follows the existing style.
 6. Issue that pull request!
 
-## Any contributions you make will be under the Creative Commons License
-In short, when you submit code changes, your submissions are understood to be under the same [Creative Commons License](http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) that covers the project. Feel free to contact the maintainers if that's a concern.
+## Any contributions you make will be under the MIT License
+In short, when you submit code changes, your submissions are understood to be under the same [MIT License](LICENSE) that covers the project. Feel free to contact the maintainers if that's a concern.
 
 ## Report bugs using Github's [issue tracker](https://github.com/beTransIT/UN-Numbers/issues)
 We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/beTransIT/UN-Numbers/issues/new); it's that easy!
@@ -40,4 +40,4 @@ We use GitHub issues to track public bugs. Report a bug by [opening a new issue]
 - Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
 
 ## License
-By contributing, you agree that your contributions will be licensed under its Creative Commons License. 
+By contributing, you agree that your contributions will be licensed under the MIT License. 

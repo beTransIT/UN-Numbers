@@ -4,6 +4,30 @@ The data directory contains one JSON file for each UN Number, e.g., data/1203.js
 
 Each JSON file contains three keys: "description", "class", and "number".
 
+## API Usage
+
+You can access the UN Numbers data directly via GitHub's raw content URLs. Each UN number is available as a JSON file:
+
+```
+https://raw.githubusercontent.com/beTransIT/UN-Numbers/master/data/{number}.json
+```
+
+For example, to get UN number 0004:
+```
+https://raw.githubusercontent.com/beTransIT/UN-Numbers/master/data/0004.json
+```
+
+Response:
+```json
+{
+    "description": "Ammonium picrate, dry or wetted with less than 10 percent water, by mass",
+    "number": "0004",
+    "class": "1"
+}
+```
+
+Note: Make sure to pad the UN number with leading zeros if needed (e.g., "0004" instead of "4").
+
 What is a UN number?
 --------------------
 

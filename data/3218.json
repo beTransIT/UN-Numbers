@@ -1,1 +1,7 @@
-{"description": "Nitrates, inorganic, aqueous solution, n.o.s.", "number": "3218", "class": "5.1"}
+{
+  "number": "3218",
+  "description": "NITRATES, INORGANIC, AQUEOUS SOLUTION, N.O.S.",
+  "class": "5.1",
+  "classCode": "O1",
+  "tunnel": "3 (E)"
+}

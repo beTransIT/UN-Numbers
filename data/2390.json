@@ -1,1 +1,7 @@
-{"description": "2-Iodobutane", "number": "2390", "class": "3"}
+{
+  "number": "2390",
+  "description": "2-IODOBUTANE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Hydrochloric acid", "number": "1789", "class": "8"}
+{
+  "number": "1789",
+  "description": "HYDROCHLORIC ACID",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "3 (E)"
+}

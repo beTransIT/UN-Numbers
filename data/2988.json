@@ -1,1 +1,7 @@
-{"description": "Chlorosilanes, water-reactive, flammable, corrosive, n.o.s.", "number": "2988", "class": "3"}
+{
+  "number": "2988",
+  "description": "CHLOROSILANES, WATER- REACTIVE, FLAMMABLE, CORROSIVE, N.O.S.",
+  "class": "4.3",
+  "classCode": "WFC",
+  "tunnel": "0 (B/E)"
+}

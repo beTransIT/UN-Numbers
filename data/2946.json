@@ -1,1 +1,7 @@
-{"description": "2-Amino-5-diethylaminopentane", "number": "2946", "class": "6.1"}
+{
+  "number": "2946",
+  "description": "2-AMINO-5- DIETHYLAMINOPENTANE",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

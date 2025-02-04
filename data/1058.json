@@ -1,1 +1,7 @@
-{"description": "Liquified gases, nonflammable charged with nitrogen, carbon dioxide, or air", "number": "1058", "class": "2"}
+{
+  "number": "1058",
+  "description": "LIQUEFIED GASES, non-flammable, charged with nitrogen, carbon dioxide or air",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

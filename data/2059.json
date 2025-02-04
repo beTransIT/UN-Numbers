@@ -1,1 +1,7 @@
-{"description": "Nitrocellulose, solution, flammable with not less than 12.6 percent nitrogen, by mass, and not more than 55 percent nitrocellulose", "number": "2059", "class": "3"}
+{
+  "number": "2059",
+  "description": "NITROCELLULOSE SOLUTION, FLAMMABLE with not more than 12.6 % nitrogen, by dry mass, and not more than 55 % nitrocellulose",
+  "class": "3",
+  "classCode": "D",
+  "tunnel": "3 (B)"
+}

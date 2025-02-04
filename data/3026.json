@@ -1,1 +1,7 @@
-{"description": "Coumarin derivative pesticides, liquid, toxic", "number": "3026", "class": "6.1"}
+{
+  "number": "3026",
+  "description": "COUMARIN DERIVATIVE PESTICIDE, LIQUID, TOXIC",
+  "class": "6.1",
+  "classCode": "T6",
+  "tunnel": "2 (E)"
+}

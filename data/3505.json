@@ -1,1 +1,7 @@
-{"description": "Chemical under pressure, flammable, corrosive, not otherwise specified", "number": "3505", "class": "2.1"} 
+{
+  "number": "3505",
+  "description": "CHEMICAL UNDER PRESSURE, FLAMMABLE, CORROSIVE, N.O.S.",
+  "class": "2",
+  "classCode": "8FC",
+  "tunnel": "1 (B/D)"
+}

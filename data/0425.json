@@ -1,1 +1,7 @@
-{"description": "Projectiles, inert with tracer", "number": "0425", "class": "1"}
+{
+  "number": "0425",
+  "description": "PROJECTILES, inert with tracer",
+  "class": "1",
+  "classCode": "1.4G",
+  "tunnel": "2 (E)"
+}

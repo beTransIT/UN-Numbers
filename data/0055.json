@@ -1,1 +1,7 @@
-{"description": "Cases, cartridge, empty with primer", "number": "0055", "class": "1"}
+{
+  "number": "0055",
+  "description": "CASES, CARTRIDGE, EMPTY, WITH PRIMER",
+  "class": "1",
+  "classCode": "1.4S",
+  "tunnel": "4 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Ferric chloride, anhydrous", "number": "1773", "class": "8"}
+{
+  "number": "1773",
+  "description": "FERRIC CHLORIDE, ANHYDROUS",
+  "class": "8",
+  "classCode": "C2",
+  "tunnel": "3 (E)"
+}

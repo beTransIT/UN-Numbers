@@ -1,1 +1,7 @@
-{"description": "Tetrahydrofurfurylamine", "number": "2943", "class": "3.3"}
+{
+  "number": "2943",
+  "description": "TETRAHYDROFURFURYL- AMINE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

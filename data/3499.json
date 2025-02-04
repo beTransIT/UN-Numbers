@@ -1,1 +1,7 @@
-{"description": "Capacitor, electric double layer (with an energy storage capacity greater than 0.3 Wh)", "number": "3499", "class": "9"}
+{
+  "number": "3499",
+  "description": "CAPACITOR, ELECTRIC DOUBLE LAYER (with an energy storage capacity greater than 0.3Wh)",
+  "class": "9",
+  "classCode": "M11",
+  "tunnel": "4 (E)"
+}

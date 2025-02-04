@@ -1,1 +1,7 @@
-{"description": "Boron tribromide", "number": "2692", "class": "8"}
+{
+  "number": "2692",
+  "description": "BORON TRIBROMIDE",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "1 (E)"
+}

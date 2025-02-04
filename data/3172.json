@@ -1,1 +1,7 @@
-{"description": "Toxins, extracted from living sources, liquid, n.o.s", "number": "3172", "class": "6.1"}
+{
+  "number": "3172",
+  "description": "TOXINS, EXTRACTED FROM LIVING SOURCES, LIQUID, N.O.S.",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

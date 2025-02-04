@@ -1,1 +1,7 @@
-{"description": "Hydrogen chloride, anhydrous", "number": "1050", "class": "2"}
+{
+  "number": "1050",
+  "description": "HYDROGEN CHLORIDE, ANHYDROUS",
+  "class": "2",
+  "classCode": "2TC",
+  "tunnel": "1 (C/D)"
+}

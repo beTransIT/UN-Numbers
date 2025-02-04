@@ -1,1 +1,7 @@
-{"description": "Aluminum bromide, solution", "number": "2580", "class": "8"}
+{
+  "number": "2580",
+  "description": "ALUMINIUM BROMIDE SOLUTION",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "3 (E)"
+}

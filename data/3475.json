@@ -1,1 +1,7 @@
-{"description": "Ethanol and gasoline mixture or ethanol and motor spirit mixture or ethanol and petrol mixture, with more than 10% ethanol", "number": "3475", "class": "3"}
+{
+  "number": "3475",
+  "description": "ETHANOL AND GASOLINE MIXTURE or ETHANOL AND MOTOR SPIRIT MIXTURE or ETHANOL AND PETROL MIXTURE, with more than 10 % ethanol",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

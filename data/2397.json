@@ -1,1 +1,7 @@
-{"description": "3-Methylbutan-2-one", "number": "2397", "class": "3"}
+{
+  "number": "2397",
+  "description": "3-METHYLBUTAN-2-ONE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

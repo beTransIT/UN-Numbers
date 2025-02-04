@@ -1,1 +1,7 @@
-{"description": "Bromomethylpropanes", "number": "2342", "class": "3"}
+{
+  "number": "2342",
+  "description": "BROMOMETHYL-PROPANES",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

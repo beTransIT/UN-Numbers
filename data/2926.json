@@ -1,1 +1,7 @@
-{"description": "Flammable solids, toxic, organic, n.o.s.", "number": "2926", "class": "4.1"}
+{
+  "number": "2926",
+  "description": "FLAMMABLE SOLID, TOXIC, ORGANIC, N.O.S.",
+  "class": "4.1",
+  "classCode": "FT1",
+  "tunnel": "3 (E)"
+}

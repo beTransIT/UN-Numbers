@@ -1,1 +1,7 @@
-{"description": "1,2-Epoxy-3-ethoxypropane", "number": "2752", "class": "3"}
+{
+  "number": "2752",
+  "description": "1,2-EPOXY-3-ETHOXYPROPANE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

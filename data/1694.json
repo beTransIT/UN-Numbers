@@ -1,1 +1,7 @@
-{"description": "Bromobenzyl cyanides, liquid or Bromobenzyl cyanides, solid", "number": "1694", "class": "6.1"}
+{
+  "number": "1694",
+  "description": "BROMOBENZYL CYANIDES, LIQUID",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "1 (C/E)"
+}

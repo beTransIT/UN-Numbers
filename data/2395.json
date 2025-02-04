@@ -1,1 +1,7 @@
-{"description": "Isobutyryl chloride", "number": "2395", "class": "3"}
+{
+  "number": "2395",
+  "description": "ISOBUTYRYL CHLORIDE",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "2 (D/E)"
+}

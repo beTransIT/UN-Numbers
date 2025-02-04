@@ -1,1 +1,7 @@
-{"description": "Methyl bromide", "number": "1062", "class": "2"}
+{
+  "number": "1062",
+  "description": "METHYL BROMIDE with not more than 2 % chloropicrin",
+  "class": "2",
+  "classCode": "2T",
+  "tunnel": "1 (C/D)"
+}

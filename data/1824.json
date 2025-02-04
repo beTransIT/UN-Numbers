@@ -1,1 +1,7 @@
-{"description": "Sodium hydroxide solution", "number": "1824", "class": "8"}
+{
+  "number": "1824",
+  "description": "SODIUM HYDROXIDE SOLUTION",
+  "class": "8",
+  "classCode": "C5",
+  "tunnel": "3 (E)"
+}

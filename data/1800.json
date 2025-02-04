@@ -1,1 +1,7 @@
-{"description": "Octadecyltrichlorosilane", "number": "1800", "class": "8"}
+{
+  "number": "1800",
+  "description": "OCTADECYLTRICHLORO- SILANE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

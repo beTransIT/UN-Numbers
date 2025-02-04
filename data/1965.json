@@ -1,1 +1,7 @@
-{"description": "Hydrocarbon gas mixtures, liquefied, n.o.s.", "number": "1965", "class": "2"}
+{
+  "number": "1965",
+  "description": "HYDROCARBON GAS MIXTURE, LIQUEFIED, N.O.S. such as mixtures A, A01, A02, A0, A1, B1, B2, B or C",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

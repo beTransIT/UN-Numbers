@@ -1,1 +1,7 @@
-{"description": "Bromine pentafluoride", "number": "1745", "class": "5.1"}
+{
+  "number": "1745",
+  "description": "BROMINE PENTAFLUORIDE",
+  "class": "5.1",
+  "classCode": "OTC",
+  "tunnel": "1 (B/E)"
+}

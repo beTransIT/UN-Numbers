@@ -1,1 +1,7 @@
-{"description": "Sodium perchlorate", "number": "1502", "class": "5.1"}
+{
+  "number": "1502",
+  "description": "SODIUM PERCHLORATE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "2 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Cobalt resinate, precipitated", "number": "1318", "class": "4.1"}
+{
+  "number": "1318",
+  "description": "COBALT RESINATE, PRECIPITATED",
+  "class": "4.1",
+  "classCode": "F3",
+  "tunnel": "3 (E)"
+}

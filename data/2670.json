@@ -1,1 +1,7 @@
-{"description": "Cyanuric chloride", "number": "2670", "class": "8"}
+{
+  "number": "2670",
+  "description": "CYANURIC CHLORIDE",
+  "class": "8",
+  "classCode": "C4",
+  "tunnel": "2 (E)"
+}

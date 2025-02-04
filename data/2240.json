@@ -1,1 +1,7 @@
-{"description": "Chromosulfuric acid", "number": "2240", "class": "8"}
+{
+  "number": "2240",
+  "description": "CHROMOSULPHURIC ACID",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "1 (E)"
+}

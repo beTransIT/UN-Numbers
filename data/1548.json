@@ -1,1 +1,7 @@
-{"description": "Aniline hydrochloride", "number": "1548", "class": "6.1"}
+{
+  "number": "1548",
+  "description": "ANILINE HYDROCHLORIDE",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (E)"
+}

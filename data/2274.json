@@ -1,1 +1,7 @@
-{"description": "N-Ethyl-N-benzylaniline", "number": "2274", "class": "6.1"}
+{
+  "number": "2274",
+  "description": "N-ETHYL-N-BENZYLANILINE",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

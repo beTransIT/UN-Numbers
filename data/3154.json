@@ -1,1 +1,7 @@
-{"description": "Perfluoro(ethyl vinyl ether)", "number": "3154", "class": "2.1"}
+{
+  "number": "3154",
+  "description": "PERFLUORO(ETHYL VINYL ETHER)",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

@@ -1,1 +1,7 @@
-{"description": "Fuel cell cartridges or Fuel cell cartridges contained in equipment or Fuel cell cartridges packed with equipment, containing hydrogen in metal hydride", "number": "3479", "class": "2.1"}
+{
+  "number": "3479",
+  "description": "FUEL CELL CARTRIDGES or FUEL CELL CARTRIDGES CONTAINED IN EQUIPMENT or FUEL CELL CARTRIDGES PACKED WITH EQUIPMENT, containing hydrogen in metal hydride",
+  "class": "2",
+  "classCode": "6F",
+  "tunnel": "2 (D)"
+}

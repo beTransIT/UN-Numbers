@@ -1,1 +1,7 @@
-{"description": "Cyanogen bromide", "number": "1889", "class": "6.1"}
+{
+  "number": "1889",
+  "description": "CYANOGEN BROMIDE",
+  "class": "6.1",
+  "classCode": "TC2",
+  "tunnel": "1 (C/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Ethylenediamine", "number": "1604", "class": "8"}
+{
+  "number": "1604",
+  "description": "ETHYLENEDIAMINE",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "2 (D/E)"
+}

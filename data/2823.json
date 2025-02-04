@@ -1,1 +1,7 @@
-{"description": "Crotonic acid liquid or Crotonic acid solid", "number": "2823", "class": "8"}
+{
+  "number": "2823",
+  "description": "CROTONIC ACID, SOLID",
+  "class": "8",
+  "classCode": "C4",
+  "tunnel": "3 (E)"
+}

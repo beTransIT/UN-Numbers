@@ -1,1 +1,7 @@
-{"description": "Calcium cyanide", "number": "1575", "class": "6.1"}
+{
+  "number": "1575",
+  "description": "CALCIUM CYANIDE",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "1 (C/E)"
+}

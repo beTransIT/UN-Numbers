@@ -1,1 +1,7 @@
-{"description": "Potassium monoxide", "number": "2033", "class": "8"}
+{
+  "number": "2033",
+  "description": "POTASSIUM MONOXIDE",
+  "class": "8",
+  "classCode": "C6",
+  "tunnel": "2 (E)"
+}

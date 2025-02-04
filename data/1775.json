@@ -1,1 +1,7 @@
-{"description": "Fluoroboric acid", "number": "1775", "class": "8"}
+{
+  "number": "1775",
+  "description": "FLUOROBORIC ACID",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "2 (E)"
+}

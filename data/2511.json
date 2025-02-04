@@ -1,1 +1,7 @@
-{"description": "2-Chloropropionic acid", "number": "2511", "class": "8"}
+{
+  "number": "2511",
+  "description": "2-CHLOROPROPIONIC ACID",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "3 (E)"
+}

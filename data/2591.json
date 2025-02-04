@@ -1,1 +1,7 @@
-{"description": "Xenon, refrigerated liquid (cryogenic liquids)", "number": "2591", "class": "2"}
+{
+  "number": "2591",
+  "description": "XENON, REFRIGERATED LIQUID",
+  "class": "2",
+  "classCode": "3A",
+  "tunnel": "3 (C/E)"
+}

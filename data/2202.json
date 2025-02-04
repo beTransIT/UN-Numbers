@@ -1,1 +1,7 @@
-{"description": "Hydrogen selenide, anhydrous", "number": "2202", "class": "2"}
+{
+  "number": "2202",
+  "description": "HYDROGEN SELENIDE, ANHYDROUS",
+  "class": "2",
+  "classCode": "2TF",
+  "tunnel": "1 (D)"
+}

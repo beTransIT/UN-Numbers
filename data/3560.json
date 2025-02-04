@@ -1,1 +1,7 @@
-{"description": "Tetramethylammonium hydroxide aqueous solution with not less than 25 % tetramethylammonium hydroxide", "number": "3560", "class": "6.1"} 
+{
+  "number": "3560",
+  "description": "TETRAMETHYLAMMONIUM HYDROXIDE AQUEOUS SOLUTION with not less than 25 % tetramethylammonium hydroxide",
+  "class": "6.1",
+  "classCode": "TC1",
+  "tunnel": "1 (C/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Hydrazine, anhydrous or Hydrazine aqueous solutions with more than 64 percent hydrazine, by mass", "number": "2029", "class": "8"}
+{
+  "number": "2029",
+  "description": "HYDRAZINE, ANHYDROUS",
+  "class": "8",
+  "classCode": "CFT",
+  "tunnel": "1 (E)"
+}

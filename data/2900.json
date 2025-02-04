@@ -1,1 +1,7 @@
-{"description": "Infectious substance, affecting animals", "number": "2900", "class": "6.2"}
+{
+  "number": "2900",
+  "description": "INFECTIOUS SUBSTANCE, AFFECTING ANIMALS only (animal material only)",
+  "class": "6.2",
+  "classCode": "I2",
+  "tunnel": "0 (E)"
+}

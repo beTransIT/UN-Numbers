@@ -1,1 +1,7 @@
-{"description": "Trifluoroacetic acid", "number": "2699", "class": "8"}
+{
+  "number": "2699",
+  "description": "TRIFLUOROACETIC ACID",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "1 (E)"
+}

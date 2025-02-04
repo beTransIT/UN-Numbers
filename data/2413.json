@@ -1,1 +1,7 @@
-{"description": "Tetrapropylorthotitanate", "number": "2413", "class": "3"}
+{
+  "number": "2413",
+  "description": "TETRAPROPYL ORTHOTITANATE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Ethylene, compressed", "number": "1962", "class": "2"}
+{
+  "number": "1962",
+  "description": "ETHYLENE",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

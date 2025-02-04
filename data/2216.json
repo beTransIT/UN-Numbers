@@ -1,1 +1,7 @@
-{"description": "Fish meal, stabilized or Fish scrap, stabilized", "number": "2216", "class": "9"}
+{
+  "number": "2216",
+  "description": "Fish meal (Fish scrap), stabilized",
+  "class": "9",
+  "classCode": "M11",
+  "tunnel": "None"
+}

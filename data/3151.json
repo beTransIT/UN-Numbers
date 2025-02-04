@@ -1,1 +1,7 @@
-{"description": "Polyhalogenated biphenyls, liquid or Polyhalogenated terphenyls, liquid", "number": "3151", "class": "9"}
+{
+  "number": "3151",
+  "description": "POLYHALOGENATED BIPHENYLS, LIQUID or HALOGENATED MONOMETHYLDIPHENYLMETH ANES, LIQUID or POLYHALOGENATED TERPHENYLS, LIQUID",
+  "class": "9",
+  "classCode": "M2",
+  "tunnel": "0 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Naphthylthiourea", "number": "1651", "class": "6.1"}
+{
+  "number": "1651",
+  "description": "NAPHTHYLTHIOUREA",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (D/E)"
+}

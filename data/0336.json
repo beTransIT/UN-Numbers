@@ -1,1 +1,7 @@
-{"description": "Fireworks (1.4G)", "number": "0336", "class": "1"}
+{
+  "number": "0336",
+  "description": "FIREWORKS",
+  "class": "1",
+  "classCode": "1.4G",
+  "tunnel": "2 (E)"
+}

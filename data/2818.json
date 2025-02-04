@@ -1,1 +1,7 @@
-{"description": "Ammonium polysulfide, solution", "number": "2818", "class": "8"}
+{
+  "number": "2818",
+  "description": "AMMONIUM POLYSULPHIDE SOLUTION",
+  "class": "8",
+  "classCode": "CT1",
+  "tunnel": "3 (E)"
+}

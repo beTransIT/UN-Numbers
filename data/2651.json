@@ -1,1 +1,7 @@
-{"description": "4,4'-Diaminodiphenyl methane", "number": "2651", "class": "6.1"}
+{
+  "number": "2651",
+  "description": "4,4'-DIAMINODIPHENYL- METHANE",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (E)"
+}

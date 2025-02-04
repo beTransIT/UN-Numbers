@@ -1,1 +1,7 @@
-{"description": "Trimethylamine, anhydrous", "number": "1083", "class": "2"}
+{
+  "number": "1083",
+  "description": "TRIMETHYLAMINE, ANHYDROUS",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

@@ -1,1 +1,7 @@
-{"description": "Glycerol alpha-monochlorohydrin", "number": "2689", "class": "6.1"}
+{
+  "number": "2689",
+  "description": "GLYCEROL alpha- MONOCHLOROHYDRIN",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

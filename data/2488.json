@@ -1,1 +1,7 @@
-{"description": "Cyclohexyl isocyanate", "number": "2488", "class": "6.1"}
+{
+  "number": "2488",
+  "description": "CYCLOHEXYL ISOCYANATE",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "1 (C/D)"
+}

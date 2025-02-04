@@ -1,1 +1,7 @@
-{"description": "Isoheptenes", "number": "2287", "class": "3"}
+{
+  "number": "2287",
+  "description": "ISOHEPTENE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

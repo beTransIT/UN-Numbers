@@ -1,1 +1,7 @@
-{"description": "Triallylamine", "number": "2610", "class": "3"}
+{
+  "number": "2610",
+  "description": "TRIALLYLAMINE",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "3 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "3-Trifluoromethylaniline", "number": "2948", "class": "6.1"}
+{
+  "number": "2948",
+  "description": "3-TRIFLUOROMETHYL-ANILINE",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (D/E)"
+}

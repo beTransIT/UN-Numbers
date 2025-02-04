@@ -1,1 +1,7 @@
-{"description": "Amyl chlorides", "number": "1107", "class": "3"}
+{
+  "number": "1107",
+  "description": "AMYL CHLORIDE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

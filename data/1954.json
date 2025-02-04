@@ -1,1 +1,7 @@
-{"description": "Compressed gas, flammable, n.o.s.", "number": "1954", "class": "2"}
+{
+  "number": "1954",
+  "description": "COMPRESSED GAS, FLAMMABLE, N.O.S.",
+  "class": "2",
+  "classCode": "1F",
+  "tunnel": "2 (B/D)"
+}

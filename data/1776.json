@@ -1,1 +1,7 @@
-{"description": "Fluorophosphoric acid anhydrous", "number": "1776", "class": "8"}
+{
+  "number": "1776",
+  "description": "FLUOROPHOSPHORIC ACID, ANHYDROUS",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "2 (E)"
+}

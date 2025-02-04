@@ -1,1 +1,7 @@
-{"description": "Gas, refrigerated liquid, flammable, n.o.s.", "number": "3312", "class": "2.1"}
+{
+  "number": "3312",
+  "description": "GAS, REFRIGERATED LIQUID, FLAMMABLE, N.O.S.",
+  "class": "2",
+  "classCode": "3F",
+  "tunnel": "2 (B/D)"
+}

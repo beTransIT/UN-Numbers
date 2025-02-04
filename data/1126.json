@@ -1,1 +1,7 @@
-{"description": "1-Bromobutane", "number": "1126", "class": "3"}
+{
+  "number": "1126",
+  "description": "1-BROMOBUTANE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Methyl isobutyl ketone", "number": "1245", "class": "3"}
+{
+  "number": "1245",
+  "description": "METHYL ISOBUTYL KETONE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Cresols", "number": "2076", "class": "6.1"}
+{
+  "number": "2076",
+  "description": "CRESOLS, LIQUID",
+  "class": "6.1",
+  "classCode": "TC1",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Mercaptans, liquid, toxic, flammable, n.o.s. or Mercaptan mixtures, liquid, toxic, flammable, n.o.s., flashpoint not less than 23\u00b0C", "number": "3071", "class": "6.1"}
+{
+  "number": "3071",
+  "description": "MERCAPTANS, LIQUID, TOXIC, FLAMMABLE, N.O.S. or MERCAPTAN MIXTURE, LIQUID, TOXIC, FLAMMABLE, N.O.S.",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "2 (D/E)"
+}

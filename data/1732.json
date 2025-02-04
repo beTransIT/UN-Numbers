@@ -1,1 +1,7 @@
-{"description": "Antimony pentafluoride", "number": "1732", "class": "8"}
+{
+  "number": "1732",
+  "description": "ANTIMONY PENTAFLUORIDE",
+  "class": "8",
+  "classCode": "CT1",
+  "tunnel": "2 (E)"
+}

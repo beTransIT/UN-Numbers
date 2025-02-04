@@ -1,1 +1,7 @@
-{"description": "Magnesium peroxide", "number": "1476", "class": "5.1"}
+{
+  "number": "1476",
+  "description": "MAGNESIUM PEROXIDE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "2 (E)"
+}

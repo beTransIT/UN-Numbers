@@ -1,1 +1,7 @@
-{"description": "Bromoacetic acid, solution or Bromoacetic acid, solid", "number": "1938", "class": "8"}
+{
+  "number": "1938",
+  "description": "BROMOACETIC ACID SOLUTION",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "3 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Antimony pentachloride, solution", "number": "1731", "class": "8"}
+{
+  "number": "1731",
+  "description": "ANTIMONY PENTACHLORIDE SOLUTION",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "3 (E)"
+}

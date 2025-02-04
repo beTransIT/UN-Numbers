@@ -1,1 +1,7 @@
-{"description": "Batteries, nickel-metal hydride", "number": "3496", "class": "9"}
+{
+  "number": "3496",
+  "description": "Batteries, nickel-metal hydride",
+  "class": "9",
+  "classCode": "M11",
+  "tunnel": "None"
+}

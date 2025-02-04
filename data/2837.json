@@ -1,1 +1,7 @@
-{"description": "Bisulfate, aqueous solution", "number": "2837", "class": "8"}
+{
+  "number": "2837",
+  "description": "BISULPHATES, AQUEOUS SOLUTION",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "3 (E)"
+}

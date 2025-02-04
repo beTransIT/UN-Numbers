@@ -1,1 +1,7 @@
-{"description": "Methane, compressed or Natural gas, compressed (with high methane content)", "number": "1971", "class": "2"}
+{
+  "number": "1971",
+  "description": "METHANE, COMPRESSED or NATURAL GAS, COMPRESSED with high methane content",
+  "class": "2",
+  "classCode": "1F",
+  "tunnel": "2 (B/D)"
+}

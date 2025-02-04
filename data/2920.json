@@ -1,1 +1,7 @@
-{"description": "Corrosive liquids, flammable, n.o.s.", "number": "2920", "class": "8"}
+{
+  "number": "2920",
+  "description": "CORROSIVE LIQUID, FLAMMABLE, N.O.S.",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "2 (D/E)"
+}

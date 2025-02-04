@@ -1,1 +1,7 @@
-{"description": "Air, refrigerated liquid, (cryogenic liquid) or Air, refrigerated liquid (cryogenic liquid) non-pressurized", "number": "1003", "class": "2"}
+{
+  "number": "1003",
+  "description": "AIR, REFRIGERATED LIQUID",
+  "class": "2",
+  "classCode": "3O",
+  "tunnel": "3 (C/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Organotin compounds, solid, n.o.s.", "number": "3146", "class": "6.1"}
+{
+  "number": "3146",
+  "description": "ORGANOTIN COMPOUND, SOLID, N.O.S.",
+  "class": "6.1",
+  "classCode": "T3",
+  "tunnel": "2 (E)"
+}

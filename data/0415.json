@@ -1,1 +1,7 @@
-{"description": "Charges, propelling", "number": "0415", "class": "1"}
+{
+  "number": "0415",
+  "description": "CHARGES, PROPELLING",
+  "class": "1",
+  "classCode": "1.2C",
+  "tunnel": "1 (B1000C)"
+}

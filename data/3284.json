@@ -1,1 +1,7 @@
-{"description": "Tellurium compound, solid, n.o.s.", "number": "3284", "class": "6.1"}
+{
+  "number": "3284",
+  "description": "TELLURIUM COMPOUND, N.O.S.",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Liquefied gas, n.o.s.", "number": "3163", "class": "2.2"}
+{
+  "number": "3163",
+  "description": "LIQUEFIED GAS, N.O.S.",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

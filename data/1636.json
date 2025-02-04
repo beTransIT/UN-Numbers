@@ -1,1 +1,7 @@
-{"description": "Mercury cyanide", "number": "1636", "class": "6.1"}
+{
+  "number": "1636",
+  "description": "MERCURY CYANIDE",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (D/E)"
+}

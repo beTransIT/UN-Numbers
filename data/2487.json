@@ -1,1 +1,7 @@
-{"description": "Phenyl isocyanate", "number": "2487", "class": "6.1"}
+{
+  "number": "2487",
+  "description": "PHENYL ISOCYANATE",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "1 (C/D)"
+}

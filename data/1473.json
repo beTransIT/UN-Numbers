@@ -1,1 +1,7 @@
-{"description": "Magnesium bromate", "number": "1473", "class": "5.1"}
+{
+  "number": "1473",
+  "description": "MAGNESIUM BROMATE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "2 (E)"
+}

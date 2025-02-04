@@ -1,1 +1,7 @@
-{"description": "Water-reactive liquid, n.o.s.", "number": "3148", "class": "4.3"}
+{
+  "number": "3148",
+  "description": "WATER-REACTIVE LIQUID, N.O.S.",
+  "class": "4.3",
+  "classCode": "W1",
+  "tunnel": "0 (E)"
+}

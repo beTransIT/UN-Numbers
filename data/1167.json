@@ -1,1 +1,7 @@
-{"description": "Divinyl ether, inhibited", "number": "1167", "class": "3"}
+{
+  "number": "1167",
+  "description": "DIVINYL ETHER, STABILIZED",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "1 (D/E)"
+}

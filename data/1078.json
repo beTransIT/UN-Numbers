@@ -1,1 +1,7 @@
-{"description": "Refrigerant gases, n.o.s.", "number": "1078", "class": "2"}
+{
+  "number": "1078",
+  "description": "REFRIGERANT GAS, N.O.S., such as mixture F1, mixture F2 or mixture F3",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Chlorodifluorobromomethane or Refrigerant gas R 12B1", "number": "1974", "class": "2"}
+{
+  "number": "1974",
+  "description": "CHLORODIFLUOROBROMO- METHANE (REFRIGERANT GAS R 12B1)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Chlorobenzyl chlorides", "number": "2235", "class": "6.1"}
+{
+  "number": "2235",
+  "description": "CHLOROBENZYL CHLORIDES, LIQUID",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Battery fluid, acid or Sulfuric acid with not more than 51 percent acid", "number": "2796", "class": "8"}
+{
+  "number": "2796",
+  "description": "SULPHURIC ACID with not more than 51 % acid or BATTERY FLUID, ACID",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "2 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Potassium hydroxide, solid", "number": "1813", "class": "8"}
+{
+  "number": "1813",
+  "description": "POTASSIUM HYDROXIDE, SOLID",
+  "class": "8",
+  "classCode": "C6",
+  "tunnel": "2 (E)"
+}

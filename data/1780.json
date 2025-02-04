@@ -1,1 +1,7 @@
-{"description": "Fumaryl chloride", "number": "1780", "class": "8"}
+{
+  "number": "1780",
+  "description": "FUMARYL CHLORIDE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

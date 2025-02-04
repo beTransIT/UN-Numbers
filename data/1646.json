@@ -1,1 +1,7 @@
-{"description": "Mercury thiocyanate", "number": "1646", "class": "6.1"}
+{
+  "number": "1646",
+  "description": "MERCURY THIOCYANATE",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (D/E)"
+}

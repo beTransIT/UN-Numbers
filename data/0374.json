@@ -1,1 +1,7 @@
-{"description": "Sounding devices, explosive", "number": "0374", "class": "1"}
+{
+  "number": "0374",
+  "description": "SOUNDING DEVICES, EXPLOSIVE",
+  "class": "1",
+  "classCode": "1.1D",
+  "tunnel": "1 (B1000C)"
+}

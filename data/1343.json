@@ -1,1 +1,7 @@
-{"description": "Phosphorus trisulfide, free from yellow or white phosphorus", "number": "1343", "class": "4.1"}
+{
+  "number": "1343",
+  "description": "PHOSPHORUS TRISULPHIDE, free from yellow and white phosphorus",
+  "class": "4.1",
+  "classCode": "F3",
+  "tunnel": "2 (E)"
+}

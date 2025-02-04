@@ -1,1 +1,7 @@
-{"description": "Nitrating acid mixtures, with more than 50 percent nitric acid or Nitrating acid mixtures, with not more than 50 percent nitric acid", "number": "1796", "class": "8"}
+{
+  "number": "1796",
+  "description": "NITRATING ACID MIXTURE with not more than 50 % nitric acid",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "2 (E)"
+}

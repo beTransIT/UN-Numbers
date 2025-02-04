@@ -1,1 +1,7 @@
-{"description": "Ethyl lactate", "number": "1192", "class": "3"}
+{
+  "number": "1192",
+  "description": "ETHYL LACTATE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

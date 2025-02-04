@@ -1,1 +1,7 @@
-{"description": "Nitric acid, red fuming", "number": "2032", "class": "8"}
+{
+  "number": "2032",
+  "description": "NITRIC ACID, RED FUMING",
+  "class": "8",
+  "classCode": "COT",
+  "tunnel": "1 (C/D)"
+}

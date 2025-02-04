@@ -1,1 +1,7 @@
-{"description": "Batteries, wet, filled with alkali, electric storage", "number": "2795", "class": "8"}
+{
+  "number": "2795",
+  "description": "BATTERIES, WET, FILLED WITH ALKALI, electric storage",
+  "class": "8",
+  "classCode": "C11",
+  "tunnel": "3 (E)"
+}

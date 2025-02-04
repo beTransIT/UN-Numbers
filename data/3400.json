@@ -1,1 +1,7 @@
-{"description": "Organometallic substance, liquid, water-reactive, self-heating", "number": "3400", "class": "4.3"}
+{
+  "number": "3400",
+  "description": "ORGANOMETALLIC SUBSTANCE, SOLID, SELF- HEATING",
+  "class": "4.2",
+  "classCode": "S5",
+  "tunnel": "3 (E)"
+}

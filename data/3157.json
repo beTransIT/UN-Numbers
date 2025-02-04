@@ -1,1 +1,7 @@
-{"description": "Liquefied gas, oxidizing, n.o.s.", "number": "3157", "class": "2.2"}
+{
+  "number": "3157",
+  "description": "LIQUEFIED GAS, OXIDIZING, N.O.S.",
+  "class": "2",
+  "classCode": "2O",
+  "tunnel": "3 (C/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Ethylene glycol monomethyl ether acetate", "number": "1189", "class": "3"}
+{
+  "number": "1189",
+  "description": "ETHYLENE GLYCOL MONOMETHYL ETHER ACETATE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

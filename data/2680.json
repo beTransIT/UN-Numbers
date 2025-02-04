@@ -1,1 +1,7 @@
-{"description": "Lithium hydroxide, monohydrate or Lithium hydroxide, solid", "number": "2680", "class": "8"}
+{
+  "number": "2680",
+  "description": "LITHIUM HYDROXIDE",
+  "class": "8",
+  "classCode": "C6",
+  "tunnel": "2 (E)"
+}

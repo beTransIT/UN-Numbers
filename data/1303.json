@@ -1,1 +1,7 @@
-{"description": "Vinylidene chloride, inhibited", "number": "1303", "class": "3"}
+{
+  "number": "1303",
+  "description": "VINYLIDENE CHLORIDE, STABILIZED",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "1 (D/E)"
+}

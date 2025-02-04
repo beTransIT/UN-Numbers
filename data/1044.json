@@ -1,1 +1,7 @@
-{"description": "Fire extinguishers containing compressed or liquefied gas", "number": "1044", "class": "2"}
+{
+  "number": "1044",
+  "description": "FIRE EXTINGUISHERS with compressed or liquefied gas",
+  "class": "2",
+  "classCode": "6A",
+  "tunnel": "3 (E)"
+}

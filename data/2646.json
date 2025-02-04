@@ -1,1 +1,7 @@
-{"description": "Hexachlorocyclopentadiene", "number": "2646", "class": "6.1"}
+{
+  "number": "2646",
+  "description": "HEXACHLOROCYCLO- PENTADIENE",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "1 (C/D)"
+}

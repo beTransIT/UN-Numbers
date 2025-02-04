@@ -1,1 +1,7 @@
-{"description": "Cresols, solid", "number": "3455", "class": "6.1"}
+{
+  "number": "3455",
+  "description": "CRESOLS, SOLID",
+  "class": "6.1",
+  "classCode": "TC2",
+  "tunnel": "2 (D/E)"
+}

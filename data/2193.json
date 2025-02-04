@@ -1,1 +1,7 @@
-{"description": "Hexafluoroethane, compressed or Refrigerant gas R 116", "number": "2193", "class": "2"}
+{
+  "number": "2193",
+  "description": "HEXAFLUOROETHANE (REFRIGERANT GAS R 116)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

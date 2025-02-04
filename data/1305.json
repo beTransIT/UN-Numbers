@@ -1,1 +1,7 @@
-{"description": "Vinyltrichlorosilane, inhibited", "number": "1305", "class": "3"}
+{
+  "number": "1305",
+  "description": "VINYLTRICHLOROSILANE",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "2 (D/E)"
+}

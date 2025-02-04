@@ -1,1 +1,7 @@
-{"description": "Butyraldehyde", "number": "1129", "class": "3"}
+{
+  "number": "1129",
+  "description": "BUTYRALDEHYDE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

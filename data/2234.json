@@ -1,1 +1,7 @@
-{"description": "Chlorobenzotrifluorides", "number": "2234", "class": "3"}
+{
+  "number": "2234",
+  "description": "CHLOROBENZOTRI-FLUORIDES",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

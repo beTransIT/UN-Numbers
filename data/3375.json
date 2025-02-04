@@ -1,1 +1,7 @@
-{"description": "Ammonium nitrate emulsion or suspension or gel", "number": "3375", "class": "5.1"}
+{
+  "number": "3375",
+  "description": "AMMONIUM NITRATE EMULSION or SUSPENSION or GEL, intermediate for blasting explosives, solid",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "2 (E)"
+}

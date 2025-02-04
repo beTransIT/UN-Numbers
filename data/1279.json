@@ -1,1 +1,7 @@
-{"description": "1,2-Dichloropropane", "number": "1279", "class": "3"}
+{
+  "number": "1279",
+  "description": "1,2-DICHLOROPROPANE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

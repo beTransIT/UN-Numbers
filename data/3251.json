@@ -1,1 +1,7 @@
-{"description": "Isosorbide-5-mononitrate", "number": "3251", "class": "4.1"}
+{
+  "number": "3251",
+  "description": "ISOSORBIDE-5-MONONITRATE",
+  "class": "4.1",
+  "classCode": "SR1",
+  "tunnel": "3 (D)"
+}

@@ -1,1 +1,7 @@
-{"description": "Sulfur hexafluoride", "number": "1080", "class": "2"}
+{
+  "number": "1080",
+  "description": "SULPHUR HEXAFLUORIDE",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

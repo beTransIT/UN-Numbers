@@ -1,1 +1,7 @@
-{"description": "Sodium ammonium vanadate", "number": "2863", "class": "6.1"}
+{
+  "number": "2863",
+  "description": "SODIUM AMMONIUM VANADATE",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (D/E)"
+}

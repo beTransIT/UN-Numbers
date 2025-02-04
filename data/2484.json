@@ -1,1 +1,7 @@
-{"description": "tert-Butyl isocyanate", "number": "2484", "class": "6.1"}
+{
+  "number": "2484",
+  "description": "tert-BUTYL ISOCYANATE",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "1 (C/D)"
+}

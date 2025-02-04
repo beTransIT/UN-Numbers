@@ -1,1 +1,7 @@
-{"description": "Nitrous oxide", "number": "1070", "class": "2"}
+{
+  "number": "1070",
+  "description": "NITROUS OXIDE",
+  "class": "2",
+  "classCode": "2O",
+  "tunnel": "3 (C/E)"
+}

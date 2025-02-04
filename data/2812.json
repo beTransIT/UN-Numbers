@@ -1,1 +1,7 @@
-{"description": "Sodium aluminate, solid", "number": "2812", "class": "8"}
+{
+  "number": "2812",
+  "description": "Sodium aluminate, solid",
+  "class": "8",
+  "classCode": "C6",
+  "tunnel": "None"
+}

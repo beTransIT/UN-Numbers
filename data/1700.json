@@ -1,1 +1,7 @@
-{"description": "Tear gas candles", "number": "1700", "class": "6.1"}
+{
+  "number": "1700",
+  "description": "TEAR GAS CANDLES",
+  "class": "6.1",
+  "classCode": "TF4",
+  "tunnel": "2 (E)"
+}

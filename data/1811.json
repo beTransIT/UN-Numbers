@@ -1,1 +1,7 @@
-{"description": "Potassium hydrogendifluoride, solid or Potassium hydrogendifluoride, solution", "number": "1811", "class": "8"}
+{
+  "number": "1811",
+  "description": "POTASSIUM HYDROGENDIFLUORIDE, SOLID",
+  "class": "8",
+  "classCode": "CT2",
+  "tunnel": "2 (E)"
+}

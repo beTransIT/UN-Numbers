@@ -1,1 +1,7 @@
-{"description": "Chlorobutanes", "number": "1127", "class": "3"}
+{
+  "number": "1127",
+  "description": "CHLOROBUTANES",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

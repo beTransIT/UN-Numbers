@@ -1,1 +1,7 @@
-{"description": "Allyl iodide", "number": "1723", "class": "3"}
+{
+  "number": "1723",
+  "description": "ALLYL IODIDE",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "2 (D/E)"
+}

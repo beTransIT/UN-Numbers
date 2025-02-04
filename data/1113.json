@@ -1,1 +1,7 @@
-{"description": "Amyl nitrites", "number": "1113", "class": "3"}
+{
+  "number": "1113",
+  "description": "AMYL NITRITE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Hydrogen peroxide, aqueous solutions with not less than 8 percent but less than 20 percent hydrogen peroxide (stabilized as necessary)", "number": "2984", "class": "5.2"}
+{
+  "number": "2984",
+  "description": "HYDROGEN PEROXIDE, AQUEOUS SOLUTION with not less than 8 % but less than 20 % hydrogen peroxide (stabilized as necessary)",
+  "class": "5.1",
+  "classCode": "O1",
+  "tunnel": "3 (E)"
+}

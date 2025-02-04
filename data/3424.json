@@ -1,1 +1,7 @@
-{"description": "Ammonium dinitro-o-cresolate solution", "number": "3424", "class": "6.1"}
+{
+  "number": "3424",
+  "description": "AMMONIUM DINITRO-o- CRESOLATE SOLUTION",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Tetrafluoromethane, compressed or Refrigerant gas R 14", "number": "1982", "class": "2"}
+{
+  "number": "1982",
+  "description": "TETRAFLUOROMETHANE (REFRIGERANT GAS R 14)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Phenoxyacetic acid derivative pesticide, liquid, toxic, flammable flash point 23 \u00b0C or more", "number": "3347", "class": "6.1"}
+{
+  "number": "3347",
+  "description": "PHENOXYACETIC ACID DERIVATIVE PESTICIDE, LIQUID, TOXIC, FLAMMABLE, flash-point not less than 23 °C",
+  "class": "6.1",
+  "classCode": "TF2",
+  "tunnel": "2 (D/E)"
+}

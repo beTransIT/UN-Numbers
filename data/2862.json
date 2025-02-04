@@ -1,1 +1,7 @@
-{"description": "Vanadium pentoxide, nonfused form", "number": "2862", "class": "6.1"}
+{
+  "number": "2862",
+  "description": "VANADIUM PENTOXIDE, non- fused form",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (E)"
+}

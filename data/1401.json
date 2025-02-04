@@ -1,1 +1,7 @@
-{"description": "Calcium", "number": "1401", "class": "4.3"}
+{
+  "number": "1401",
+  "description": "CALCIUM",
+  "class": "4.3",
+  "classCode": "W2",
+  "tunnel": "2 (D/E)"
+}

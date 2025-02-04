@@ -1,1 +1,7 @@
-{"description": "Black powder, compressed or Gunpowder, compressed or Black powder, in pellets or Gunpowder, in pellets", "number": "0028", "class": "1"}
+{
+  "number": "0028",
+  "description": "BLACK POWDER (GUNPOWDER), COMPRESSED or BLACK POWDER (GUNPOWDER), IN PELLETS",
+  "class": "1",
+  "classCode": "1.1D",
+  "tunnel": "1 (B1000C)"
+}

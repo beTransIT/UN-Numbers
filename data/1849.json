@@ -1,1 +1,7 @@
-{"description": "Sodium sulfide, hydrated with not less than 30 percent water", "number": "1849", "class": "6.1"}
+{
+  "number": "1849",
+  "description": "SODIUM SULPHIDE, HYDRATED with not less than 30 % water",
+  "class": "8",
+  "classCode": "C6",
+  "tunnel": "2 (E)"
+}

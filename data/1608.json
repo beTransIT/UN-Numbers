@@ -1,1 +1,7 @@
-{"description": "Ferrous arsenate", "number": "1608", "class": "6.1"}
+{
+  "number": "1608",
+  "description": "FERROUS ARSENATE",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (D/E)"
+}

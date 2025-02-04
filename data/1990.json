@@ -1,1 +1,7 @@
-{"description": "Benzaldehyde", "number": "1990", "class": "9"}
+{
+  "number": "1990",
+  "description": "BENZALDEHYDE",
+  "class": "9",
+  "classCode": "M11",
+  "tunnel": "3 (E)"
+}

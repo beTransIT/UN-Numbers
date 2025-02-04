@@ -1,1 +1,7 @@
-{"description": "Pesticides, liquid, flammable, toxic, flashpoint less than 23\u00b0C", "number": "3021", "class": "3"}
+{
+  "number": "3021",
+  "description": "PESTICIDE, LIQUID, FLAMMABLE, TOXIC, N.O.S., flash- point less than 23 °C",
+  "class": "3",
+  "classCode": "FT2",
+  "tunnel": "2 (D/E)"
+}

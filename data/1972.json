@@ -1,1 +1,7 @@
-{"description": "Methane, refrigerated liquid (cryogenic liquid) or Natural gas, refrigerated liquid (cryogenic liquid), with high methane content", "number": "1972", "class": "2"}
+{
+  "number": "1972",
+  "description": "METHANE, REFRIGERATED LIQUID or NATURAL GAS, REFRIGERATED LIQUID with high methane content",
+  "class": "2",
+  "classCode": "3F",
+  "tunnel": "2 (B/D)"
+}

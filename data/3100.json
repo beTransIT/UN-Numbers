@@ -1,1 +1,7 @@
-{"description": "Oxidizing solid, self-heating, n.o.s.", "number": "3100", "class": "5.1"}
+{
+  "number": "3100",
+  "description": "OXIDIZING SOLID, SELF- HEATING, N.O.S.",
+  "class": "5.1",
+  "classCode": "OS",
+  "tunnel": "None"
+}

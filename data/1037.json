@@ -1,1 +1,7 @@
-{"description": "Ethyl chloride", "number": "1037", "class": "2"}
+{
+  "number": "1037",
+  "description": "ETHYL CHLORIDE",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

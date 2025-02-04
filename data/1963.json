@@ -1,1 +1,7 @@
-{"description": "Helium, refrigerated liquid (cryogenic liquid)", "number": "1963", "class": "2"}
+{
+  "number": "1963",
+  "description": "HELIUM, REFRIGERATED LIQUID",
+  "class": "2",
+  "classCode": "3A",
+  "tunnel": "3 (C/E)"
+}

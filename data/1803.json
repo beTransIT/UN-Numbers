@@ -1,1 +1,7 @@
-{"description": "Phenolsulfonic acid, liquid", "number": "1803", "class": "8"}
+{
+  "number": "1803",
+  "description": "PHENOLSULPHONIC ACID, LIQUID",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

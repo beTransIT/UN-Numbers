@@ -1,1 +1,7 @@
-{"description": "Bromotrifluoromethane or Refrigerant gas, R 13B1", "number": "1009", "class": "2"}
+{
+  "number": "1009",
+  "description": "BROMOTRIFLUORO-METHANE (REFRIGERANT GAS R 13B1)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Clinical waste, unspecified, n.o.s. or (Bio)medical waste, n.o.s. or Regulated medical waste, n.o.s", "number": "3291", "class": "6.2"}
+{
+  "number": "3291",
+  "description": "CLINICAL WASTE, UNSPECIFIED, N.O.S. or (BIO) MEDICAL WASTE, N.O.S. or REGULATED MEDICAL WASTE, N.O.S., in refrigerated liquid nitrogen",
+  "class": "6.2",
+  "classCode": "I3",
+  "tunnel": "2 (-)"
+}

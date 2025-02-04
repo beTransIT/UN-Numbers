@@ -1,1 +1,7 @@
-{"description": "Diphenylmethyl bromide", "number": "1770", "class": "8"}
+{
+  "number": "1770",
+  "description": "DIPHENYLMETHYL BROMIDE",
+  "class": "8",
+  "classCode": "C10",
+  "tunnel": "2 (E)"
+}

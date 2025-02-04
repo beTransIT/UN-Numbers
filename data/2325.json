@@ -1,1 +1,7 @@
-{"description": "1,3,5-Trimethylbenzene", "number": "2325", "class": "3"}
+{
+  "number": "2325",
+  "description": "1,3,5-TRIMETHYLBENZENE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

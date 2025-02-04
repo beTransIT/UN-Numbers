@@ -1,1 +1,7 @@
-{"description": "Trimethyl borate", "number": "2416", "class": "3"}
+{
+  "number": "2416",
+  "description": "TRIMETHYL BORATE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

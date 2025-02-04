@@ -1,1 +1,7 @@
-{"description": "Camphor oil", "number": "1130", "class": "3"}
+{
+  "number": "1130",
+  "description": "CAMPHOR OIL",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

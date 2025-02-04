@@ -1,1 +1,7 @@
-{"description": "Hypochlorite solutions", "number": "1791", "class": "8"}
+{
+  "number": "1791",
+  "description": "HYPOCHLORITE SOLUTION",
+  "class": "8",
+  "classCode": "C9",
+  "tunnel": "3 (E)"
+}

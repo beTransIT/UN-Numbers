@@ -1,1 +1,7 @@
-{"description": "Sodium permanganate", "number": "1503", "class": "5.1"}
+{
+  "number": "1503",
+  "description": "SODIUM PERMANGANATE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "2 (E)"
+}

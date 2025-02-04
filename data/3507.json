@@ -1,1 +1,7 @@
-{"description": "Uranium hexafluoride, radioactive material, excepted package, less than 0.1 kg per package, non-fissile or fissile excepted", "number": "3507", "class": "6.1"} 
+{
+  "number": "3507",
+  "description": "URANIUM HEXAFLUORIDE, RADIOACTIVE MATERIAL, EXCEPTED PACKAGE, less than 0.1 kg per package, non-fissile or fissile-excepted",
+  "class": "6.1",
+  "classCode": "",
+  "tunnel": "1 (D)"
+}

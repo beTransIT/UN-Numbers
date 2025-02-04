@@ -1,1 +1,7 @@
-{"description": "Fumigated unit", "number": "3359", "class": "9"}
+{
+  "number": "3359",
+  "description": "FUMIGATED CARGO TRANSPORT UNIT",
+  "class": "9",
+  "classCode": "M11",
+  "tunnel": "- (-)"
+}

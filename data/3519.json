@@ -1,1 +1,7 @@
-{"description": "Boron trifluoride, adsorbed", "number": "3519", "class": "2.3"} 
+{
+  "number": "3519",
+  "description": "BORON TRIFLUORIDE, ADSORBED",
+  "class": "2",
+  "classCode": "9TC",
+  "tunnel": "1 (D)"
+}

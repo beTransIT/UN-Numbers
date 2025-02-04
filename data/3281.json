@@ -1,1 +1,7 @@
-{"description": "Metal carbonyls, liquid, n.o.s.", "number": "3281", "class": "6.1"}
+{
+  "number": "3281",
+  "description": "METAL CARBONYLS, LIQUID, N.O.S.",
+  "class": "6.1",
+  "classCode": "T3",
+  "tunnel": "2 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Chloroacetic acid, molten", "number": "3250", "class": "6.1"}
+{
+  "number": "3250",
+  "description": "CHLOROACETIC ACID, MOLTEN",
+  "class": "6.1",
+  "classCode": "TC1",
+  "tunnel": "0 (D/E)"
+}

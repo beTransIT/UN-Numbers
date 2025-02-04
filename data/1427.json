@@ -1,1 +1,7 @@
-{"description": "Sodium hydride", "number": "1427", "class": "4.3"}
+{
+  "number": "1427",
+  "description": "SODIUM HYDRIDE",
+  "class": "4.3",
+  "classCode": "W2",
+  "tunnel": "1 (E)"
+}

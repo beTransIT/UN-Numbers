@@ -1,1 +1,7 @@
-{"description": "Fertilizer ammoniating solution with free ammonia", "number": "1043", "class": "2"}
+{
+  "number": "1043",
+  "description": "FERTILIZER AMMONIATING SOLUTION with free ammonia",
+  "class": "2",
+  "classCode": "4A",
+  "tunnel": "- (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Adiponitrile", "number": "2205", "class": "6.1"}
+{
+  "number": "2205",
+  "description": "ADIPONITRILE",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

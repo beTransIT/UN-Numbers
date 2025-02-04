@@ -1,1 +1,7 @@
-{"description": "Molybdenum pentachloride", "number": "2508", "class": "8"}
+{
+  "number": "2508",
+  "description": "MOLYBDENUM PENTACHLORIDE",
+  "class": "8",
+  "classCode": "C2",
+  "tunnel": "3 (E)"
+}

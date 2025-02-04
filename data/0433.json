@@ -1,1 +1,7 @@
-{"description": "Powder cake, wetted or Powder paste, wetted with not less than 17 percent alcohol by mass", "number": "0433", "class": "1"}
+{
+  "number": "0433",
+  "description": "POWDER CAKE (POWDER PASTE), WETTED with not less than 17 % alcohol, by mass",
+  "class": "1",
+  "classCode": "1.1C",
+  "tunnel": "1 (B1000C)"
+}

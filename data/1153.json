@@ -1,1 +1,7 @@
-{"description": "Ethylene glycol diethyl ether", "number": "1153", "class": "3"}
+{
+  "number": "1153",
+  "description": "ETHYLENE GLYCOL DIETHYL ETHER",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Magnesium fluorosilicate", "number": "2853", "class": "6.1"}
+{
+  "number": "2853",
+  "description": "MAGNESIUM FLUOROSILICATE",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (E)"
+}

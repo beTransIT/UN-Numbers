@@ -1,1 +1,7 @@
-{"description": "Radioactive material, excepted package -- empty packaging", "number": "2908", "class": "7"}
+{
+  "number": "2908",
+  "description": "RADIOACTIVE MATERIAL, EXCEPTED PACKAGE - EMPTY PACKAGING",
+  "class": "7",
+  "classCode": "",
+  "tunnel": "4 (-)"
+}

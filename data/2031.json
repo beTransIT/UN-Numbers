@@ -1,1 +1,7 @@
-{"description": "Nitric acid other than red fuming, with more than 70 percent nitric acid or Nitric acid other than red fuming, with not more than 70 percent nitric acid", "number": "2031", "class": "8"}
+{
+  "number": "2031",
+  "description": "NITRIC ACID, other than red fuming, with less than 65 % nitric acid",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "2 (E)"
+}

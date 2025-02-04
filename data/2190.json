@@ -1,1 +1,7 @@
-{"description": "Oxygen difluoride, compressed", "number": "2190", "class": "2"}
+{
+  "number": "2190",
+  "description": "OXYGEN DIFLUORIDE, COMPRESSED",
+  "class": "2",
+  "classCode": "1TOC",
+  "tunnel": "1 (D)"
+}

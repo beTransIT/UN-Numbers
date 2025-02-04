@@ -1,1 +1,7 @@
-{"description": "Methyltrichlorosilane", "number": "1250", "class": "3"}
+{
+  "number": "1250",
+  "description": "METHYLTRICHLORO-SILANE",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "2 (D/E)"
+}

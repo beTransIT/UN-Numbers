@@ -1,1 +1,7 @@
-{"description": "Dimethyl carbonate", "number": "1161", "class": "3"}
+{
+  "number": "1161",
+  "description": "DIMETHYL CARBONATE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

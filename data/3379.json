@@ -1,1 +1,7 @@
-{"description": "Desensitized explosive, liquid, n.o.s.", "number": "3379", "class": "3"}
+{
+  "number": "3379",
+  "description": "DESENSITIZED EXPLOSIVE, LIQUID, N.O.S.",
+  "class": "3",
+  "classCode": "D",
+  "tunnel": "1 (B)"
+}

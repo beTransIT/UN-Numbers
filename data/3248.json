@@ -1,1 +1,7 @@
-{"description": "Medicine, liquid, flammable, toxic, n.o.s.", "number": "3248", "class": "3"}
+{
+  "number": "3248",
+  "description": "MEDICINE, LIQUID, FLAMMABLE, TOXIC, N.O.S.",
+  "class": "3",
+  "classCode": "FT1",
+  "tunnel": "3 (D/E)"
+}

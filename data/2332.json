@@ -1,1 +1,7 @@
-{"description": "Acetaldehyde oxime", "number": "2332", "class": "3"}
+{
+  "number": "2332",
+  "description": "ACETALDEHYDE OXIME",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

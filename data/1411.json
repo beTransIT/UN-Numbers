@@ -1,1 +1,7 @@
-{"description": "Lithium aluminium hydride, ethereal", "number": "1411", "class": "4.3"}
+{
+  "number": "1411",
+  "description": "LITHIUM ALUMINIUM HYDRIDE, ETHEREAL",
+  "class": "4.3",
+  "classCode": "WF1",
+  "tunnel": "1 (E)"
+}

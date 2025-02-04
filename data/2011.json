@@ -1,1 +1,7 @@
-{"description": "Magnesium phosphide", "number": "2011", "class": "4.3"}
+{
+  "number": "2011",
+  "description": "MAGNESIUM PHOSPHIDE",
+  "class": "4.3",
+  "classCode": "WT2",
+  "tunnel": "1 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Trifluoromethane or Refrigerant gas R 23", "number": "1984", "class": "2"}
+{
+  "number": "1984",
+  "description": "TRIFLUOROMETHANE (REFRIGERANT GAS R 23)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Acetone oils", "number": "1091", "class": "3"}
+{
+  "number": "1091",
+  "description": "ACETONE OILS",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

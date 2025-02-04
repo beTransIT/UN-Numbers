@@ -1,1 +1,7 @@
-{"description": "Engine, internal combustion, flammable gas powered or engine, fuel cell, flammable gas powered or machinery, internal combustion, flammable gas powered or machinery, fuel cell, flammable gas powered", "number": "3529", "class": "2.1"} 
+{
+  "number": "3529",
+  "description": "ENGINE, INTERNAL COMBUSTION, FLAMMABLE GAS POWERED or ENGINE, FUEL CELL, FLAMMABLE GAS POWERED or MACHINERY, INTERNAL COMBUSTION, FLAMMABLE GAS POWERED or MACHINERY, FUEL CELL, FLAMMABLE GAS POWERED",
+  "class": "2",
+  "classCode": "6F",
+  "tunnel": "- (B)"
+}

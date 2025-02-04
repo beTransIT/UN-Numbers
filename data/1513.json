@@ -1,1 +1,7 @@
-{"description": "Zinc chlorate", "number": "1513", "class": "5.1"}
+{
+  "number": "1513",
+  "description": "ZINC CHLORATE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "2 (E)"
+}

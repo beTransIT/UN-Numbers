@@ -1,1 +1,7 @@
-{"description": "Radioactive material, surface contaminated object or Radioactive material, SCO", "number": "2913", "class": "7"}
+{
+  "number": "2913",
+  "description": "RADIOACTIVE MATERIAL, SURFACE CONTAMINATED OBJECTS (SCO-I, SCO-II or SCO- III), non fissile or fissile-excepted",
+  "class": "7",
+  "classCode": "",
+  "tunnel": "0 (E)"
+}

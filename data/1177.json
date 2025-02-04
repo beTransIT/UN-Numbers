@@ -1,1 +1,7 @@
-{"description": "2-Ethylbutyl acetate", "number": "1177", "class": "3"}
+{
+  "number": "1177",
+  "description": "2-ETHYLBUTYL ACETATE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Polymeric beads, expandable, evolving flammable vapor", "number": "2211", "class": "9"}
+{
+  "number": "2211",
+  "description": "POLYMERIC BEADS, EXPANDABLE, evolving flammable vapour",
+  "class": "9",
+  "classCode": "M3",
+  "tunnel": "3 (D/E)"
+}

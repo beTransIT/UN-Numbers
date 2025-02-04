@@ -1,1 +1,7 @@
-{"description": "Dinitrogen tetroxide", "number": "1067", "class": "2"}
+{
+  "number": "1067",
+  "description": "DINITROGEN TETROXIDE (NITROGEN DIOXIDE)",
+  "class": "2",
+  "classCode": "2TOC",
+  "tunnel": "1 (C/D)"
+}

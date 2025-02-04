@@ -1,1 +1,7 @@
-{"description": "Allyl glycidyl ether", "number": "2219", "class": "3"}
+{
+  "number": "2219",
+  "description": "ALLYL GLYCIDYL ETHER",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

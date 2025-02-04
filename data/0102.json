@@ -1,1 +1,7 @@
-{"description": "Cord detonating or Fuse detonating metal clad", "number": "0102", "class": "1"}
+{
+  "number": "0102",
+  "description": "CORD (FUSE), DETONATING, metal clad",
+  "class": "1",
+  "classCode": "1.2D",
+  "tunnel": "1 (B1000C)"
+}

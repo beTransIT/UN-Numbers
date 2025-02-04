@@ -1,1 +1,7 @@
-{"description": "Allylamine", "number": "2334", "class": "6.1"}
+{
+  "number": "2334",
+  "description": "ALLYLAMINE",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "1 (C/D)"
+}

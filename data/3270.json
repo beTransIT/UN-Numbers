@@ -1,1 +1,7 @@
-{"description": "Nitrocellulose membrane filters", "number": "3270", "class": "4.1"}
+{
+  "number": "3270",
+  "description": "NITROCELLULOSE MEMBRANE FILTERS, with not more than 12.6 % nitrogen, by dry mass",
+  "class": "4.1",
+  "classCode": "F1",
+  "tunnel": "2 (E)"
+}

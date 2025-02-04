@@ -1,1 +1,7 @@
-{"description": "Methyl trichloroacetate", "number": "2533", "class": "6.1"}
+{
+  "number": "2533",
+  "description": "METHYL TRICHLOROACETATE",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

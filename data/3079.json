@@ -1,1 +1,7 @@
-{"description": "Methacrylonitrile, inhibited", "number": "3079", "class": "3"}
+{
+  "number": "3079",
+  "description": "METHACRYLONITRILE, STABILIZED",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "1 (C/D)"
+}

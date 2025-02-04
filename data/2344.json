@@ -1,1 +1,7 @@
-{"description": "Bromopropanes or 2-Bromopropanes", "number": "2344", "class": "3"}
+{
+  "number": "2344",
+  "description": "BROMOPROPANES",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "beta-Naphthylamine", "number": "1650", "class": "6.1"}
+{
+  "number": "1650",
+  "description": "beta-NAPHTHYLAMINE, SOLID",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Components, explosive train, n.o.s.", "number": "0383", "class": "1"}
+{
+  "number": "0383",
+  "description": "COMPONENTS, EXPLOSIVE TRAIN, N.O.S.",
+  "class": "1",
+  "classCode": "1.4B",
+  "tunnel": "2 (E)"
+}

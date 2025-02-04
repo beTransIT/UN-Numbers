@@ -1,1 +1,7 @@
-{"description": "Amyl acetates", "number": "1104", "class": "3"}
+{
+  "number": "1104",
+  "description": "AMYL ACETATES",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

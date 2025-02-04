@@ -1,1 +1,7 @@
-{"description": "Articles containing organic peroxide, not otherwise specified", "number": "3545", "class": "5.2"} 
+{
+  "number": "3545",
+  "description": "ARTICLES CONTAINING ORGANIC PEROXIDE, N.O.S.",
+  "class": "5.2",
+  "classCode": "P1 or P2",
+  "tunnel": "4 (E)"
+}

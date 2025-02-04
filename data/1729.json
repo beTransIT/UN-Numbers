@@ -1,1 +1,7 @@
-{"description": "Anisoyl chloride", "number": "1729", "class": "8"}
+{
+  "number": "1729",
+  "description": "ANISOYL CHLORIDE",
+  "class": "8",
+  "classCode": "C4",
+  "tunnel": "2 (E)"
+}

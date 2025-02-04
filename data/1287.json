@@ -1,1 +1,7 @@
-{"description": "Rubber solution", "number": "1287", "class": "3"}
+{
+  "number": "1287",
+  "description": "RUBBER SOLUTION (having a flash- point below 23 °C and viscous according to 2.2.3.1.4) (vapour pressure at 50 °C not more than 110 kPa)",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (E)"
+}

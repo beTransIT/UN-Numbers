@@ -1,1 +1,7 @@
-{"description": "Diethylenetriamine", "number": "2079", "class": "8"}
+{
+  "number": "2079",
+  "description": "DIETHYLENETRIAMINE",
+  "class": "8",
+  "classCode": "C7",
+  "tunnel": "2 (E)"
+}

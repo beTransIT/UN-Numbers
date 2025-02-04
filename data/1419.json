@@ -1,1 +1,7 @@
-{"description": "Magnesium aluminium phosphide", "number": "1419", "class": "4.3"}
+{
+  "number": "1419",
+  "description": "MAGNESIUM ALUMINIUM PHOSPHIDE",
+  "class": "4.3",
+  "classCode": "WT2",
+  "tunnel": "1 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Allyl bromide", "number": "1099", "class": ""}
+{
+  "number": "1099",
+  "description": "ALLYL BROMIDE",
+  "class": "3",
+  "classCode": "FT1",
+  "tunnel": "1 (C/E)"
+}

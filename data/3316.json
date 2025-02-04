@@ -1,1 +1,7 @@
-{"description": "Chemical kit or First Aid kit containing dangerous goods", "number": "3316", "class": "9"}
+{
+  "number": "3316",
+  "description": "CHEMICAL KIT or FIRST AID KIT",
+  "class": "9",
+  "classCode": "M11",
+  "tunnel": "See SP 671 (E)"
+}

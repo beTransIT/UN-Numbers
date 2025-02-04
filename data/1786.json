@@ -1,1 +1,7 @@
-{"description": "Hydrofluoric acid and Sulfuric acid mixtures", "number": "1786", "class": "8"}
+{
+  "number": "1786",
+  "description": "HYDROFLUORIC ACID AND SULPHURIC ACID MIXTURE",
+  "class": "8",
+  "classCode": "CT1",
+  "tunnel": "1 (C/D)"
+}

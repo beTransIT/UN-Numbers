@@ -1,1 +1,7 @@
-{"description": "Guanyl nitrosaminoguanyltetrazene, wetted or Tetrazene, wetted with not less than 30 percent water or mixture of alcohol and water, by mass", "number": "0114", "class": "1"}
+{
+  "number": "0114",
+  "description": "GUANYLNITROSAMINO- GUANYLTETRAZENE (TETRAZENE), WETTED with not less than 30 % water, or mixture of alcohol and water, by mass",
+  "class": "1",
+  "classCode": "1.1A",
+  "tunnel": "0 (B)"
+}

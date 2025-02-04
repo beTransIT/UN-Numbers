@@ -1,1 +1,7 @@
-{"description": "Silicon powder, amorphous", "number": "1346", "class": "4.1"}
+{
+  "number": "1346",
+  "description": "SILICON POWDER, AMORPHOUS",
+  "class": "4.1",
+  "classCode": "F3",
+  "tunnel": "3 (E)"
+}

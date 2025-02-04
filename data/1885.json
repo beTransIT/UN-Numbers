@@ -1,1 +1,7 @@
-{"description": "Benzidine", "number": "1885", "class": "6.1"}
+{
+  "number": "1885",
+  "description": "BENZIDINE",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (D/E)"
+}

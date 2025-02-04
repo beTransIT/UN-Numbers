@@ -1,1 +1,7 @@
-{"description": "Carbon dioxide", "number": "1013", "class": "2"}
+{
+  "number": "1013",
+  "description": "CARBON DIOXIDE",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

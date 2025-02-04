@@ -1,1 +1,7 @@
-{"description": "Trifluoroacetyl chloride", "number": "3057", "class": "2"}
+{
+  "number": "3057",
+  "description": "TRIFLUOROACETYL CHLORIDE",
+  "class": "2",
+  "classCode": "2TC",
+  "tunnel": "1 (C/D)"
+}

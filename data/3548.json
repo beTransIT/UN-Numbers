@@ -1,1 +1,7 @@
-{"description": "Articles containing miscellaneous dangerous goods, not otherwise specified", "number": "3548", "class": "9"} 
+{
+  "number": "3548",
+  "description": "ARTICLES CONTAINING MISCELLANEOUS DANGEROUS GOODS, N.O.S.",
+  "class": "9",
+  "classCode": "M11",
+  "tunnel": "4 (E)"
+}

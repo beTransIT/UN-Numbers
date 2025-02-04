@@ -1,1 +1,7 @@
-{"description": "Phosgene", "number": "1076", "class": "2"}
+{
+  "number": "1076",
+  "description": "PHOSGENE",
+  "class": "2",
+  "classCode": "2TC",
+  "tunnel": "1 (C/D)"
+}

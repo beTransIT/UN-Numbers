@@ -1,1 +1,7 @@
-{"description": "Ethylene oxide and tetrafluoroethane mixture with not more than 5.6 percent ethylene oxide", "number": "3299", "class": "2.2"}
+{
+  "number": "3299",
+  "description": "ETHYLENE OXIDE AND TETRAFLUOROETHANE MIXTURE with not more than 5.6 % ethylene oxide",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

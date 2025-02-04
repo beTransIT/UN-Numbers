@@ -1,1 +1,7 @@
-{"description": "Liquefied gas, toxic, oxidising, corrosive, n.o.s.", "number": "3310", "class": "2.3"}
+{
+  "number": "3310",
+  "description": "LIQUEFIED GAS, TOXIC, OXIDIZING, CORROSIVE, N.O.S.",
+  "class": "2",
+  "classCode": "2TOC",
+  "tunnel": "1 (C/D)"
+}

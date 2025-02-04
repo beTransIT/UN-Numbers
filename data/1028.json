@@ -1,1 +1,7 @@
-{"description": "Dichlorodifluoromethane or Refrigerant gas R 12", "number": "1028", "class": "2"}
+{
+  "number": "1028",
+  "description": "DICHLORODIFLUORO-METHANE (REFRIGERANT GAS R 12)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

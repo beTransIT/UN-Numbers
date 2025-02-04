@@ -1,1 +1,7 @@
-{"description": "Butylene see also Petroleum gases, liquefied", "number": "1012", "class": "2"}
+{
+  "number": "1012",
+  "description": "BUTYLENE",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

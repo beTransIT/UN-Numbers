@@ -1,1 +1,7 @@
-{"description": "Phosphorus pentasulfide, free from yellow or white phosphorus", "number": "1340", "class": "4.3"}
+{
+  "number": "1340",
+  "description": "PHOSPHORUS PENTASULPHIDE, free from yellow and white phosphorus",
+  "class": "4.3",
+  "classCode": "WF2",
+  "tunnel": "0 (D/E)"
+}

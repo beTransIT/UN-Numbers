@@ -1,1 +1,7 @@
-{"description": "Dinitro-o-cresol, solid or Dintro-o-cresol, solution", "number": "1598", "class": "6.1"}
+{
+  "number": "1598",
+  "description": "DINITRO-o-CRESOL",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (D/E)"
+}

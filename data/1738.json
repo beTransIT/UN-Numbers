@@ -1,1 +1,7 @@
-{"description": "Benzyl chloride or Benzyl chloride unstabilized", "number": "1738", "class": "6.1"}
+{
+  "number": "1738",
+  "description": "BENZYL CHLORIDE",
+  "class": "6.1",
+  "classCode": "TC1",
+  "tunnel": "2 (D/E)"
+}

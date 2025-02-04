@@ -1,1 +1,7 @@
-{"description": "Mercury potassium iodide", "number": "1643", "class": "6.1"}
+{
+  "number": "1643",
+  "description": "MERCURY POTASSIUM IODIDE",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (D/E)"
+}

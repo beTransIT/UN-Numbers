@@ -1,1 +1,7 @@
-{"description": "Diphenyldichlorosilane", "number": "1769", "class": "8"}
+{
+  "number": "1769",
+  "description": "DIPHENYLDICHLORO-SILANE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

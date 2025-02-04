@@ -1,1 +1,7 @@
-{"description": "Diphenylamine chloroarsine", "number": "1698", "class": "6.1"}
+{
+  "number": "1698",
+  "description": "DIPHENYLAMINE CHLOROARSINE",
+  "class": "6.1",
+  "classCode": "T3",
+  "tunnel": "1 (C/E)"
+}

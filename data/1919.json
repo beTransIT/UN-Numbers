@@ -1,1 +1,7 @@
-{"description": "Methyl acrylate, inhibited", "number": "1919", "class": "3"}
+{
+  "number": "1919",
+  "description": "METHYL ACRYLATE, STABILIZED",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

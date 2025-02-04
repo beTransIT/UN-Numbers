@@ -1,1 +1,7 @@
-{"description": "Cyclohexyltrichlorosilane", "number": "1763", "class": "8"}
+{
+  "number": "1763",
+  "description": "CYCLOHEXYLTRICHLORO- SILANE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

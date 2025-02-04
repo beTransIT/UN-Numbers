@@ -1,1 +1,7 @@
-{"description": "Phosphorus pentoxide", "number": "1807", "class": "8"}
+{
+  "number": "1807",
+  "description": "PHOSPHORUS PENTOXIDE",
+  "class": "8",
+  "classCode": "C2",
+  "tunnel": "2 (E)"
+}

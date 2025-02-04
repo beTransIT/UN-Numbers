@@ -1,1 +1,7 @@
-{"description": "n-Butylamine", "number": "1125", "class": "3"}
+{
+  "number": "1125",
+  "description": "n-BUTYLAMINE",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "2 (D/E)"
+}

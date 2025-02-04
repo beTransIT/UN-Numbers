@@ -1,1 +1,7 @@
-{"description": "Toxic, liquids, organic, n.o.s. or Toxic, liquids, organic, n.o.s. Inhalation Hazard, Packing Group I, Zone A or B", "number": "2810", "class": "6.1"}
+{
+  "number": "2810",
+  "description": "TOXIC LIQUID, ORGANIC, N.O.S.",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "2,3-Dimethylbutane", "number": "2457", "class": "3"}
+{
+  "number": "2457",
+  "description": "2,3-DIMETHYLBUTANE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

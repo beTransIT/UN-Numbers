@@ -1,1 +1,7 @@
-{"description": "Methyl butyrate", "number": "1237", "class": "3"}
+{
+  "number": "1237",
+  "description": "METHYL BUTYRATE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

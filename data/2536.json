@@ -1,1 +1,7 @@
-{"description": "Methyltetrahydrofuran", "number": "2536", "class": "3"}
+{
+  "number": "2536",
+  "description": "METHYLTETRAHYDRO-FURAN",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

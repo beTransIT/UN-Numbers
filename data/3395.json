@@ -1,1 +1,7 @@
-{"description": "Organometallic substance, solid, water-reactive", "number": "3395", "class": "4.3"}
+{
+  "number": "3395",
+  "description": "ORGANOMETALLIC SUBSTANCE, SOLID, WATER- REACTIVE",
+  "class": "4.3",
+  "classCode": "W2",
+  "tunnel": "3 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Trinitrotoluene and Trinitrobenzene mixtures or TNT and trinitrobenzene mixtures or TNT and hexanitrostilbene mixtures or Trinitrotoluene and hexanitrostilbene mixtures", "number": "0388", "class": "1"}
+{
+  "number": "0388",
+  "description": "TRINITROTOLUENE (TNT) AND TRINITROBENZENE MIXTURE or TRINITROTOLUENE (TNT) AND HEXANITROSTILBENE MIXTURE",
+  "class": "1",
+  "classCode": "1.1D",
+  "tunnel": "1 (B1000C)"
+}

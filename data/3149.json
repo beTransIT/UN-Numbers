@@ -1,1 +1,7 @@
-{"description": "Hydrogen peroxide and peroxyacetic acid mixtures, stabilized, with acids, water, and not more than 5 percent peroxyacetic acid", "number": "3149", "class": "5.1"}
+{
+  "number": "3149",
+  "description": "HYDROGEN PEROXIDE AND PEROXYACETIC ACID MIXTURE with acid(s), water and not more than 5 % peroxyacetic acid, STABILIZED",
+  "class": "5.1",
+  "classCode": "OC1",
+  "tunnel": "2 (E)"
+}

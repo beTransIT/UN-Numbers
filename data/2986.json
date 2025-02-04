@@ -1,1 +1,7 @@
-{"description": "Chlorosilanes, corrosive, flammable, n.o.s.", "number": "2986", "class": "3"}
+{
+  "number": "2986",
+  "description": "CHLOROSILANES, CORROSIVE, FLAMMABLE, N.O.S.",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "2 (D/E)"
+}

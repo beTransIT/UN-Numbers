@@ -1,1 +1,7 @@
-{"description": "Benzenesulfonyl chloride", "number": "2225", "class": "8"}
+{
+  "number": "2225",
+  "description": "BENZENESULPHONYL CHLORIDE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "3 (E)"
+}

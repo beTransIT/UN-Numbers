@@ -1,1 +1,7 @@
-{"description": "Vanadium oxytrichloride", "number": "2443", "class": "8"}
+{
+  "number": "2443",
+  "description": "VANADIUM OXYTRICHLORIDE",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "2 (E)"
+}

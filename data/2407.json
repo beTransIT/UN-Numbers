@@ -1,1 +1,7 @@
-{"description": "Isopropyl chloroformate", "number": "2407", "class": "6.1"}
+{
+  "number": "2407",
+  "description": "ISOPROPYL CHLOROFORMATE",
+  "class": "6.1",
+  "classCode": "TFC",
+  "tunnel": "1 (D)"
+}

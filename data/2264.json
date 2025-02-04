@@ -1,1 +1,7 @@
-{"description": "Dimethylcyclohexlamine", "number": "2264", "class": "8"}
+{
+  "number": "2264",
+  "description": "N,N-DIMETHYL- CYCLOHEXYLAMINE",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "2 (D/E)"
+}

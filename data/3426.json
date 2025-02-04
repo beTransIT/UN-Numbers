@@ -1,1 +1,7 @@
-{"description": "Acrylamide solution", "number": "3426", "class": "6.1"}
+{
+  "number": "3426",
+  "description": "ACRYLAMIDE SOLUTION",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

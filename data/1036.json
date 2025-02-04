@@ -1,1 +1,7 @@
-{"description": "Ethylamine", "number": "1036", "class": "2"}
+{
+  "number": "1036",
+  "description": "ETHYLAMINE",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

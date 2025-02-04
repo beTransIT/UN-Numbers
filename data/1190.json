@@ -1,1 +1,7 @@
-{"description": "Ethyl formate", "number": "1190", "class": "3"}
+{
+  "number": "1190",
+  "description": "ETHYL FORMATE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

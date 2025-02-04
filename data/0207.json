@@ -1,1 +1,7 @@
-{"description": "Tetranitroaniline", "number": "0207", "class": "1"}
+{
+  "number": "0207",
+  "description": "TETRANITROANILINE",
+  "class": "1",
+  "classCode": "1.1D",
+  "tunnel": "1 (B1000C)"
+}

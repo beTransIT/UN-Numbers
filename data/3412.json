@@ -1,1 +1,7 @@
-{"description": "Formic acid a. with not less than 10% but not more than 85% acid by mass, or, b. with not less than 5% but not more than 10% acid by mass", "number": "3412", "class": "8"}
+{
+  "number": "3412",
+  "description": "FORMIC ACID with not less than 5 % but less than 10 % acid by mass",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "3 (E)"
+}

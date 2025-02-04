@@ -1,1 +1,7 @@
-{"description": "Insecticide gases, n.o.s.", "number": "1968", "class": "2"}
+{
+  "number": "1968",
+  "description": "INSECTICIDE GAS, N.O.S.",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

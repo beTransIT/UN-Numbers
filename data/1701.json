@@ -1,1 +1,7 @@
-{"description": "Xylyl bromide, liquid", "number": "1701", "class": "6.1"}
+{
+  "number": "1701",
+  "description": "XYLYL BROMIDE, LIQUID",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (D/E)"
+}

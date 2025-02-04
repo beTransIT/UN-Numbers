@@ -1,1 +1,7 @@
-{"description": "Sulfurous acid", "number": "1833", "class": "8"}
+{
+  "number": "1833",
+  "description": "SULPHUROUS ACID",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "2 (E)"
+}

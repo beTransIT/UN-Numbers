@@ -1,1 +1,7 @@
-{"description": "Phosphorus pentabromide", "number": "2691", "class": "8"}
+{
+  "number": "2691",
+  "description": "PHOSPHORUS PENTABROMIDE",
+  "class": "8",
+  "classCode": "C2",
+  "tunnel": "2 (E)"
+}

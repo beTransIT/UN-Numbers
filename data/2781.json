@@ -1,1 +1,7 @@
-{"description": "Bipyridilium pesticides, solid, toxic", "number": "2781", "class": "6.1"}
+{
+  "number": "2781",
+  "description": "BIPYRIDILIUM PESTICIDE, SOLID, TOXIC",
+  "class": "6.1",
+  "classCode": "T7",
+  "tunnel": "2 (E)"
+}

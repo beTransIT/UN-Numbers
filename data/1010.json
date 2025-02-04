@@ -1,1 +1,7 @@
-{"description": "Butadienes, inhibited", "number": "1010", "class": "2"}
+{
+  "number": "1010",
+  "description": "BUTADIENES, STABILIZED or BUTADIENES AND HYDROCARBON MIXTURE, STABILIZED, containing more than 20 % butadienes",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

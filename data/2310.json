@@ -1,1 +1,7 @@
-{"description": "Pentane-2,4-dione", "number": "2310", "class": "3"}
+{
+  "number": "2310",
+  "description": "PENTANE-2,4-DIONE",
+  "class": "3",
+  "classCode": "FT1",
+  "tunnel": "3 (D/E)"
+}

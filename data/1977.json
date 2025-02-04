@@ -1,1 +1,7 @@
-{"description": "Nitrogen, refrigerated liquid cryogenic liquid", "number": "1977", "class": "2"}
+{
+  "number": "1977",
+  "description": "NITROGEN, REFRIGERATED LIQUID",
+  "class": "2",
+  "classCode": "3A",
+  "tunnel": "3 (C/E)"
+}

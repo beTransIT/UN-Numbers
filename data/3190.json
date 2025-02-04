@@ -1,1 +1,7 @@
-{"description": "Self-heating solid, inorganic, n.o.s.", "number": "3190", "class": "4.2"}
+{
+  "number": "3190",
+  "description": "SELF-HEATING SOLID, INORGANIC, N.O.S.",
+  "class": "4.2",
+  "classCode": "S4",
+  "tunnel": "3 (E)"
+}

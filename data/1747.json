@@ -1,1 +1,7 @@
-{"description": "Butyltrichlorosilane", "number": "1747", "class": "8"}
+{
+  "number": "1747",
+  "description": "BUTYLTRICHLOROSILANE",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "2 (D/E)"
+}

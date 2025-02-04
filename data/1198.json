@@ -1,1 +1,7 @@
-{"description": "Formaldehyde, solutions, flammable", "number": "1198", "class": "3"}
+{
+  "number": "1198",
+  "description": "FORMALDEHYDE SOLUTION, FLAMMABLE",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "3 (D/E)"
+}

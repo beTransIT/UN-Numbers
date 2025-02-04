@@ -1,1 +1,7 @@
-{"description": "Amines, solid, corrosive, n.o.s. or Polyamines, solid, corrosive, n.o.s.", "number": "3259", "class": "8"}
+{
+  "number": "3259",
+  "description": "AMINES, SOLID, CORROSIVE, N.O.S. or POLYAMINES, SOLID, CORROSIVE, N.O.S.",
+  "class": "8",
+  "classCode": "C8",
+  "tunnel": "3 (E)"
+}

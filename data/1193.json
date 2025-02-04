@@ -1,1 +1,7 @@
-{"description": "Ethyl methyl ketone or Methyl ethyl ketone", "number": "1193", "class": "3"}
+{
+  "number": "1193",
+  "description": "ETHYL METHYL KETONE (METHYL ETHYL KETONE)",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Nitrocellulose, wetted with not less than 25 percent alcohol, by mass", "number": "0342", "class": "1"}
+{
+  "number": "0342",
+  "description": "NITROCELLULOSE, WETTED with not less than 25 % alcohol, by mass",
+  "class": "1",
+  "classCode": "1.3C",
+  "tunnel": "1 (C5000D)"
+}

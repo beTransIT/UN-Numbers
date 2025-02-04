@@ -1,1 +1,7 @@
-{"description": "Amyl formates", "number": "1109", "class": "3"}
+{
+  "number": "1109",
+  "description": "AMYL FORMATES",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

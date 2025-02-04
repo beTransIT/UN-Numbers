@@ -1,1 +1,7 @@
-{"description": "Alkyl sulfonic acids, liquid or Aryl sulfonic acids, liquid with not more than 5 percent free sulfuric acid", "number": "2586", "class": "8"}
+{
+  "number": "2586",
+  "description": "ALKYLSULPHONIC ACIDS, LIQUID or ARYLSULPHONIC ACIDS, LIQUID with not more than 5 % free sulphuric acid",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "3 (E)"
+}

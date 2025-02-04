@@ -1,1 +1,7 @@
-{"description": "Ethylene dichloride", "number": "1184", "class": "3"}
+{
+  "number": "1184",
+  "description": "ETHYLENE DICHLORIDE",
+  "class": "3",
+  "classCode": "FT1",
+  "tunnel": "2 (D/E)"
+}

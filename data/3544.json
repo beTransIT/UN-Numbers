@@ -1,1 +1,7 @@
-{"description": "Articles containing oxidizing substance, not otherwise specified", "number": "3544", "class": "5.1"} 
+{
+  "number": "3544",
+  "description": "ARTICLES CONTAINING OXIDIZING SUBSTANCE, N.O.S.",
+  "class": "5.1",
+  "classCode": "O3",
+  "tunnel": "4 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Corrosive liquid, self-heating, n.o.s.", "number": "3301", "class": "8"}
+{
+  "number": "3301",
+  "description": "CORROSIVE LIQUID, SELF- HEATING, N.O.S.",
+  "class": "8",
+  "classCode": "CS1",
+  "tunnel": "2 (E)"
+}

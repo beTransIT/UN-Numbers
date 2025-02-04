@@ -1,1 +1,7 @@
-{"description": "Calcium, pyrophoric or Calcium alloys, pyrophoric", "number": "1855", "class": "2"}
+{
+  "number": "1855",
+  "description": "CALCIUM, PYROPHORIC or CALCIUM ALLOYS, PYROPHORIC",
+  "class": "4.2",
+  "classCode": "S4",
+  "tunnel": "0 (E)"
+}

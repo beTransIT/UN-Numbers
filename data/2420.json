@@ -1,1 +1,7 @@
-{"description": "Hexafluoroacetone", "number": "2420", "class": "2"}
+{
+  "number": "2420",
+  "description": "HEXAFLUOROACETONE",
+  "class": "2",
+  "classCode": "2TC",
+  "tunnel": "1 (C/D)"
+}

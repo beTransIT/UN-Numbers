@@ -1,1 +1,7 @@
-{"description": "Carbon tetrabromide", "number": "2516", "class": "6.1"}
+{
+  "number": "2516",
+  "description": "CARBON TETRABROMIDE",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (E)"
+}

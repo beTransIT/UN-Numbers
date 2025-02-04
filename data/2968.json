@@ -1,1 +1,7 @@
-{"description": "Maneb stabilized or Maneb preparations, stabilized against self-heating", "number": "2968", "class": "4.3"}
+{
+  "number": "2968",
+  "description": "MANEB, STABILIZED or MANEB PREPARATION, STABILIZED against self-heating",
+  "class": "4.3",
+  "classCode": "W2",
+  "tunnel": "0 (E)"
+}

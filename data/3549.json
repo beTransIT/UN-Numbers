@@ -1,1 +1,7 @@
-{"description": "Medical waste, category A, affecting humans, solid or Medical waste, category A, affecting animals only, solid", "number": "3549", "class": "6.2"} 
+{
+  "number": "3549",
+  "description": "MEDICAL WASTE, CATEGORY A, AFFECTING HUMANS, solid or MEDICAL WASTE, CATEGORY A, AFFECTING ANIMALS only, solid",
+  "class": "6.2",
+  "classCode": "I3",
+  "tunnel": "0 (-)"
+}

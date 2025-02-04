@@ -1,1 +1,7 @@
-{"description": "Adsorbed gas, not otherwise specified", "number": "3511", "class": "2.2"} 
+{
+  "number": "3511",
+  "description": "ADSORBED GAS, N.O.S.",
+  "class": "2",
+  "classCode": "9A",
+  "tunnel": "3 (E)"
+}

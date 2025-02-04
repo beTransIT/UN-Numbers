@@ -1,1 +1,7 @@
-{"description": "2,2'-Dichlorodiethyl ether", "number": "1916", "class": "6.1"}
+{
+  "number": "1916",
+  "description": "2,2'-DICHLORODIETHYL ETHER",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "2 (D/E)"
+}

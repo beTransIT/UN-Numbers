@@ -1,1 +1,7 @@
-{"description": "Batteries, containing sodium or Cells, containing sodium", "number": "3292", "class": "4.3"}
+{
+  "number": "3292",
+  "description": "BATTERIES, CONTAINING METALLIC SODIUM OR SODIUM ALLOY, or CELLS, CONTAINING METALLIC SODIUM OR SODIUM ALLOY",
+  "class": "4.3",
+  "classCode": "W3",
+  "tunnel": "2 (E)"
+}

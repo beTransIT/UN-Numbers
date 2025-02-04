@@ -1,1 +1,7 @@
-{"description": "Propadiene, inhibited", "number": "2200", "class": "2"}
+{
+  "number": "2200",
+  "description": "PROPADIENE, STABILIZED",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

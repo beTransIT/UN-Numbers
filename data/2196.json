@@ -1,1 +1,7 @@
-{"description": "Tungsten hexafluoride", "number": "2196", "class": "?"}
+{
+  "number": "2196",
+  "description": "TUNGSTEN HEXAFLUORIDE",
+  "class": "2",
+  "classCode": "2TC",
+  "tunnel": "1 (D)"
+}

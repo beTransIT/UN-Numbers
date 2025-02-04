@@ -1,1 +1,7 @@
-{"description": "Dichlorodimethyl ether, symmetrical", "number": "2249", "class": "6.1"}
+{
+  "number": "2249",
+  "description": "DICHLORODIMETHYL ETHER, SYMMETRICAL",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "None"
+}

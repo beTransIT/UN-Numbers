@@ -1,1 +1,7 @@
-{"description": "Paint, corrosive, flammable or Paint related material, corrosive, flammable", "number": "3470", "class": "8"}
+{
+  "number": "3470",
+  "description": "PAINT, CORROSIVE, FLAMMABLE (including paint, lacquer, enamel, stain, shellac, varnish, polish, liquid filler and liquid lacquer base) or PAINT RELATED MATERIAL, CORROSIVE, FLAMMABLE (including paint thinning and reducing compound)",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Trinitrobenzoic acid, wetted, with not less than 10% water by mass", "number": "3368", "class": "4.1"}
+{
+  "number": "3368",
+  "description": "TRINITROBENZOIC ACID, WETTED with not less than 10 % water, by mass",
+  "class": "4.1",
+  "classCode": "D",
+  "tunnel": "1 (B)"
+}

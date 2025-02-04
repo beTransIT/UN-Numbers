@@ -1,1 +1,7 @@
-{"description": "Methylpentadienes", "number": "2461", "class": "3"}
+{
+  "number": "2461",
+  "description": "METHYLPENTADIENE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

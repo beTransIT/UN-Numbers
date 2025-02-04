@@ -1,1 +1,7 @@
-{"description": "Ethane, refrigerated liquid", "number": "1961", "class": "2"}
+{
+  "number": "1961",
+  "description": "ETHANE, REFRIGERATED LIQUID",
+  "class": "2",
+  "classCode": "3F",
+  "tunnel": "2 (B/D)"
+}

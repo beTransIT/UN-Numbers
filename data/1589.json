@@ -1,1 +1,7 @@
-{"description": "Cyanogen chloride, inhibited", "number": "1589", "class": "2"}
+{
+  "number": "1589",
+  "description": "CYANOGEN CHLORIDE, STABILIZED",
+  "class": "2",
+  "classCode": "2TC",
+  "tunnel": "1 (D)"
+}

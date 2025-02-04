@@ -1,1 +1,7 @@
-{"description": "Hydrogen sulfide", "number": "1053", "class": "2"}
+{
+  "number": "1053",
+  "description": "HYDROGEN SULPHIDE",
+  "class": "2",
+  "classCode": "2TF",
+  "tunnel": "1 (B/D)"
+}

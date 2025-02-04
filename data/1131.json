@@ -1,1 +1,7 @@
-{"description": "Carbon disulfide", "number": "1131", "class": "3"}
+{
+  "number": "1131",
+  "description": "CARBON DISULPHIDE",
+  "class": "3",
+  "classCode": "FT1",
+  "tunnel": "1 (C/E)"
+}

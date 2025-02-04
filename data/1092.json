@@ -1,1 +1,7 @@
-{"description": "Acrolein, inhibited", "number": "1092", "class": "6.1"}
+{
+  "number": "1092",
+  "description": "ACROLEIN, STABILIZED",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "1 (C/D)"
+}

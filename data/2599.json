@@ -1,1 +1,7 @@
-{"description": "Chlorotrifluoromethane and trifluoromethane azeotropic mixture or Refrigerant gas R 503 with approximately 60 percent chlorotrifluoromethane", "number": "2599", "class": "2"}
+{
+  "number": "2599",
+  "description": "CHLOROTRIFLUORO-METHANE AND TRIFLUOROMETHANE AZEOTROPIC MIXTURE with approximately 60 % chlorotrifluoromethane (REFRIGERANT GAS R 503)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

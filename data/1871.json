@@ -1,1 +1,7 @@
-{"description": "Titanium hydride", "number": "1871", "class": "5.1"}
+{
+  "number": "1871",
+  "description": "TITANIUM HYDRIDE",
+  "class": "4.1",
+  "classCode": "F3",
+  "tunnel": "2 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Ammonium nitrate, liquid (hot concentrated solution)", "number": "2426", "class": "5.1"}
+{
+  "number": "2426",
+  "description": "AMMONIUM NITRATE, LIQUID (hot concentrated solution)",
+  "class": "5.1",
+  "classCode": "O1",
+  "tunnel": "0 (E)"
+}

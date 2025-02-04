@@ -1,1 +1,7 @@
-{"description": "Cadmium compounds", "number": "2570", "class": "6.1"}
+{
+  "number": "2570",
+  "description": "CADMIUM COMPOUND",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (E)"
+}

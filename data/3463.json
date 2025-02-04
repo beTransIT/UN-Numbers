@@ -1,1 +1,7 @@
-{"description": "Propionic acid with not less than 90% acid by mass", "number": "3463", "class": "8"}
+{
+  "number": "3463",
+  "description": "PROPIONIC ACID with not less than 90 % acid by mass",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "2 (D/E)"
+}

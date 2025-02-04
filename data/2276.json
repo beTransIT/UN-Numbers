@@ -1,1 +1,7 @@
-{"description": "2-Ethylhexylamine", "number": "2276", "class": "3"}
+{
+  "number": "2276",
+  "description": "2-ETHYLHEXYLAMINE",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "3 (D/E)"
+}

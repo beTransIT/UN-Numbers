@@ -1,1 +1,7 @@
-{"description": "Isoprene, inhibited", "number": "1218", "class": "3"}
+{
+  "number": "1218",
+  "description": "ISOPRENE, STABILIZED",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "1 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Methyl isopropenyl ketone, inhibited", "number": "1246", "class": "3"}
+{
+  "number": "1246",
+  "description": "METHYL ISOPROPENYL KETONE, STABILIZED",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Phosphorus trichloride", "number": "1809", "class": "6.1"}
+{
+  "number": "1809",
+  "description": "PHOSPHORUS TRICHLORIDE",
+  "class": "6.1",
+  "classCode": "TC3",
+  "tunnel": "1 (C/D)"
+}

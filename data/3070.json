@@ -1,1 +1,7 @@
-{"description": "Ethylene oxide and dichlorodifluoromethane mixture with not more than 12.5 percent ethylene oxide", "number": "3070", "class": "2.2"}
+{
+  "number": "3070",
+  "description": "ETHYLENE OXIDE AND DICHLORODIFLUORO- METHANE MIXTURE with not more than 12.5 % ethylene oxide",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

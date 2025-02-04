@@ -1,1 +1,7 @@
-{"description": "Selenium oxychloride", "number": "2879", "class": "8"}
+{
+  "number": "2879",
+  "description": "SELENIUM OXYCHLORIDE",
+  "class": "8",
+  "classCode": "CT1",
+  "tunnel": "1 (C/D)"
+}

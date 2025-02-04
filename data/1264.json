@@ -1,1 +1,7 @@
-{"description": "Paraldehyde", "number": "1264", "class": "3"}
+{
+  "number": "1264",
+  "description": "PARALDEHYDE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

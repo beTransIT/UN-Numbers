@@ -1,1 +1,7 @@
-{"description": "Engines, internal combustion, flammable gas powered or Engines, internal combustion, flammable liquid powered or Engines, internal combustion, flammable liquid powered or Vehicle, flammable gas powered or Vehicle, flammable liquid powered", "number": "3166", "class": "9"}
+{
+  "number": "3166",
+  "description": "VEHICLE, FLAMMABLE GAS POWERED or VEHICLE, FLAMMABLE LIQUID POWERED or VEHICLE, FUEL CELL, FLAMMABLE GAS POWERED or VEHICLE, FUEL CELL, FLAMMABLE LIQUID POWERED",
+  "class": "9",
+  "classCode": "M11",
+  "tunnel": "- (-)"
+}

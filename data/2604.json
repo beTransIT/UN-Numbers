@@ -1,1 +1,7 @@
-{"description": "Boron trifluoride diethyl etherate", "number": "2604", "class": "8"}
+{
+  "number": "2604",
+  "description": "BORON TRIFLUORIDE DIETHYL ETHERATE",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "1 (D/E)"
+}

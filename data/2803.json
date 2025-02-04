@@ -1,1 +1,7 @@
-{"description": "Gallium", "number": "2803", "class": "8"}
+{
+  "number": "2803",
+  "description": "GALLIUM",
+  "class": "8",
+  "classCode": "C10",
+  "tunnel": "3 (E)"
+}

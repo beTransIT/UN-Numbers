@@ -1,1 +1,7 @@
-{"description": "Dinitrotoluenes, liquid or Dinitrotoluenes, solid", "number": "2038", "class": "6.1"}
+{
+  "number": "2038",
+  "description": "DINITROTOLUENES, LIQUID",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (D/E)"
+}

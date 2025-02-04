@@ -1,1 +1,7 @@
-{"description": "Sodium nitrate and potassium nitrate mixtures", "number": "1499", "class": "5.1"}
+{
+  "number": "1499",
+  "description": "SODIUM NITRATE AND POTASSIUM NITRATE MIXTURE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "3 (E)"
+}

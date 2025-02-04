@@ -1,1 +1,7 @@
-{"description": "Carbon, animal or vegetable origin", "number": "1361", "class": "4.2"}
+{
+  "number": "1361",
+  "description": "CARBON, animal or vegetable origin",
+  "class": "4.2",
+  "classCode": "S2",
+  "tunnel": "4 (E)"
+}

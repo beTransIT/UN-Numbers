@@ -1,1 +1,7 @@
-{"description": "Xylidines, solid", "number": "3452", "class": "6.1"}
+{
+  "number": "3452",
+  "description": "XYLIDINES, SOLID",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (D/E)"
+}

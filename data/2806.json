@@ -1,1 +1,7 @@
-{"description": "Lithium nitride", "number": "2806", "class": "4.3"}
+{
+  "number": "2806",
+  "description": "LITHIUM NITRIDE",
+  "class": "4.3",
+  "classCode": "W2",
+  "tunnel": "1 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Urea nitrate, wetted, with not less than 10% water by mass", "number": "3370", "class": "4.1"}
+{
+  "number": "3370",
+  "description": "UREA NITRATE, WETTED with not less than 10 % water, by mass",
+  "class": "4.1",
+  "classCode": "D",
+  "tunnel": "1 (B)"
+}

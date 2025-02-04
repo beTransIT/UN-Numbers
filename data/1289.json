@@ -1,1 +1,7 @@
-{"description": "Sodium methylate solutions in alcohol", "number": "1289", "class": "3"}
+{
+  "number": "1289",
+  "description": "SODIUM METHYLATE SOLUTION in alcohol",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "3 (D/E)"
+}

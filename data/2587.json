@@ -1,1 +1,7 @@
-{"description": "Benzoquinone", "number": "2587", "class": "6.1"}
+{
+  "number": "2587",
+  "description": "BENZOQUINONE",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (D/E)"
+}

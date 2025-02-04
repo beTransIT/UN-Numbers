@@ -1,1 +1,7 @@
-{"description": "1,2-Propylenediamine", "number": "2258", "class": "8"}
+{
+  "number": "2258",
+  "description": "1,2-PROPYLENEDIAMINE",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "2 (D/E)"
+}

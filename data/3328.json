@@ -1,1 +1,7 @@
-{"description": "Radioactive material, Type B (U) package, fissile", "number": "3328", "class": "7"}
+{
+  "number": "3328",
+  "description": "RADIOACTIVE MATERIAL, TYPE B(U) PACKAGE, FISSILE",
+  "class": "7",
+  "classCode": "",
+  "tunnel": "0 (E)"
+}

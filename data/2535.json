@@ -1,1 +1,7 @@
-{"description": "4-Methylmorpholine or n-methylmorpholine", "number": "2535", "class": "3"}
+{
+  "number": "2535",
+  "description": "4-METHYLMORPHOLINE (N-METHYLMORPHOLINE)",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "2 (D/E)"
+}

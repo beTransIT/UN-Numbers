@@ -1,1 +1,7 @@
-{"description": "Zirconium scrap", "number": "1932", "class": "4.2"}
+{
+  "number": "1932",
+  "description": "ZIRCONIUM SCRAP",
+  "class": "4.2",
+  "classCode": "S4",
+  "tunnel": "3 (E)"
+}

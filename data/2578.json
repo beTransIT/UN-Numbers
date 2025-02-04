@@ -1,1 +1,7 @@
-{"description": "Phosphorus trioxide", "number": "2578", "class": "8"}
+{
+  "number": "2578",
+  "description": "PHOSPHORUS TRIOXIDE",
+  "class": "8",
+  "classCode": "C2",
+  "tunnel": "3 (E)"
+}

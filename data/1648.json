@@ -1,1 +1,7 @@
-{"description": "Acetonitrile", "number": "1648", "class": "3"}
+{
+  "number": "1648",
+  "description": "ACETONITRILE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

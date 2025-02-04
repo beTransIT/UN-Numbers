@@ -1,1 +1,7 @@
-{"description": "1,1-Dichloroethane", "number": "2362", "class": "3"}
+{
+  "number": "2362",
+  "description": "1,1-DICHLOROETHANE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

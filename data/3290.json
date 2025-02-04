@@ -1,1 +1,7 @@
-{"description": "Toxic solid, corrosive, inorganic, n.o.s.", "number": "3290", "class": "6.1"}
+{
+  "number": "3290",
+  "description": "TOXIC SOLID, CORROSIVE, INORGANIC, N.O.S.",
+  "class": "6.1",
+  "classCode": "TC4",
+  "tunnel": "2 (D/E)"
+}

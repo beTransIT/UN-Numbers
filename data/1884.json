@@ -1,1 +1,7 @@
-{"description": "Barium oxide", "number": "1884", "class": "6.1"}
+{
+  "number": "1884",
+  "description": "BARIUM OXIDE",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (E)"
+}

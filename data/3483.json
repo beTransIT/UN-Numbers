@@ -1,1 +1,7 @@
-{"description": "Motor fuel anti-knock mixture, flammable", "number": "3483", "class": "6.1"}
+{
+  "number": "3483",
+  "description": "MOTOR FUEL ANTI-KNOCK MIXTURE, FLAMMABLE",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "1 (C/D)"
+}

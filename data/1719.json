@@ -1,1 +1,7 @@
-{"description": "Caustic alkali liquid, n.o.s.", "number": "1719", "class": "8"}
+{
+  "number": "1719",
+  "description": "CAUSTIC ALKALI LIQUID, N.O.S.",
+  "class": "8",
+  "classCode": "C5",
+  "tunnel": "3 (E)"
+}

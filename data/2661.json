@@ -1,1 +1,7 @@
-{"description": "Hexachloroacetone", "number": "2661", "class": "6.1"}
+{
+  "number": "2661",
+  "description": "HEXACHLOROACETONE",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

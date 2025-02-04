@@ -1,1 +1,7 @@
-{"description": "Amines, liquid, corrosive, flammable, n.o.s. or Polyamines, liquid, corrosive, flammable, n.o.s.", "number": "2734", "class": "8"}
+{
+  "number": "2734",
+  "description": "AMINES, LIQUID, CORROSIVE, FLAMMABLE, N.O.S. or POLYAMINES, LIQUID, CORROSIVE, FLAMMABLE, N.O.S.",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "2 (D/E)"
+}

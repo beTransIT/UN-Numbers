@@ -1,1 +1,7 @@
-{"description": "2,2-Dimethylpropane", "number": "2044", "class": "2"}
+{
+  "number": "2044",
+  "description": "2,2-DIMETHYLPROPANE",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

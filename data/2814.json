@@ -1,1 +1,7 @@
-{"description": "Infectious Substance, affecting humans (Risk Group 2).", "number": "2814", "class": "6.2"}
+{
+  "number": "2814",
+  "description": "INFECTIOUS SUBSTANCE, AFFECTING HUMANS (animal material only)",
+  "class": "6.2",
+  "classCode": "I1",
+  "tunnel": "0 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Dioxane", "number": "1165", "class": "3"}
+{
+  "number": "1165",
+  "description": "DIOXANE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

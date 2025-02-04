@@ -1,1 +1,7 @@
-{"description": "Toluidines, solid", "number": "3451", "class": "6.1"}
+{
+  "number": "3451",
+  "description": "TOLUIDINES, SOLID",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (D/E)"
+}

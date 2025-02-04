@@ -1,1 +1,7 @@
-{"description": "Phenoxyacetic acid derivative pesticide, solid, toxic", "number": "3345", "class": "6.1"}
+{
+  "number": "3345",
+  "description": "PHENOXYACETIC ACID DERIVATIVE PESTICIDE, SOLID, TOXIC",
+  "class": "6.1",
+  "classCode": "T7",
+  "tunnel": "2 (E)"
+}

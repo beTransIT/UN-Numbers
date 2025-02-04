@@ -1,1 +1,7 @@
-{"description": "Chlorodifluoromethane or Refrigerant gas R 22", "number": "1018", "class": "2"}
+{
+  "number": "1018",
+  "description": "CHLORODIFLUORO-METHANE (REFRIGERANT GAS R 22)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

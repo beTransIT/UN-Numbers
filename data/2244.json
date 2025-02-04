@@ -1,1 +1,7 @@
-{"description": "Cyclopentanol", "number": "2244", "class": "3"}
+{
+  "number": "2244",
+  "description": "CYCLOPENTANOL",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Bromine or Bromine solutions", "number": "1744", "class": "8"}
+{
+  "number": "1744",
+  "description": "BROMINE or BROMINE SOLUTION",
+  "class": "8",
+  "classCode": "CT1",
+  "tunnel": "1 (C/D)"
+}

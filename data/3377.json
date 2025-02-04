@@ -1,1 +1,7 @@
-{"description": "Sodium perborate monohydrate", "number": "3377", "class": "5.1"}
+{
+  "number": "3377",
+  "description": "SODIUM PERBORATE MONOHYDRATE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "3 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Piperidine", "number": "2401", "class": "8"}
+{
+  "number": "2401",
+  "description": "PIPERIDINE",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "1 (D/E)"
+}

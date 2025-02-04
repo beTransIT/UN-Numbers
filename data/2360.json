@@ -1,1 +1,7 @@
-{"description": "Diallylether", "number": "2360", "class": "3"}
+{
+  "number": "2360",
+  "description": "DIALLYL ETHER",
+  "class": "3",
+  "classCode": "FT1",
+  "tunnel": "2 (D/E)"
+}

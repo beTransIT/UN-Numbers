@@ -1,1 +1,7 @@
-{"description": "N-Methylbutylamine", "number": "2945", "class": "8"}
+{
+  "number": "2945",
+  "description": "N-METHYLBUTYLAMINE",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "2 (D/E)"
+}

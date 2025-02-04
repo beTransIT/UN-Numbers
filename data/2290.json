@@ -1,1 +1,7 @@
-{"description": "Isophorone diisocyanate", "number": "2290", "class": "6.1"}
+{
+  "number": "2290",
+  "description": "ISOPHORONE DIISOCYANATE",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

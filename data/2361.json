@@ -1,1 +1,7 @@
-{"description": "Diisobutylamine", "number": "2361", "class": "3"}
+{
+  "number": "2361",
+  "description": "DIISOBUTYLAMINE",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "3 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Organophosphorus pesticides, solid, toxic", "number": "2783", "class": "6.1"}
+{
+  "number": "2783",
+  "description": "ORGANOPHOSPHORUS PESTICIDE, SOLID, TOXIC",
+  "class": "6.1",
+  "classCode": "T7",
+  "tunnel": "2 (E)"
+}

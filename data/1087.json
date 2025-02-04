@@ -1,1 +1,7 @@
-{"description": "Vinyl methyl ether, inhibited", "number": "1087", "class": "2"}
+{
+  "number": "1087",
+  "description": "VINYL METHYL ETHER, STABILIZED",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

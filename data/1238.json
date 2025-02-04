@@ -1,1 +1,7 @@
-{"description": "Methyl chloroformate", "number": "1238", "class": "6.1"}
+{
+  "number": "1238",
+  "description": "METHYL CHLOROFORMATE",
+  "class": "6.1",
+  "classCode": "TFC",
+  "tunnel": "1 (C/D)"
+}

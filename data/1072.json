@@ -1,1 +1,7 @@
-{"description": "Oxygen, compressed", "number": "1072", "class": "2"}
+{
+  "number": "1072",
+  "description": "OXYGEN, COMPRESSED",
+  "class": "2",
+  "classCode": "1O",
+  "tunnel": "3 (E)"
+}

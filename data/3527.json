@@ -1,1 +1,7 @@
-{"description": "Polyester resin kit, solid base material", "number": "3527", "class": "4.1"} 
+{
+  "number": "3527",
+  "description": "POLYESTER RESIN KIT, solid base material",
+  "class": "4.1",
+  "classCode": "F1",
+  "tunnel": "3 (E)"
+}

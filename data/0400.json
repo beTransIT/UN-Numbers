@@ -1,1 +1,7 @@
-{"description": "Bombs with flammable liquid, with bursting charge", "number": "0400", "class": "1"}
+{
+  "number": "0400",
+  "description": "BOMBS WITH FLAMMABLE LIQUID with bursting charge",
+  "class": "1",
+  "classCode": "1.2J",
+  "tunnel": "1 (B1000C)"
+}

@@ -1,1 +1,7 @@
-{"description": "Detonators, electric, for blasting", "number": "0456", "class": "1"}
+{
+  "number": "0456",
+  "description": "DETONATORS, ELECTRIC for blasting",
+  "class": "1",
+  "classCode": "1.4S",
+  "tunnel": "4 (E)"
+}

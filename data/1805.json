@@ -1,1 +1,7 @@
-{"description": "Phosphors\u00e4ure, fest", "number": "1805", "class": "8"}
+{
+  "number": "1805",
+  "description": "PHOSPHORIC ACID, SOLUTION",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "3 (E)"
+}

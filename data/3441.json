@@ -1,1 +1,7 @@
-{"description": "Chlorodinitrobenzenes, solid", "number": "3441", "class": "6.1"}
+{
+  "number": "3441",
+  "description": "CHLORODINITROBENZENES, SOLID",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (D/E)"
+}

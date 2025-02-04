@@ -1,1 +1,7 @@
-{"description": "Bombs, photo-flash", "number": "0299", "class": "1"}
+{
+  "number": "0299",
+  "description": "BOMBS, PHOTO-FLASH",
+  "class": "1",
+  "classCode": "1.3G",
+  "tunnel": "1 (C5000D)"
+}

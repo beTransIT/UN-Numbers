@@ -1,1 +1,7 @@
-{"description": "Vehicle, sodium ion battery powered", "number": "3558", "class": "9"} 
+{
+  "number": "3558",
+  "description": "VEHICLE, SODIUM ION BATTERY POWERED",
+  "class": "9",
+  "classCode": "M11",
+  "tunnel": "- (-)"
+}

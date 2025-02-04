@@ -1,1 +1,7 @@
-{"description": "Polyester resin kit", "number": "3269", "class": "3"}
+{
+  "number": "3269",
+  "description": "POLYESTER RESIN KIT, liquid base material",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Sodium arsenate", "number": "1685", "class": "6.1"}
+{
+  "number": "1685",
+  "description": "SODIUM ARSENATE",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Isobutyric acid", "number": "2529", "class": "3"}
+{
+  "number": "2529",
+  "description": "ISOBUTYRIC ACID",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "3 (D/E)"
+}

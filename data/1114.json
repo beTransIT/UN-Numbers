@@ -1,1 +1,7 @@
-{"description": "Benzene", "number": "1114", "class": "3"}
+{
+  "number": "1114",
+  "description": "BENZENE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

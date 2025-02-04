@@ -1,1 +1,7 @@
-{"description": "Organophosphorus compound, toxic, liquid, n.o.s.", "number": "3278", "class": "6.1"}
+{
+  "number": "3278",
+  "description": "ORGANOPHOSPHORUS COMPOUND, LIQUID, TOXIC, N.O.S.",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

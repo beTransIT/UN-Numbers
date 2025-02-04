@@ -1,1 +1,7 @@
-{"description": "Methacrylic acid, inhibited", "number": "2531", "class": "8"}
+{
+  "number": "2531",
+  "description": "METHACRYLIC ACID, STABILIZED",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

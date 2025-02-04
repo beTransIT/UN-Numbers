@@ -1,1 +1,7 @@
-{"description": "Nickel carbonyl", "number": "1259", "class": "6.1"}
+{
+  "number": "1259",
+  "description": "NICKEL CARBONYL",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "1 (C/D)"
+}

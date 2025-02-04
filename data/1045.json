@@ -1,1 +1,7 @@
-{"description": "Fluorine, compressed", "number": "1045", "class": "2"}
+{
+  "number": "1045",
+  "description": "FLUORINE, COMPRESSED",
+  "class": "2",
+  "classCode": "1TOC",
+  "tunnel": "1 (D)"
+}

@@ -1,1 +1,7 @@
-{"description": "Carbon monoxide, compressed", "number": "1016", "class": "2"}
+{
+  "number": "1016",
+  "description": "CARBON MONOXIDE, COMPRESSED",
+  "class": "2",
+  "classCode": "1TF",
+  "tunnel": "1 (B/D)"
+}

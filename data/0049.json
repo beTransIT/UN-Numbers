@@ -1,1 +1,7 @@
-{"description": "Cartridges, flash", "number": "0049", "class": "1"}
+{
+  "number": "0049",
+  "description": "CARTRIDGES, FLASH",
+  "class": "1",
+  "classCode": "1.1G",
+  "tunnel": "1 (B1000C)"
+}

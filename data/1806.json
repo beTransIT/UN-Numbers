@@ -1,1 +1,7 @@
-{"description": "Phosphorus pentachloride", "number": "1806", "class": "8"}
+{
+  "number": "1806",
+  "description": "PHOSPHORUS PENTACHLORIDE",
+  "class": "8",
+  "classCode": "C2",
+  "tunnel": "2 (E)"
+}

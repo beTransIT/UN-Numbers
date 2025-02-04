@@ -1,1 +1,7 @@
-{"description": "Alkylphenols, liquid, n.o.s. (including C2-C12 homologues)", "number": "3145", "class": "8"}
+{
+  "number": "3145",
+  "description": "ALKYLPHENOLS, LIQUID, N.O.S. (including C2-C12 homologues)",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "3 (E)"
+}

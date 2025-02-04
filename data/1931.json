@@ -1,1 +1,7 @@
-{"description": "Zinc dithionite or Zinc hydrosulfite", "number": "1931", "class": "9"}
+{
+  "number": "1931",
+  "description": "ZINC DITHIONITE (ZINC HYDROSULPHITE)",
+  "class": "9",
+  "classCode": "M11",
+  "tunnel": "3 (E)"
+}

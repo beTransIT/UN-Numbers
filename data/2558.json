@@ -1,1 +1,7 @@
-{"description": "Epibromohydrin", "number": "2558", "class": "6.1"}
+{
+  "number": "2558",
+  "description": "EPIBROMOHYDRIN",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "1 (C/D)"
+}

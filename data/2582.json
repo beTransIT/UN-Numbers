@@ -1,1 +1,7 @@
-{"description": "Ferric chloride, solution", "number": "2582", "class": "8"}
+{
+  "number": "2582",
+  "description": "FERRIC CHLORIDE SOLUTION",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "3 (E)"
+}

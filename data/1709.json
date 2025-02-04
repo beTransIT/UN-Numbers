@@ -1,1 +1,7 @@
-{"description": "2,4-Toluylenediamine,solid (2,4-Toluenediamine)", "number": "1709", "class": "6.1"}
+{
+  "number": "1709",
+  "description": "2,4-TOLUYLENEDIAMINE, SOLID",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (E)"
+}

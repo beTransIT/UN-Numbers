@@ -1,1 +1,7 @@
-{"description": "Chlorotrifluoromethane or Refrigerant gas R 13", "number": "1022", "class": "2"}
+{
+  "number": "1022",
+  "description": "CHLOROTRIFLUORO-METHANE (REFRIGERANT GAS R 13)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

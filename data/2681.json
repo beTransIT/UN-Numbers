@@ -1,1 +1,7 @@
-{"description": "Caesium hydroxide solution", "number": "2681", "class": "8"}
+{
+  "number": "2681",
+  "description": "CAESIUM HYDROXIDE SOLUTION",
+  "class": "8",
+  "classCode": "C5",
+  "tunnel": "3 (E)"
+}

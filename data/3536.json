@@ -1,1 +1,7 @@
-{"description": "Lithium batteries installed in cargo transport unit lithium ion batteries or lithium metal batteries", "number": "3536", "class": "9"} 
+{
+  "number": "3536",
+  "description": "LITHIUM BATTERIES INSTALLED IN CARGO TRANSPORT UNIT lithium ion batteries or lithium metal batteries",
+  "class": "9",
+  "classCode": "M4",
+  "tunnel": "2 (E)"
+}

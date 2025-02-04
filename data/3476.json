@@ -1,1 +1,7 @@
-{"description": "Fuel cell cartridges or Fuel cell cartridges contained in equipment or Fuel cell cartridges packed with equipment, containing water-reactive substances", "number": "3476", "class": "4.3"}
+{
+  "number": "3476",
+  "description": "FUEL CELL CARTRIDGES or FUEL CELL CARTRIDGES CONTAINED IN EQUIPMENT or FUEL CELL CARTRIDGES PACKED WITH EQUIPMENT, containing water- reactive substances",
+  "class": "4.3",
+  "classCode": "W3",
+  "tunnel": "3 (E)"
+}

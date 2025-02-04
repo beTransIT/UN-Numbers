@@ -1,1 +1,7 @@
-{"description": "Charges, depth", "number": "0056", "class": "1"}
+{
+  "number": "0056",
+  "description": "CHARGES, DEPTH",
+  "class": "1",
+  "classCode": "1.1D",
+  "tunnel": "1 (B1000C)"
+}

@@ -1,1 +1,7 @@
-{"description": "Hydrazine hydrate or Hydrazine aqueous solutions, with not less than 37 percent but not more than 64 percent hydrazine, by mass", "number": "2030", "class": "8"}
+{
+  "number": "2030",
+  "description": "HYDRAZINE AQUEOUS SOLUTION, with more than 37 % hydrazine by mass",
+  "class": "8",
+  "classCode": "CT1",
+  "tunnel": "3 (E)"
+}

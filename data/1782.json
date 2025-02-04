@@ -1,1 +1,7 @@
-{"description": "Hexafluorophosphoric acid", "number": "1782", "class": "8"}
+{
+  "number": "1782",
+  "description": "HEXAFLUORO-PHOSPHORIC ACID",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "2 (E)"
+}

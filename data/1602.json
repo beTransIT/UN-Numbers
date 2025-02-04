@@ -1,1 +1,7 @@
-{"description": "Dyes, liquid, toxic, n.o.s. or Dye intermediates, liquid, toxic, n.o.s.", "number": "1602", "class": "6.1"}
+{
+  "number": "1602",
+  "description": "DYE, LIQUID, TOXIC, N.O.S. or DYE INTERMEDIATE, LIQUID, TOXIC, N.O.S.",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

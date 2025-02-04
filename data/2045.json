@@ -1,1 +1,7 @@
-{"description": "Isobutyraldehyde or Isobutyl aldehyde", "number": "2045", "class": "3"}
+{
+  "number": "2045",
+  "description": "ISOBUTYRALDEHYDE (ISOBUTYL ALDEHYDE)",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

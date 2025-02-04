@@ -1,1 +1,7 @@
-{"description": "Tellurium hexafluoride", "number": "2195", "class": "2"}
+{
+  "number": "2195",
+  "description": "TELLURIUM HEXAFLUORIDE",
+  "class": "2",
+  "classCode": "2TC",
+  "tunnel": "1 (D)"
+}

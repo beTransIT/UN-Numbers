@@ -1,1 +1,7 @@
-{"description": "Oil gas, compressed", "number": "1071", "class": "2"}
+{
+  "number": "1071",
+  "description": "OIL GAS, COMPRESSED",
+  "class": "2",
+  "classCode": "1TF",
+  "tunnel": "1 (B/D)"
+}

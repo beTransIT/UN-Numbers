@@ -1,1 +1,7 @@
-{"description": "Diisooctyl acid phosphate", "number": "1902", "class": "8"}
+{
+  "number": "1902",
+  "description": "DIISOOCTYL ACID PHOSPHATE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "3 (E)"
+}

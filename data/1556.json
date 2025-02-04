@@ -1,1 +1,7 @@
-{"description": "Arsenic compounds, liquid, n.o.s. inorganic, including arsenates, n.o.s.; arsenites, n.o.s.; arsenic sulfides, n.o.s.; and organic compounds of arsenic, n.o.s.", "number": "1556", "class": "6.1"}
+{
+  "number": "1556",
+  "description": "ARSENIC COMPOUND, LIQUID, N.O.S., inorganic, including: Arsenates, n.o.s., Arsenites, n.o.s.; and Arsenic sulphides, n.o.s.",
+  "class": "6.1",
+  "classCode": "T4",
+  "tunnel": "2 (E)"
+}

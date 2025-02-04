@@ -1,1 +1,7 @@
-{"description": "Crotonaldehyde, stabilized", "number": "1143", "class": "6.1"}
+{
+  "number": "1143",
+  "description": "CROTONALDEHYDE or CROTONALDEHYDE, STABILIZED",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "1 (C/D)"
+}

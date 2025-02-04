@@ -1,1 +1,7 @@
-{"description": "Hydrogen cyanide, stabilized with less than 3 percent water and absorbed in a porous inert material", "number": "1614", "class": "6.1"}
+{
+  "number": "1614",
+  "description": "HYDROGEN CYANIDE, STABILIZED, containing less than 3 % water and absorbed in a porous inert material",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "0 (D)"
+}

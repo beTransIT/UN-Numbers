@@ -1,1 +1,7 @@
-{"description": "Petroleum gases, liquefied or Liquefied petroleum gas", "number": "1075", "class": "2"}
+{
+  "number": "1075",
+  "description": "PETROLEUM GASES, LIQUEFIED",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

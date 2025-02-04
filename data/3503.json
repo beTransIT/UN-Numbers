@@ -1,1 +1,7 @@
-{"description": "Chemical under pressure, corrosive, not otherwise specified", "number": "3503", "class": "2.2"} 
+{
+  "number": "3503",
+  "description": "CHEMICAL UNDER PRESSURE, CORROSIVE, N.O.S.",
+  "class": "2",
+  "classCode": "8C",
+  "tunnel": "1 (C/D)"
+}

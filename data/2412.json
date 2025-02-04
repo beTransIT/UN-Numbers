@@ -1,1 +1,7 @@
-{"description": "Tetrahydrothiophene", "number": "2412", "class": "3"}
+{
+  "number": "2412",
+  "description": "TETRAHYDROTHIOPHENE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

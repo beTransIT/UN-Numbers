@@ -1,1 +1,7 @@
-{"description": "Coating solution (includes surface treatments or coatings used for industrial or other purposes such as vehicle undercoating, drum or barrel lining)", "number": "1139", "class": "3"}
+{
+  "number": "1139",
+  "description": "COATING SOLUTION (includes surface treatments or coatings used for industrial or other purposes such as vehicle under coating, drum or barrel lining) (having a flash-point below 23 °C and viscous according to 2.2.3.1.4) (vapour pressure at 50 °C not more than 110 kPa)",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (E)"
+}

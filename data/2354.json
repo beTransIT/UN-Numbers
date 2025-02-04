@@ -1,1 +1,7 @@
-{"description": "Chloromethyl ethyl ether", "number": "2354", "class": "3"}
+{
+  "number": "2354",
+  "description": "CHLOROMETHYL ETHYL ETHER",
+  "class": "3",
+  "classCode": "FT1",
+  "tunnel": "2 (D/E)"
+}

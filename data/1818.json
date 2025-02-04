@@ -1,1 +1,7 @@
-{"description": "Silicon tetrachloride", "number": "1818", "class": "8"}
+{
+  "number": "1818",
+  "description": "SILICON TETRACHLORIDE",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "2 (E)"
+}

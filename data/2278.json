@@ -1,1 +1,7 @@
-{"description": "n-Heptane", "number": "2278", "class": "3"}
+{
+  "number": "2278",
+  "description": "n-HEPTENE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

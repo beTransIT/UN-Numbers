@@ -1,1 +1,7 @@
-{"description": "Articles, explosive, n.o.s.", "number": "0467", "class": "1"}
+{
+  "number": "0467",
+  "description": "ARTICLES, EXPLOSIVE, N.O.S.",
+  "class": "1",
+  "classCode": "1.2D",
+  "tunnel": "1 (B1000C)"
+}

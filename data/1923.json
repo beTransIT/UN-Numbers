@@ -1,1 +1,7 @@
-{"description": "Calcium dithionite or Calcium hydrosulfite", "number": "1923", "class": "4.2"}
+{
+  "number": "1923",
+  "description": "CALCIUM DITHIONITE (CALCIUM HYDROSULPHITE)",
+  "class": "4.2",
+  "classCode": "S4",
+  "tunnel": "2 (D/E)"
+}

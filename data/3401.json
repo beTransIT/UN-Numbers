@@ -1,1 +1,7 @@
-{"description": "Alkali metal amalgam, solid", "number": "3401", "class": "4.3"}
+{
+  "number": "3401",
+  "description": "ALKALI METAL AMALGAM, SOLID",
+  "class": "4.3",
+  "classCode": "W2",
+  "tunnel": "1 (B/E)"
+}

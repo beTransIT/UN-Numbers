@@ -1,1 +1,7 @@
-{"description": "Dimethyl disulfide", "number": "2381", "class": "3"}
+{
+  "number": "2381",
+  "description": "DIMETHYL DISULPHIDE",
+  "class": "3",
+  "classCode": "FT1",
+  "tunnel": "2 (D/E)"
+}

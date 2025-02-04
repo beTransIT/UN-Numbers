@@ -1,1 +1,7 @@
-{"description": "Titanium trichloride mixtures", "number": "2869", "class": "8"}
+{
+  "number": "2869",
+  "description": "TITANIUM TRICHLORIDE MIXTURE",
+  "class": "8",
+  "classCode": "C2",
+  "tunnel": "3 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Copper based pesticides, solid, toxic", "number": "2775", "class": "6.1"}
+{
+  "number": "2775",
+  "description": "COPPER BASED PESTICIDE, SOLID, TOXIC",
+  "class": "6.1",
+  "classCode": "T7",
+  "tunnel": "2 (E)"
+}

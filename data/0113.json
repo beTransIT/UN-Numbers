@@ -1,1 +1,7 @@
-{"description": "Guanyl nitrosaminoguanylidene hydrazine, wetted with not less than 30 percent water, by mass", "number": "0113", "class": "1"}
+{
+  "number": "0113",
+  "description": "GUANYLNITROSAMINO- GUANYLIDENE HYDRAZINE, WETTED with not less than 30 % water, by mass",
+  "class": "1",
+  "classCode": "1.1A",
+  "tunnel": "0 (B)"
+}

@@ -1,1 +1,7 @@
-{"description": "Acetic acid solution, not less than 50 percent but not more than 80 percent acid, by mass or Acetic acid solution, with more than 10 percent and less than 50 percent acid, by mass", "number": "2790", "class": "8"}
+{
+  "number": "2790",
+  "description": "ACETIC ACID SOLUTION, more than 10 % and less than 50 % acid, by mass",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "3 (E)"
+}

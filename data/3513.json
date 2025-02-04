@@ -1,1 +1,7 @@
-{"description": "Adsorbed gas, oxidizing, not otherwise specified", "number": "3513", "class": "2.2"} 
+{
+  "number": "3513",
+  "description": "ADSORBED GAS, OXIDIZING, N.O.S.",
+  "class": "2",
+  "classCode": "9O",
+  "tunnel": "3 (E)"
+}

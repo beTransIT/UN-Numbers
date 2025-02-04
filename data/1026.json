@@ -1,1 +1,7 @@
-{"description": "Cyanogen", "number": "1026", "class": "2"}
+{
+  "number": "1026",
+  "description": "CYANOGEN",
+  "class": "2",
+  "classCode": "2TF",
+  "tunnel": "1 (B/D)"
+}

@@ -1,1 +1,7 @@
-{"description": "Chlorite solution", "number": "1908", "class": "8"}
+{
+  "number": "1908",
+  "description": "CHLORITE SOLUTION",
+  "class": "8",
+  "classCode": "C9",
+  "tunnel": "3 (E)"
+}

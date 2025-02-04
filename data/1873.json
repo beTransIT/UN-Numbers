@@ -1,1 +1,7 @@
-{"description": "Perchloric acid with more than 50 percent but not more than 72 percent acid, by mass", "number": "1873", "class": "6.1"}
+{
+  "number": "1873",
+  "description": "PERCHLORIC ACID with more than 50 % but not more than 72 % acid, by mass",
+  "class": "5.1",
+  "classCode": "OC1",
+  "tunnel": "1 (B/E)"
+}

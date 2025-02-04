@@ -1,1 +1,7 @@
-{"description": "Articles, pressurized pneumatic or Hydraulic (containing non-flammable gas)", "number": "3164", "class": "2.2"}
+{
+  "number": "3164",
+  "description": "ARTICLES, PRESSURIZED, PNEUMATIC or HYDRAULIC (containing non-flammable gas)",
+  "class": "2",
+  "classCode": "6A",
+  "tunnel": "3 (E)"
+}

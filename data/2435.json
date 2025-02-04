@@ -1,1 +1,7 @@
-{"description": "Ethylphenyldichlorosilane", "number": "2435", "class": "8"}
+{
+  "number": "2435",
+  "description": "ETHYLPHENYL- DICHLOROSILANE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

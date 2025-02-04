@@ -1,1 +1,7 @@
-{"description": "Tetranitromethane", "number": "1510", "class": "5.1"}
+{
+  "number": "1510",
+  "description": "TETRANITROMETHANE",
+  "class": "6.1",
+  "classCode": "TO1",
+  "tunnel": "1 (B/D)"
+}

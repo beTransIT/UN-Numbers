@@ -1,1 +1,7 @@
-{"description": "Rockets, with expelling charge", "number": "0436", "class": "1"}
+{
+  "number": "0436",
+  "description": "ROCKETS with expelling charge",
+  "class": "1",
+  "classCode": "1.2C",
+  "tunnel": "1 (B1000C)"
+}

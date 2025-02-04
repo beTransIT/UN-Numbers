@@ -1,1 +1,7 @@
-{"description": "Devices, small, hydrocarbon gas powered or Hydrocarbon gas refills for small devices, with release device", "number": "3150", "class": "2.1"}
+{
+  "number": "3150",
+  "description": "DEVICES, SMALL, HYDROCARBON GAS POWERED or HYDROCARBON GAS REFILLS FOR SMALL DEVICES with release device",
+  "class": "2",
+  "classCode": "6F",
+  "tunnel": "2 (D)"
+}

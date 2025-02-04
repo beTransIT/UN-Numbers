@@ -1,1 +1,7 @@
-{"description": "Titanium tetrachloride", "number": "1838", "class": "8"}
+{
+  "number": "1838",
+  "description": "TITANIUM TETRACHLORIDE",
+  "class": "6.1",
+  "classCode": "TC3",
+  "tunnel": "1 (C/D)"
+}

@@ -1,1 +1,7 @@
-{"description": "Ethylene oxide and propylene oxide mixtures with not more than 30 percent ethylene oxide", "number": "2983", "class": "3.1"}
+{
+  "number": "2983",
+  "description": "ETHYLENE OXIDE AND PROPYLENE OXIDE MIXTURE, not more than 30 % ethylene oxide",
+  "class": "3",
+  "classCode": "FT1",
+  "tunnel": "1 (C/E)"
+}

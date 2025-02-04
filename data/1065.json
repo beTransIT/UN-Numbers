@@ -1,1 +1,7 @@
-{"description": "Neon, compressed", "number": "1065", "class": "2"}
+{
+  "number": "1065",
+  "description": "NEON, COMPRESSED",
+  "class": "2",
+  "classCode": "1A",
+  "tunnel": "3 (E)"
+}

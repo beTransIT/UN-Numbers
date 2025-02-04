@@ -1,1 +1,7 @@
-{"description": "Dichloroacetyl chloride", "number": "1765", "class": "8"}
+{
+  "number": "1765",
+  "description": "DICHLOROACETYL CHLORIDE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

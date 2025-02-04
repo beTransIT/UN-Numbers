@@ -1,1 +1,7 @@
-{"description": "Chlorophenyltrichlorosilane", "number": "1753", "class": "8"}
+{
+  "number": "1753",
+  "description": "CHLOROPHENYL- TRICHLOROSILANE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Trinitrophenylmethylnitramine or Tetryl", "number": "0208", "class": "1"}
+{
+  "number": "0208",
+  "description": "TRINITROPHENYLMETHYL- NITRAMINE (TETRYL)",
+  "class": "1",
+  "classCode": "1.1D",
+  "tunnel": "1 (B1000C)"
+}

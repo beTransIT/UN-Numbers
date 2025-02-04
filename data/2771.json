@@ -1,1 +1,7 @@
-{"description": "Thiocarbamate pesticides, solid, toxic", "number": "2771", "class": "6.1"}
+{
+  "number": "2771",
+  "description": "THIOCARBAMATE PESTICIDE, SOLID, TOXIC",
+  "class": "6.1",
+  "classCode": "T7",
+  "tunnel": "2 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Nicotine tartrate", "number": "1659", "class": "6.1"}
+{
+  "number": "1659",
+  "description": "NICOTINE TARTRATE",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (D/E)"
+}

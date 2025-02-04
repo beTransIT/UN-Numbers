@@ -1,1 +1,7 @@
-{"description": "Fuse, non-detonating (instantaneous or quickmatch)", "number": "0101", "class": "1"}
+{
+  "number": "0101",
+  "description": "FUSE, NON-DETONATING",
+  "class": "1",
+  "classCode": "1.3G",
+  "tunnel": "1 (C5000D)"
+}

@@ -1,1 +1,7 @@
-{"description": "Hypochlorites, inorganic, n.o.s.", "number": "3212", "class": "5.1"}
+{
+  "number": "3212",
+  "description": "HYPOCHLORITES, INORGANIC, N.O.S.",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "2 (E)"
+}

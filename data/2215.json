@@ -1,1 +1,7 @@
-{"description": "Maleic anhydride", "number": "2215", "class": "8"}
+{
+  "number": "2215",
+  "description": "MALEIC ANHYDRIDE",
+  "class": "8",
+  "classCode": "C4",
+  "tunnel": "3 (E)"
+}

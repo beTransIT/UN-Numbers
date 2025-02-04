@@ -1,1 +1,7 @@
-{"description": "Sodium cyanide", "number": "1689", "class": "6.1"}
+{
+  "number": "1689",
+  "description": "SODIUM CYANIDE, SOLID",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "1 (C/E)"
+}

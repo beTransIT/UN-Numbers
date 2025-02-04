@@ -1,1 +1,7 @@
-{"description": "Butyl propionates", "number": "1914", "class": "3"}
+{
+  "number": "1914",
+  "description": "BUTYL PROPIONATES",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

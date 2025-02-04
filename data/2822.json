@@ -1,1 +1,7 @@
-{"description": "2-Chloropyridine", "number": "2822", "class": "6.1"}
+{
+  "number": "2822",
+  "description": "2-CHLOROPYRIDINE",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (D/E)"
+}

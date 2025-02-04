@@ -1,1 +1,7 @@
-{"description": "Hexafluoropropylene, compressed or Refrigerant gas R 1216", "number": "1858", "class": "2"}
+{
+  "number": "1858",
+  "description": "HEXAFLUOROPROPYLENE (REFRIGERANT GAS R 1216)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Articles containing toxic gas, not otherwise specified", "number": "3539", "class": "2.3"} 
+{
+  "number": "3539",
+  "description": "ARTICLES CONTAINING TOXIC GAS, N.O.S.",
+  "class": "2",
+  "classCode": "6T",
+  "tunnel": "4 (E)"
+}

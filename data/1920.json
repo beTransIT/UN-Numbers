@@ -1,1 +1,7 @@
-{"description": "Nonanes", "number": "1920", "class": "3"}
+{
+  "number": "1920",
+  "description": "NONANES",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

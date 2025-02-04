@@ -1,1 +1,7 @@
-{"description": "Ethyl nitrate solutions", "number": "1194", "class": "3"}
+{
+  "number": "1194",
+  "description": "ETHYL NITRITE SOLUTION",
+  "class": "3",
+  "classCode": "FT1",
+  "tunnel": "1 (C/E)"
+}

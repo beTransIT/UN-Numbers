@@ -1,1 +1,7 @@
-{"description": "Ethylene dibromide", "number": "1605", "class": "6.1"}
+{
+  "number": "1605",
+  "description": "ETHYLENE DIBROMIDE",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "1 (C/D)"
+}

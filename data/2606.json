@@ -1,1 +1,7 @@
-{"description": "Methyl orthosilicate", "number": "2606", "class": "6.1"}
+{
+  "number": "2606",
+  "description": "METHYL ORTHOSILICATE",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "1 (C/D)"
+}

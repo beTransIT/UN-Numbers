@@ -1,1 +1,7 @@
-{"description": "Phosphorus sesquisulfide, free from yellow or white phosphorus", "number": "1341", "class": "4.1"}
+{
+  "number": "1341",
+  "description": "PHOSPHORUS SESQUISULPHIDE, free from yellow and white phosphorus",
+  "class": "4.1",
+  "classCode": "F3",
+  "tunnel": "2 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Acetone cyanohydrin, stabilized", "number": "1541", "class": "6.1"}
+{
+  "number": "1541",
+  "description": "ACETONE CYANOHYDRIN, STABILIZED",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "1 (C/D)"
+}

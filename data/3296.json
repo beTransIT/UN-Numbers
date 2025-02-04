@@ -1,1 +1,7 @@
-{"description": "Heptafluoropropane or Refrigerant gas R 227", "number": "3296", "class": "2.2"}
+{
+  "number": "3296",
+  "description": "HEPTAFLUOROPROPANE (REFRIGERANT GAS R 227)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

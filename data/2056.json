@@ -1,1 +1,7 @@
-{"description": "Tetrahydrofuran", "number": "2056", "class": "3"}
+{
+  "number": "2056",
+  "description": "TETRAHYDROFURAN",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

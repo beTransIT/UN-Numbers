@@ -1,1 +1,7 @@
-{"description": "Dimethylhydrazine, unsymmetrical", "number": "1163", "class": "6.1"}
+{
+  "number": "1163",
+  "description": "DIMETHYLHYDRAZINE, UNSYMMETRICAL",
+  "class": "6.1",
+  "classCode": "TFC",
+  "tunnel": "1 (C/D)"
+}

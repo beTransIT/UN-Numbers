@@ -1,1 +1,7 @@
-{"description": "Mines with bursting charge", "number": "0138", "class": "1"}
+{
+  "number": "0138",
+  "description": "MINES with bursting charge",
+  "class": "1",
+  "classCode": "1.2D",
+  "tunnel": "1 (B1000C)"
+}

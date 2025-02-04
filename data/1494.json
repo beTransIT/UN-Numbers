@@ -1,1 +1,7 @@
-{"description": "Sodium bromate", "number": "1494", "class": "5.1"}
+{
+  "number": "1494",
+  "description": "SODIUM BROMATE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "2 (E)"
+}

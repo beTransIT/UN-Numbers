@@ -1,1 +1,7 @@
-{"description": "Lithium ion batteries (including lithium ion polymer batteries)", "number": "3480", "class": "9"}
+{
+  "number": "3480",
+  "description": "LITHIUM ION BATTERIES (including lithium ion polymer batteries)",
+  "class": "9",
+  "classCode": "M4",
+  "tunnel": "2 (E)"
+}

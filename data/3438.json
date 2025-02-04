@@ -1,1 +1,7 @@
-{"description": "alpha-Methylbenzyl alcohol, solid", "number": "3438", "class": "6.1"}
+{
+  "number": "3438",
+  "description": "alpha-METHYLBENZYL ALCOHOL, SOLID",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (E)"
+}

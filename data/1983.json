@@ -1,1 +1,7 @@
-{"description": "1-Chloro-2,2,2-trifluoroethane or Refrigerant gas R 133a", "number": "1983", "class": "2"}
+{
+  "number": "1983",
+  "description": "1-CHLORO-2,2,2- TRIFLUOROETHANE (REFRIGERANT GAS R 133a)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Ammunition, tear-producing with burster, expelling charge, or propelling charge", "number": "0018", "class": "1"}
+{
+  "number": "0018",
+  "description": "AMMUNITION, TEAR- PRODUCING with burster, expelling charge or propelling charge",
+  "class": "1",
+  "classCode": "1.2G",
+  "tunnel": "1 (B1000C)"
+}

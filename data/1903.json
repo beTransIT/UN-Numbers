@@ -1,1 +1,7 @@
-{"description": "Disinfectants, liquid, corrosive, n.o.s.", "number": "1903", "class": "8"}
+{
+  "number": "1903",
+  "description": "DISINFECTANT, LIQUID, CORROSIVE, N.O.S.",
+  "class": "8",
+  "classCode": "C9",
+  "tunnel": "3 (E)"
+}

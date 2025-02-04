@@ -1,1 +1,7 @@
-{"description": "Primers, cap type", "number": "0044", "class": "1"}
+{
+  "number": "0044",
+  "description": "PRIMERS, CAP TYPE",
+  "class": "1",
+  "classCode": "1.4S",
+  "tunnel": "4 (E)"
+}

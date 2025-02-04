@@ -1,1 +1,7 @@
-{"description": "Nitroglycerin mixture, desensitized, liquid, flammable, n.o.s., with not more than 30% nitroglycerin by mass", "number": "3343", "class": "3"}
+{
+  "number": "3343",
+  "description": "NITROGLYCERIN MIXTURE, DESENSITIZED, LIQUID, FLAMMABLE, N.O.S. with not more than 30 % nitroglycerin, by mass",
+  "class": "3",
+  "classCode": "D",
+  "tunnel": "0 (B)"
+}

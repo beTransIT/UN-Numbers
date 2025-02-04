@@ -1,1 +1,7 @@
-{"description": "Bombs, smoke, non-explosive, with corrosive liquid, without initiating device", "number": "2028", "class": "8"}
+{
+  "number": "2028",
+  "description": "BOMBS, SMOKE, NON- EXPLOSIVE with corrosive liquid, without initiating device",
+  "class": "8",
+  "classCode": "C11",
+  "tunnel": "2 (E)"
+}

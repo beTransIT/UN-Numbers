@@ -1,1 +1,7 @@
-{"description": "Terpinolene", "number": "2541", "class": "3"}
+{
+  "number": "2541",
+  "description": "TERPINOLENE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

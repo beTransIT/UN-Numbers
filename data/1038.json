@@ -1,1 +1,7 @@
-{"description": "Ethylene, refrigerated liquid (cryogenic liquid)", "number": "1038", "class": "2"}
+{
+  "number": "1038",
+  "description": "ETHYLENE, REFRIGERATED LIQUID",
+  "class": "2",
+  "classCode": "3F",
+  "tunnel": "2 (B/D)"
+}

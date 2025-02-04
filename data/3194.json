@@ -1,1 +1,7 @@
-{"description": "Pyrophoric liquid, inorganic, n.o.s.", "number": "3194", "class": "4.2"}
+{
+  "number": "3194",
+  "description": "PYROPHORIC LIQUID, INORGANIC, N.O.S.",
+  "class": "4.2",
+  "classCode": "S3",
+  "tunnel": "0 (B/E)"
+}

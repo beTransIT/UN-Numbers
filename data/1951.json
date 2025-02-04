@@ -1,1 +1,7 @@
-{"description": "Argon, refrigerated liquid (cryogenic liquid)", "number": "1951", "class": "2"}
+{
+  "number": "1951",
+  "description": "ARGON, REFRIGERATED LIQUID",
+  "class": "2",
+  "classCode": "3A",
+  "tunnel": "3 (C/E)"
+}

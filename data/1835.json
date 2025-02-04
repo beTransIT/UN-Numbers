@@ -1,1 +1,7 @@
-{"description": "Tetramethylammonium hydroxide", "number": "1835", "class": "8"}
+{
+  "number": "1835",
+  "description": "TETRAMETHYLAMMONIUM HYDROXIDE AQUEOUS SOLUTION with not more than 2.5 % tetramethylammonium hydroxide",
+  "class": "8",
+  "classCode": "C7",
+  "tunnel": "3 (E)"
+}

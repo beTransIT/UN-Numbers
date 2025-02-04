@@ -1,1 +1,7 @@
-{"description": "Acrylonitrile, inhibited", "number": "1093", "class": "3"}
+{
+  "number": "1093",
+  "description": "ACRYLONITRILE, STABILIZED",
+  "class": "3",
+  "classCode": "FT1",
+  "tunnel": "1 (C/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "RDX and HMX mixtures, wetted with not less than 15 percent water by mass or RDX and HMX mixtures, desensitized with not less than 10 percent phlegmatizer by mass", "number": "0391", "class": "1"}
+{
+  "number": "0391",
+  "description": "CYCLOTRIMETHYLENE- TRINITRAMINE (CYCLONITE; HEXOGEN; RDX) AND CYCLOTETRAMETHYLENE- TETRANITRAMINE (HMX; OCTOGEN) MIXTURE, WETTED with not less than 15 % water, by mass or DESENSITIZED with not less than 10 % phlegmatiser by mass",
+  "class": "1",
+  "classCode": "1.1D",
+  "tunnel": "1 (B1000C)"
+}

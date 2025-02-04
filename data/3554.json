@@ -1,1 +1,7 @@
-{"description": "Gallium contained in manufactured articles", "number": "3554", "class": "8"} 
+{
+  "number": "3554",
+  "description": "GALLIUM CONTAINED IN MANUFACTURED ARTICLES",
+  "class": "8",
+  "classCode": "C11",
+  "tunnel": "3 (E)"
+}

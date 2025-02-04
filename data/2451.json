@@ -1,1 +1,7 @@
-{"description": "Nitrogen trifluoride, compressed", "number": "2451", "class": "2"}
+{
+  "number": "2451",
+  "description": "NITROGEN TRIFLUORIDE",
+  "class": "2",
+  "classCode": "2O",
+  "tunnel": "3 (C/E)"
+}

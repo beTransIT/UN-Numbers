@@ -1,1 +1,7 @@
-{"description": "Ethyl methyl ether", "number": "1039", "class": "2"}
+{
+  "number": "1039",
+  "description": "ETHYL METHYL ETHER",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

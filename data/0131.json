@@ -1,1 +1,7 @@
-{"description": "Lighters, fuse", "number": "0131", "class": "1"}
+{
+  "number": "0131",
+  "description": "LIGHTERS, FUSE",
+  "class": "1",
+  "classCode": "1.4S",
+  "tunnel": "4 (E)"
+}

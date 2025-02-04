@@ -1,1 +1,7 @@
-{"description": "Nickel nitrite", "number": "2726", "class": "5.1"}
+{
+  "number": "2726",
+  "description": "NICKEL NITRITE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "3 (E)"
+}

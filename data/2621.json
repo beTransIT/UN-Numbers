@@ -1,1 +1,7 @@
-{"description": "Acetyl methyl carbinol", "number": "2621", "class": "3"}
+{
+  "number": "2621",
+  "description": "ACETYL METHYL CARBINOL",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "1-Chloro-1,1-difluoroethane or Refrigerant gas R 142b", "number": "2517", "class": "2"}
+{
+  "number": "2517",
+  "description": "1-CHLORO-1,1- DIFLUOROETHANE (REFRIGERANT GAS R 142b)",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

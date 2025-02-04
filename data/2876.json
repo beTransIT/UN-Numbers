@@ -1,1 +1,7 @@
-{"description": "Resorcinol", "number": "2876", "class": "6.1"}
+{
+  "number": "2876",
+  "description": "RESORCINOL",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (E)"
+}

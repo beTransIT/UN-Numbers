@@ -1,1 +1,7 @@
-{"description": "Dinitroresorcinol, wetted with not less than 15 percent water, by mass", "number": "1322", "class": "4.1"}
+{
+  "number": "1322",
+  "description": "DINITRORESORCINOL, WETTED with not less than 15 % water, by mass",
+  "class": "4.1",
+  "classCode": "D",
+  "tunnel": "1 (B)"
+}

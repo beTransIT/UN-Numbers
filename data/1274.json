@@ -1,1 +1,7 @@
-{"description": "n-Propanol or propyl alcohol, normal", "number": "1274", "class": "3"}
+{
+  "number": "1274",
+  "description": "n-PROPANOL (PROPYL ALCOHOL, NORMAL)",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

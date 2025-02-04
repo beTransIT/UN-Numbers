@@ -1,1 +1,7 @@
-{"description": "Vanadium tetrachloride", "number": "2444", "class": "8"}
+{
+  "number": "2444",
+  "description": "VANADIUM TETRACHLORIDE",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "1 (E)"
+}

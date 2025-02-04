@@ -1,1 +1,7 @@
-{"description": "Sulfuric acid, fuming with 30 percent or more free sulfur trioxide or Sulfuric acid, fuming with less than 30 percent free sulfur trioxide", "number": "1831", "class": "8"}
+{
+  "number": "1831",
+  "description": "SULPHURIC ACID, FUMING",
+  "class": "8",
+  "classCode": "CT1",
+  "tunnel": "1 (C/D)"
+}

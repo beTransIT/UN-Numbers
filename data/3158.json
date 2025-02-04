@@ -1,1 +1,7 @@
-{"description": "Gas, refrigerated liquid, n.o.s. (cryogenic liquid)", "number": "3158", "class": "2.2"}
+{
+  "number": "3158",
+  "description": "GAS, REFRIGERATED LIQUID, N.O.S.",
+  "class": "2",
+  "classCode": "3A",
+  "tunnel": "3 (C/E)"
+}

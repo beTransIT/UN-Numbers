@@ -1,1 +1,7 @@
-{"description": "Diethyl sulfate", "number": "1594", "class": "6.1"}
+{
+  "number": "1594",
+  "description": "DIETHYL SULPHATE",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (D/E)"
+}

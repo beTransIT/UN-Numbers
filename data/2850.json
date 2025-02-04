@@ -1,1 +1,7 @@
-{"description": "Propylene tetramer", "number": "2850", "class": "3"}
+{
+  "number": "2850",
+  "description": "PROPYLENE TETRAMER",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

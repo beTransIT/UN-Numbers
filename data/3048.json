@@ -1,1 +1,7 @@
-{"description": "Aluminium phosphide pesticides", "number": "3048", "class": "6.1"}
+{
+  "number": "3048",
+  "description": "ALUMINIUM PHOSPHIDE PESTICIDE",
+  "class": "6.1",
+  "classCode": "T7",
+  "tunnel": "1 (C/E)"
+}

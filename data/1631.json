@@ -1,1 +1,7 @@
-{"description": "Mercury benzoate", "number": "1631", "class": "6.1"}
+{
+  "number": "1631",
+  "description": "MERCURY BENZOATE",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (D/E)"
+}

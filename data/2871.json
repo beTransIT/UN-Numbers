@@ -1,1 +1,7 @@
-{"description": "Antimony powder", "number": "2871", "class": "6.1"}
+{
+  "number": "2871",
+  "description": "ANTIMONY POWDER",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (E)"
+}

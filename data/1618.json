@@ -1,1 +1,7 @@
-{"description": "Lead arsenites", "number": "1618", "class": "6.1"}
+{
+  "number": "1618",
+  "description": "LEAD ARSENITES",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Calcium arsenate and calcium arsenite, mixtures, solid", "number": "1574", "class": "6.1"}
+{
+  "number": "1574",
+  "description": "CALCIUM ARSENATE AND CALCIUM ARSENITE MIXTURE, SOLID",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Iodine", "number": "3495", "class": "8"}
+{
+  "number": "3495",
+  "description": "IODINE",
+  "class": "8",
+  "classCode": "CT2",
+  "tunnel": "3 (E)"
+}

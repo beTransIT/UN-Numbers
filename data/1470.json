@@ -1,1 +1,7 @@
-{"description": "Lead perchlorate, solid or Lead perchlorate, solution", "number": "1470", "class": "5.1"}
+{
+  "number": "1470",
+  "description": "LEAD PERCHLORATE, SOLID",
+  "class": "5.1",
+  "classCode": "OT2",
+  "tunnel": "2 (E)"
+}

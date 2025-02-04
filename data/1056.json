@@ -1,1 +1,7 @@
-{"description": "Krypton, compressed", "number": "1056", "class": "2"}
+{
+  "number": "1056",
+  "description": "KRYPTON, COMPRESSED",
+  "class": "2",
+  "classCode": "1A",
+  "tunnel": "3 (E)"
+}

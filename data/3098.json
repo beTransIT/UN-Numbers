@@ -1,1 +1,7 @@
-{"description": "Oxidizing liquid, corrosive, n.o.s.", "number": "3098", "class": "5.1"}
+{
+  "number": "3098",
+  "description": "OXIDIZING LIQUID, CORROSIVE, N.O.S.",
+  "class": "5.1",
+  "classCode": "OC1",
+  "tunnel": "3 (E)"
+}

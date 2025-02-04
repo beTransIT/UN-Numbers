@@ -1,1 +1,7 @@
-{"description": "Zirconium tetrachloride", "number": "2503", "class": "8"}
+{
+  "number": "2503",
+  "description": "ZIRCONIUM TETRACHLORIDE",
+  "class": "8",
+  "classCode": "C2",
+  "tunnel": "3 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Tetrafluoroethylene, inhibited", "number": "1081", "class": "2"}
+{
+  "number": "1081",
+  "description": "TETRAFLUOROETHYLENE, STABILIZED",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

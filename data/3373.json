@@ -1,1 +1,7 @@
-{"description": "Biological substance, Category B", "number": "3373", "class": "6.2"}
+{
+  "number": "3373",
+  "description": "BIOLOGICAL SUBSTANCE, CATEGORY B (animal material only)",
+  "class": "6.2",
+  "classCode": "I4",
+  "tunnel": "- (-)"
+}

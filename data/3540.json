@@ -1,1 +1,7 @@
-{"description": "Articles containing flammable liquid, not otherwise specified", "number": "3540", "class": "3"} 
+{
+  "number": "3540",
+  "description": "ARTICLES CONTAINING FLAMMABLE LIQUID, N.O.S",
+  "class": "3",
+  "classCode": "F3",
+  "tunnel": "4 (E)"
+}

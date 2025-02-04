@@ -1,1 +1,7 @@
-{"description": "Cyclooctatetraene", "number": "2358", "class": "3"}
+{
+  "number": "2358",
+  "description": "CYCLOOCTATETRAENE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

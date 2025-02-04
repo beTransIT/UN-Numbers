@@ -1,1 +1,7 @@
-{"description": "Barium chlorate", "number": "1445", "class": "5.1"}
+{
+  "number": "1445",
+  "description": "BARIUM CHLORATE, SOLID",
+  "class": "5.1",
+  "classCode": "OT2",
+  "tunnel": "2 (E)"
+}

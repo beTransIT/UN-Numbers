@@ -1,1 +1,7 @@
-{"description": "Charges, supplementary explosive", "number": "0060", "class": "1"}
+{
+  "number": "0060",
+  "description": "CHARGES, SUPPLEMENTARY, EXPLOSIVE",
+  "class": "1",
+  "classCode": "1.1D",
+  "tunnel": "1 (B1000C)"
+}

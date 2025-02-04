@@ -1,1 +1,7 @@
-{"description": "Ethylene oxide and pentafluoroethane mixture with not more than 7.9 percent ethylene oxide", "number": "3298", "class": "2.2"}
+{
+  "number": "3298",
+  "description": "ETHYLENE OXIDE AND PENTAFLUOROETHANE MIXTURE with not more than 7.9 % ethylene oxide",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

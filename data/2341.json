@@ -1,1 +1,7 @@
-{"description": "1-Bromo-3-methylbutane", "number": "2341", "class": "3"}
+{
+  "number": "2341",
+  "description": "1-BROMO-3-METHYLBUTANE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

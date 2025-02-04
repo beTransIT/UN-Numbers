@@ -1,1 +1,7 @@
-{"description": "Sulfuryl fluoride", "number": "2191", "class": "2"}
+{
+  "number": "2191",
+  "description": "SULPHURYL FLUORIDE",
+  "class": "2",
+  "classCode": "2T",
+  "tunnel": "1 (C/D)"
+}

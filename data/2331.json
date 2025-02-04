@@ -1,1 +1,7 @@
-{"description": "Zinc chloride, anhydrous", "number": "2331", "class": "8"}
+{
+  "number": "2331",
+  "description": "ZINC CHLORIDE, ANHYDROUS",
+  "class": "8",
+  "classCode": "C2",
+  "tunnel": "3 (E)"
+}

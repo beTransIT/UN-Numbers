@@ -1,1 +1,7 @@
-{"description": "Sodium chlorite", "number": "1496", "class": "5.1"}
+{
+  "number": "1496",
+  "description": "SODIUM CHLORITE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "2 (E)"
+}

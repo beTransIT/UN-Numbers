@@ -1,1 +1,7 @@
-{"description": "1,1,1,2-Tetrafluoroethane or Refrigerant gas R 134a", "number": "3159", "class": "2.2"}
+{
+  "number": "3159",
+  "description": "1,1,1,2-TETRAFLUOROETHANE (REFRIGERANT GAS R 134a)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

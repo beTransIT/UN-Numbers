@@ -1,1 +1,7 @@
-{"description": "Cyclotetramethylenetetranitramine, desensitized or Octogen, desensitized or HMX, desensitized", "number": "0484", "class": "1"}
+{
+  "number": "0484",
+  "description": "CYCLOTETRAMETHYLENE- TETRA-NITRAMINE (HMX; OCTOGEN), DESENSITIZED",
+  "class": "1",
+  "classCode": "1.1D",
+  "tunnel": "1 (B1000C)"
+}

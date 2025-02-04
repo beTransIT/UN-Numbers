@@ -1,1 +1,7 @@
-{"description": "Alcohols, flammable, toxic, n.o.s.", "number": "1986", "class": "3"}
+{
+  "number": "1986",
+  "description": "ALCOHOLS, FLAMMABLE, TOXIC, N.O.S.",
+  "class": "3",
+  "classCode": "FT1",
+  "tunnel": "3 (D/E)"
+}

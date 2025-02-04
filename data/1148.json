@@ -1,1 +1,7 @@
-{"description": "Diacetone alcohol", "number": "1148", "class": "3"}
+{
+  "number": "1148",
+  "description": "DIACETONE ALCOHOL",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

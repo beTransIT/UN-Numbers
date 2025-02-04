@@ -1,1 +1,7 @@
-{"description": "Chlorate and magnesium chloride mixture solution", "number": "3407", "class": "5.1"}
+{
+  "number": "3407",
+  "description": "CHLORATE AND MAGNESIUM CHLORIDE MIXTURE SOLUTION",
+  "class": "5.1",
+  "classCode": "O1",
+  "tunnel": "3 (E)"
+}

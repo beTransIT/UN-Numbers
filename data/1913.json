@@ -1,1 +1,7 @@
-{"description": "Neon, refrigerated liquid (cryogenic liquid)", "number": "1913", "class": "2"}
+{
+  "number": "1913",
+  "description": "NEON, REFRIGERATED LIQUID",
+  "class": "2",
+  "classCode": "3A",
+  "tunnel": "3 (C/E)"
+}

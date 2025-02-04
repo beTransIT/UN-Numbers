@@ -1,1 +1,7 @@
-{"description": "5-tert-Butyl-2,4,6-trinitro-m-xylene or Musk xylene", "number": "2956", "class": "4.1"}
+{
+  "number": "2956",
+  "description": "5-tert-BUTYL-2,4,6-TRINITRO-m- XYLENE (MUSK XYLENE)",
+  "class": "4.1",
+  "classCode": "SR1",
+  "tunnel": "3 (D)"
+}

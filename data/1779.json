@@ -1,1 +1,7 @@
-{"description": "Formic acid", "number": "1779", "class": "8"}
+{
+  "number": "1779",
+  "description": "FORMIC ACID with more than 85 % acid by mass",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Tetrahydrophthalic anhydrides with more than 0.05 percent of maleic anhydride", "number": "2698", "class": "8"}
+{
+  "number": "2698",
+  "description": "TETRAHYDROPHTHALIC ANHYDRIDES with more than 0.05 % of maleic anhydride",
+  "class": "8",
+  "classCode": "C4",
+  "tunnel": "3 (E)"
+}

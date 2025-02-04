@@ -1,1 +1,7 @@
-{"description": "Arsine, adsorbed", "number": "3522", "class": "2.3"} 
+{
+  "number": "3522",
+  "description": "ARSINE, ADSORBED",
+  "class": "2",
+  "classCode": "9TF",
+  "tunnel": "1 (D)"
+}

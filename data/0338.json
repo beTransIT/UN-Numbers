@@ -1,1 +1,7 @@
-{"description": "Cartridges for weapons, blank or Cartridges, small arms, blank", "number": "0338", "class": "1"}
+{
+  "number": "0338",
+  "description": "CARTRIDGES FOR WEAPONS, BLANK or CARTRIDGES, SMALL ARMS, BLANK",
+  "class": "1",
+  "classCode": "1.4C",
+  "tunnel": "2 (E)"
+}

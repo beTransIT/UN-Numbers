@@ -1,1 +1,7 @@
-{"description": "Solids containing toxic liquid, n.o.s.", "number": "3243", "class": "6.1"}
+{
+  "number": "3243",
+  "description": "SOLIDS CONTAINING TOXIC LIQUID, N.O.S.",
+  "class": "6.1",
+  "classCode": "T9",
+  "tunnel": "2 (D/E)"
+}

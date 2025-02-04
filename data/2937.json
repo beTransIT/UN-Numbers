@@ -1,1 +1,7 @@
-{"description": "alpha-Methylbenzyl alcohol", "number": "2937", "class": "6.1"}
+{
+  "number": "2937",
+  "description": "alpha-METHYLBENZYL ALCOHOL, LIQUID",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

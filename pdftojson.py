@@ -7,117 +7,106 @@ def clean_description(text):
     """Clean description text by replacing newlines with spaces and removing extra whitespace."""
     if not text:
         return ""
-    # Replace newlines with spaces and remove multiple spaces
     return ' '.join(text.replace('\n', ' ').split())
+
+def get_column_indices(row):
+    """Get the indices of important columns from the numbered row."""
+    indices = {}
+    for i, cell in enumerate(row):
+        cell_text = str(cell or '')
+        if '(1)' in cell_text:
+            indices['number'] = i
+        elif '(2)' in cell_text:
+            indices['description'] = i
+        elif '(3a)' in cell_text:
+            indices['class'] = i
+        elif '(3b)' in cell_text:
+            indices['classCode'] = i
+        elif '(15)' in cell_text:
+            indices['tunnel'] = i
+    return indices
+
+def has_required_columns(indices):
+    """Check if all required column indices are present."""
+    required_columns = ['number', 'description', 'class', 'classCode']
+    return all(col in indices for col in required_columns)
 
 def extract_entries_from_pdf(pdf_path):
     """Extract all entries from the PDF file."""
-    entries = []
+    entries = {}
+    tunnel_codes = {}
     
     print(f"Opening PDF file: {pdf_path}")
     with pdfplumber.open(pdf_path) as pdf:
-        print(f"Number of pages in PDF: {len(pdf.pages)}")
-        
+        # First pass: collect tunnel codes
         for page_num, page in enumerate(pdf.pages, 1):
-            print(f"\nProcessing page {page_num}")
-            
-            # Extract tables from the page
             tables = page.extract_tables()
-            if not tables:
-                continue
-                
-            print(f"Found {len(tables)} tables on page {page_num}")
-            
             for table in tables:
-                # Skip empty tables
-                if not table:
+                if not table or len(table) < 4:
                     continue
-                    
-                # Process each row in the table
-                for row in table:
-                    if not row or len(row) < 3:  # Skip rows without enough columns
-                        continue
-                        
-                    # Try to extract UN number from first column
-                    un_number = None
-                    description = None
-                    classification = None
-                    
-                    # Look for UN number pattern in the first column
-                    if row[0]:
-                        un_match = re.search(r'(\d{4})', str(row[0]))
-                        if un_match:
-                            un_number = un_match.group(1)
-                    
-                    # Get description from second column if it exists
-                    if len(row) > 1 and row[1]:
-                        description = clean_description(str(row[1]))
-                    
-                    # Get classification from third column if it exists
-                    if len(row) > 2 and row[2]:
-                        class_match = re.search(r'(\d+)', str(row[2]))
-                        if class_match:
-                            classification = class_match.group(1)
-                    
-                    # If we found a UN number, create an entry
-                    if un_number:
-                        entry = {
-                            "number": un_number.zfill(4),
-                            "description": description or "",
-                            "class": classification or "",
-                            "tunnel": ""  # Will be filled in later
-                        }
-                        entries.append(entry)
-                        print(f"Found entry: UN {entry['number']}")
-            
-            # Look for tunnel codes on the page
-            text = page.extract_text() or ""
-            lines = text.split('\n')
-            
-            current_un = None
-            for line in lines:
-                # Look for UN number
-                un_match = re.search(r'UN No\.\s*(\d{4})', line)
-                if un_match:
-                    current_un = un_match.group(1).zfill(4)
                 
-                # Look for tunnel code
-                tunnel_match = re.search(r'Tunnel restriction code:\s*([A-E](/[A-E])?)', line)
-                if tunnel_match and current_un:
-                    tunnel_code = tunnel_match.group(1)
-                    # Update the corresponding entry
-                    for entry in entries:
-                        if entry["number"] == current_un:
-                            entry["tunnel"] = tunnel_code
-                            print(f"Added tunnel code {tunnel_code} to UN {current_un}")
-                            break
+                for row_idx, row in enumerate(table):
+                    if row and any('(15)' in str(cell) for cell in row):
+                        indices = get_column_indices(row)
+                        if 'tunnel' in indices and 'number' in indices:
+                            for data_row in table[row_idx + 1:]:
+                                if not data_row or len(data_row) <= max(indices['tunnel'], indices['number']):
+                                    continue
+                                
+                                un_match = re.search(r'(\d{4})', str(data_row[indices['number']]))
+                                if un_match:
+                                    un_number = un_match.group(1).zfill(4)
+                                    tunnel = clean_description(str(data_row[indices['tunnel']]))
+                                    if tunnel:
+                                        tunnel_codes[un_number] = tunnel
+        
+        # Second pass: collect main entries
+        for page_num, page in enumerate(pdf.pages, 1):
+            tables = page.extract_tables()
+            for table in tables:
+                if not table or len(table) < 4:
+                    continue
+                
+                for row_idx, row in enumerate(table):
+                    if row and any('(1)' in str(cell) for cell in row):
+                        indices = get_column_indices(row)
+                        if has_required_columns(indices):
+                            for data_row in table[row_idx + 1:]:
+                                if not data_row or len(data_row) <= max(indices.values()):
+                                    continue
+                                
+                                if data_row[indices['number']]:
+                                    un_match = re.search(r'(\d{4})', str(data_row[indices['number']]))
+                                    if un_match:
+                                        un_number = un_match.group(1).zfill(4)
+                                        
+                                        entries[un_number] = {
+                                            "number": un_number,
+                                            "description": clean_description(str(data_row[indices['description']])),
+                                            "class": str(data_row[indices['class']]).strip(),
+                                            "classCode": str(data_row[indices['classCode']]).strip(),
+                                            "tunnel": tunnel_codes.get(un_number, "")
+                                        }
     
-    print(f"\nTotal entries found: {len(entries)}")
-    return entries
+    entries_list = list(entries.values())
+    print(f"\nTotal entries found: {len(entries_list)}")
+    print(f"Total tunnel codes found: {len(tunnel_codes)}")
+    return entries_list
 
 def main():
-    # Create newData directory if it doesn't exist
-    if not os.path.exists('newData'):
-        os.makedirs('newData')
-        print("Created newData directory")
+    if not os.path.exists('data'):
+        os.makedirs('data')
     
-    # Process the unnumberdata PDF
     print("\nStarting PDF processing...")
     entries = extract_entries_from_pdf('unnumberdata.pdf')
     
-    # Create JSON files for each entry
     print("\nCreating JSON files...")
     for entry in entries:
-        json_filename = f"{entry['number']}.json"
-        json_path = os.path.join('newData', json_filename)
-        
-        # Write data to JSON file
+        json_path = os.path.join('data', f"{entry['number']}.json")
         with open(json_path, 'w', encoding='utf-8') as f:
             json.dump(entry, f, ensure_ascii=False, indent=2)
-        
-        print(f"Created {json_filename}")
     
-    print(f"\nProcessing complete. Created {len(entries)} JSON files.")
+    print(f"Processing complete. Created {len(entries)} JSON files.")
 
 if __name__ == "__main__":
     main()

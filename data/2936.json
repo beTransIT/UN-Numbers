@@ -1,1 +1,7 @@
-{"description": "Thiolactic acid", "number": "2936", "class": "6.1"}
+{
+  "number": "2936",
+  "description": "THIOLACTIC ACID",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (D/E)"
+}

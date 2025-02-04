@@ -1,1 +1,7 @@
-{"description": "Thionyl chloride", "number": "1836", "class": "8"}
+{
+  "number": "1836",
+  "description": "THIONYL CHLORIDE",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "1 (E)"
+}

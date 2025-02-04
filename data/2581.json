@@ -1,1 +1,7 @@
-{"description": "Aluminum chloride, solution", "number": "2581", "class": "8"}
+{
+  "number": "2581",
+  "description": "ALUMINIUM CHLORIDE SOLUTION",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "3 (E)"
+}

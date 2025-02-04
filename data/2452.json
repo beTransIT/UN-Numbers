@@ -1,1 +1,7 @@
-{"description": "Ethylacetylene, inhibited", "number": "2452", "class": "2"}
+{
+  "number": "2452",
+  "description": "ETHYLACETYLENE, STABILIZED",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

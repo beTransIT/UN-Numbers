@@ -1,1 +1,7 @@
-{"description": "Toxic liquid, corrosive, inorganic, n.o.s. or Toxic liquid, corrosive, inorganic, n.o.s. Inhalation Hazard, Packing Group I, Zone A or B", "number": "3289", "class": "6.1"}
+{
+  "number": "3289",
+  "description": "TOXIC LIQUID, CORROSIVE, INORGANIC, N.O.S.",
+  "class": "6.1",
+  "classCode": "TC3",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Stannic chloride, pentahydrate", "number": "2440", "class": "8"}
+{
+  "number": "2440",
+  "description": "STANNIC CHLORIDE PENTAHYDRATE",
+  "class": "8",
+  "classCode": "C2",
+  "tunnel": "3 (E)"
+}

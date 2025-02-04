@@ -1,1 +1,7 @@
-{"description": "Chloronitrobenzene, ortho, liquid or Chloronitrobenzenes meta or para, solid", "number": "1578", "class": "6.1"}
+{
+  "number": "1578",
+  "description": "CHLORONITROBENZENES, SOLID",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (D/E)"
+}

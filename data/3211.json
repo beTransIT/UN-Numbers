@@ -1,1 +1,7 @@
-{"description": "Perchlorates, inorganic, aqueous solution, n.o.s.", "number": "3211", "class": "5.1"}
+{
+  "number": "3211",
+  "description": "PERCHLORATES, INORGANIC, AQUEOUS SOLUTION, N.O.S.",
+  "class": "5.1",
+  "classCode": "O1",
+  "tunnel": "3 (E)"
+}

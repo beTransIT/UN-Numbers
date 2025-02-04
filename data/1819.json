@@ -1,1 +1,7 @@
-{"description": "Sodium aluminate, solution", "number": "1819", "class": "8"}
+{
+  "number": "1819",
+  "description": "SODIUM ALUMINATE SOLUTION",
+  "class": "8",
+  "classCode": "C5",
+  "tunnel": "3 (E)"
+}

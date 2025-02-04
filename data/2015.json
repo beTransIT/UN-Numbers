@@ -1,1 +1,7 @@
-{"description": "Hydrogen peroxide, stabilized or Hydrogen peroxide aqueous solutions, stabilized with more than 60 percent hydrogen peroxide", "number": "2015", "class": "5.1"}
+{
+  "number": "2015",
+  "description": "HYDROGEN PEROXIDE, AQUEOUS SOLUTION, STABILIZED with more than 60 % hydrogen peroxide and not more than 70 % hydrogen peroxide",
+  "class": "5.1",
+  "classCode": "OC1",
+  "tunnel": "1 (B/E)"
+}

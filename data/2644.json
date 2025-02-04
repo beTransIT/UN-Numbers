@@ -1,1 +1,7 @@
-{"description": "Methyl iodide", "number": "2644", "class": "6.1"}
+{
+  "number": "2644",
+  "description": "METHYL IODIDE",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "1 (C/D)"
+}

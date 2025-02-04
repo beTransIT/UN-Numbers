@@ -1,1 +1,7 @@
-{"description": "2-Bromoethyl ethyl ether", "number": "2340", "class": "3"}
+{
+  "number": "2340",
+  "description": "2-BROMOETHYL ETHYL ETHER",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

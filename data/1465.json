@@ -1,1 +1,7 @@
-{"description": "Didymium nitrate", "number": "1465", "class": "5.1"}
+{
+  "number": "1465",
+  "description": "DIDYMIUM NITRATE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "3 (E)"
+}

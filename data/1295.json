@@ -1,1 +1,7 @@
-{"description": "Trichlorosilane", "number": "1295", "class": "4.3"}
+{
+  "number": "1295",
+  "description": "TRICHLOROSILANE",
+  "class": "4.3",
+  "classCode": "WFC",
+  "tunnel": "0 (B/E)"
+}

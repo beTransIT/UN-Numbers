@@ -1,1 +1,7 @@
-{"description": "Isopropyl acid phosphate", "number": "1793", "class": "8"}
+{
+  "number": "1793",
+  "description": "ISOPROPYL ACID PHOSPHATE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "3 (E)"
+}

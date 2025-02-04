@@ -1,1 +1,7 @@
-{"description": "Radioactive material, Type A package, special form, non-fissile or fissile excepted", "number": "3332", "class": "7"}
+{
+  "number": "3332",
+  "description": "RADIOACTIVE MATERIAL, TYPE A PACKAGE, SPECIAL FORM, non fissile or fissile-excepted",
+  "class": "7",
+  "classCode": "",
+  "tunnel": "0 (E)"
+}

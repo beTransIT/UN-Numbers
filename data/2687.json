@@ -1,1 +1,7 @@
-{"description": "Dicyclohexylammonium nitrate", "number": "2687", "class": "4.1"}
+{
+  "number": "2687",
+  "description": "DICYCLOHEXYL-AMMONIUM NITRITE",
+  "class": "4.1",
+  "classCode": "F3",
+  "tunnel": "3 (E)"
+}

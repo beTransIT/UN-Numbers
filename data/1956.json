@@ -1,1 +1,7 @@
-{"description": "Compressed gas, n.o.s.", "number": "1956", "class": "2"}
+{
+  "number": "1956",
+  "description": "COMPRESSED GAS, N.O.S.",
+  "class": "2",
+  "classCode": "1A",
+  "tunnel": "3 (E)"
+}

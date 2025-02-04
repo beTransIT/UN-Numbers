@@ -1,1 +1,7 @@
-{"description": "Oxygen, refrigerated liquid (cryogenic liquid)", "number": "1073", "class": "2"}
+{
+  "number": "1073",
+  "description": "OXYGEN, REFRIGERATED LIQUID",
+  "class": "2",
+  "classCode": "3O",
+  "tunnel": "3 (C/E)"
+}

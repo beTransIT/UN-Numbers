@@ -1,1 +1,7 @@
-{"description": "Grenades, practice, hand or rifle", "number": "0110", "class": "1"}
+{
+  "number": "0110",
+  "description": "GRENADES, PRACTICE, hand or rifle",
+  "class": "1",
+  "classCode": "1.4S",
+  "tunnel": "4 (E)"
+}

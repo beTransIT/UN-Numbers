@@ -1,1 +1,7 @@
-{"description": "Chemical under pressure, toxic, not otherwise specified", "number": "3502", "class": "2.2"} 
+{
+  "number": "3502",
+  "description": "CHEMICAL UNDER PRESSURE, TOXIC, N.O.S.",
+  "class": "2",
+  "classCode": "8T",
+  "tunnel": "1 (C/D)"
+}

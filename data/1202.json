@@ -1,1 +1,7 @@
-{"description": "Gas oil or diesel fuel or heating oil, light", "number": "1202", "class": "3"}
+{
+  "number": "1202",
+  "description": "GAS OIL or DIESEL FUEL or HEATING OIL, LIGHT (flash-point more than 60 °C and not more than 100 °C)",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Phenylphosphorus Thiodichloride", "number": "2799", "class": "8"}
+{
+  "number": "2799",
+  "description": "PHENYLPHOSPHORUS THIODICHLORIDE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

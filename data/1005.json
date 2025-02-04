@@ -1,1 +1,7 @@
-{"description": "Ammonia, anhydrous", "number": "1005", "class": "2"}
+{
+  "number": "1005",
+  "description": "AMMONIA, ANHYDROUS",
+  "class": "2",
+  "classCode": "2TC",
+  "tunnel": "1 (C/D)"
+}

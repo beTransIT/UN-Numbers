@@ -1,1 +1,7 @@
-{"description": "Nitrophenols (o-; m-; p-;)", "number": "1663", "class": "6.1"}
+{
+  "number": "1663",
+  "description": "NITROPHENOLS (o-, m-, p-)",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (E)"
+}

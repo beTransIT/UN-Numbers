@@ -1,1 +1,7 @@
-{"description": "Charges, explosive, commercial without detonator", "number": "0442", "class": "1"}
+{
+  "number": "0442",
+  "description": "CHARGES, EXPLOSIVE, COMMERCIAL without detonator",
+  "class": "1",
+  "classCode": "1.1D",
+  "tunnel": "1 (B1000C)"
+}

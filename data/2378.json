@@ -1,1 +1,7 @@
-{"description": "N-Butylaniline or 2-Dimethylaminoacetonitrile", "number": "2378", "class": "3"}
+{
+  "number": "2378",
+  "description": "2-DIMETHYLAMINO- ACETONITRILE",
+  "class": "3",
+  "classCode": "FT1",
+  "tunnel": "2 (D/E)"
+}

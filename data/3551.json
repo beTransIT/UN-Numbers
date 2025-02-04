@@ -1,1 +1,7 @@
-{"description": "Sodium ion batteries with organic electrolyte", "number": "3551", "class": "9"} 
+{
+  "number": "3551",
+  "description": "SODIUM ION BATTERIES with organic electrolyte",
+  "class": "9",
+  "classCode": "M4",
+  "tunnel": "2 (E)"
+}

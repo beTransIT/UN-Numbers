@@ -1,1 +1,7 @@
-{"description": "Nitrotoluidines (mono)", "number": "2660", "class": "6.1"}
+{
+  "number": "2660",
+  "description": "NITROTOLUIDINES (MONO)",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (E)"
+}

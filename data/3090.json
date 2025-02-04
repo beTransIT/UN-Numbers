@@ -1,1 +1,7 @@
-{"description": "Lithium batteries", "number": "3090", "class": "9"}
+{
+  "number": "3090",
+  "description": "LITHIUM METAL BATTERIES (including lithium alloy batteries)",
+  "class": "9",
+  "classCode": "M4",
+  "tunnel": "2 (E)"
+}

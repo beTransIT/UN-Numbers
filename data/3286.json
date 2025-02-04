@@ -1,1 +1,7 @@
-{"description": "Flammable liquid, toxic, corrosive, n.o.s.", "number": "3286", "class": "3"}
+{
+  "number": "3286",
+  "description": "FLAMMABLE LIQUID, TOXIC, CORROSIVE, N.O.S.",
+  "class": "3",
+  "classCode": "FTC",
+  "tunnel": "2 (D/E)"
+}

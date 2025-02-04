@@ -1,1 +1,7 @@
-{"description": "Dyes, liquid, corrosive, n.o.s. or Dye intermediates, liquid, corrosive, n.o.s.", "number": "2801", "class": "8"}
+{
+  "number": "2801",
+  "description": "DYE, LIQUID, CORROSIVE, N.O.S. or DYE INTERMEDIATE, LIQUID, CORROSIVE, N.O.S.",
+  "class": "8",
+  "classCode": "C9",
+  "tunnel": "3 (E)"
+}

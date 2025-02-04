@@ -1,1 +1,7 @@
-{"description": "N-Ethylbenzyltoluidines liquid or N-Ethylbenzyltoluidines solid", "number": "2753", "class": "6.1"}
+{
+  "number": "2753",
+  "description": "N-ETHYLBENZYL-TOLUIDINES, LIQUID",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

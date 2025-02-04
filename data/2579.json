@@ -1,1 +1,7 @@
-{"description": "Piperazine", "number": "2579", "class": "8"}
+{
+  "number": "2579",
+  "description": "PIPERAZINE",
+  "class": "8",
+  "classCode": "C8",
+  "tunnel": "3 (E)"
+}

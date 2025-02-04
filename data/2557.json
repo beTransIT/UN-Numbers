@@ -1,1 +1,7 @@
-{"description": "Nitrocellulose, with not more than 12.6 percent nitrogen, by dry mass, or Nitrocellulose mixture with pigment or Nitrocellulose mixture with plasticizer or Nitrocellulose mixture with pigment and plasticizer", "number": "2557", "class": "4.1"}
+{
+  "number": "2557",
+  "description": "NITROCELLULOSE, with not more than 12.6 % nitrogen, by dry mass, MIXTURE WITH or WITHOUT PLASTICIZER, WITH or WITHOUT PIGMENT",
+  "class": "4.1",
+  "classCode": "D",
+  "tunnel": "2 (B)"
+}

@@ -1,1 +1,7 @@
-{"description": "Vinyl isobutyl ether, inhibited", "number": "1304", "class": "3"}
+{
+  "number": "1304",
+  "description": "VINYL ISOBUTYL ETHER, STABILIZED",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

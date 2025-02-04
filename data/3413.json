@@ -1,1 +1,7 @@
-{"description": "Potassium cyanide solution", "number": "3413", "class": "6.1"}
+{
+  "number": "3413",
+  "description": "POTASSIUM CYANIDE SOLUTION",
+  "class": "6.1",
+  "classCode": "T4",
+  "tunnel": "2 (E)"
+}

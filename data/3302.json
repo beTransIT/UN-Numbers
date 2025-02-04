@@ -1,1 +1,7 @@
-{"description": "2-Dimethylaminoethyl acrylate", "number": "3302", "class": "6.1"}
+{
+  "number": "3302",
+  "description": "2-DIMETHYLAMINOETHYL ACRYLATE STABILIZED",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (D/E)"
+}

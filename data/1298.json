@@ -1,1 +1,7 @@
-{"description": "Trimethylchlorosilane", "number": "1298", "class": "3"}
+{
+  "number": "1298",
+  "description": "TRIMETHYLCHLORO-SILANE",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Cyclohexanone", "number": "1915", "class": "3"}
+{
+  "number": "1915",
+  "description": "CYCLOHEXANONE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

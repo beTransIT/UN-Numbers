@@ -1,1 +1,7 @@
-{"description": "Liquid hydrogen, refrigerated liquid (cryogenic liquid)", "number": "1966", "class": "2"}
+{
+  "number": "1966",
+  "description": "HYDROGEN, REFRIGERATED LIQUID",
+  "class": "2",
+  "classCode": "3F",
+  "tunnel": "2 (B/D)"
+}

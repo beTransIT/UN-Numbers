@@ -1,1 +1,7 @@
-{"description": "Allyltrichlorosilane, stabilized", "number": "1724", "class": "8"}
+{
+  "number": "1724",
+  "description": "ALLYLTRICHLOROSILANE, STABILIZED",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "2 (D/E)"
+}

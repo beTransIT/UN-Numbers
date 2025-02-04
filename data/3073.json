@@ -1,1 +1,7 @@
-{"description": "Vinylpyridines, inhibited", "number": "3073", "class": "6.1"}
+{
+  "number": "3073",
+  "description": "VINYLPYRIDINES, STABILIZED",
+  "class": "6.1",
+  "classCode": "TFC",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Isobutyl propionate", "number": "2394", "class": "3"}
+{
+  "number": "2394",
+  "description": "ISOBUTYL PROPIONATE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

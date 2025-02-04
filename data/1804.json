@@ -1,1 +1,7 @@
-{"description": "Phenyltrichlorosilane", "number": "1804", "class": "8"}
+{
+  "number": "1804",
+  "description": "PHENYLTRICHLORO-SILANE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

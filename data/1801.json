@@ -1,1 +1,7 @@
-{"description": "Octyltrichlorosilane", "number": "1801", "class": "8"}
+{
+  "number": "1801",
+  "description": "OCTYLTRICHLOROSILANE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

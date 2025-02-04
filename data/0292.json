@@ -1,1 +1,7 @@
-{"description": "Grenades, hand or rifle, with bursting charge", "number": "0292", "class": "1"}
+{
+  "number": "0292",
+  "description": "GRENADES, hand or rifle, with bursting charge",
+  "class": "1",
+  "classCode": "1.1F",
+  "tunnel": "1 (B1000C)"
+}

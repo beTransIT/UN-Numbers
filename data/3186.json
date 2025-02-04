@@ -1,1 +1,7 @@
-{"description": "Self-heating liquid, inorganic, n.o.s.", "number": "3186", "class": "4.2"}
+{
+  "number": "3186",
+  "description": "SELF-HEATING LIQUID, INORGANIC, N.O.S.",
+  "class": "4.2",
+  "classCode": "S3",
+  "tunnel": "3 (E)"
+}

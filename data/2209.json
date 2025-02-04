@@ -1,1 +1,7 @@
-{"description": "Formaldehyde, solutions, with not less than 25 percent formaldehyde", "number": "2209", "class": "8"}
+{
+  "number": "2209",
+  "description": "FORMALDEHYDE SOLUTION with not less than 25 % formaldehyde",
+  "class": "8",
+  "classCode": "C9",
+  "tunnel": "3 (E)"
+}

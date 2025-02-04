@@ -1,1 +1,7 @@
-{"description": "Potassium hydrogen sulfate", "number": "2509", "class": "8"}
+{
+  "number": "2509",
+  "description": "POTASSIUM HYDROGEN SULPHATE",
+  "class": "8",
+  "classCode": "C2",
+  "tunnel": "2 (E)"
+}

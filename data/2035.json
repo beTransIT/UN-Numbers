@@ -1,1 +1,7 @@
-{"description": "1,1,1-Trifluoroethane, compressed or Refrigerant gas R 143a", "number": "2035", "class": "2"}
+{
+  "number": "2035",
+  "description": "1,1,1-TRIFLUOROETHANE (REFRIGERANT GAS R 143a)",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

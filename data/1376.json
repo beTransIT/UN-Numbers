@@ -1,1 +1,7 @@
-{"description": "Iron oxide, spent, or Iron sponge, spent obtained from coal gas purification", "number": "1376", "class": "4.2"}
+{
+  "number": "1376",
+  "description": "IRON OXIDE, SPENT or IRON SPONGE, SPENT obtained from coal gas purification",
+  "class": "4.2",
+  "classCode": "S4",
+  "tunnel": "3 (E)"
+}

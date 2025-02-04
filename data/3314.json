@@ -1,1 +1,7 @@
-{"description": "Plastics moulding compound in dough, sheet or extruded rope form evolving flammable vapour", "number": "3314", "class": "9"}
+{
+  "number": "3314",
+  "description": "PLASTICS MOULDING COMPOUND in dough, sheet or extruded rope form evolving flammable vapour",
+  "class": "9",
+  "classCode": "M3",
+  "tunnel": "3 (D/E)"
+}

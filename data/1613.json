@@ -1,1 +1,7 @@
-{"description": "Hydrocyanic acid, aqueous solutions or Hydrogen cyanide, aqueous solutions with not more than 20 percent hydrogen cyanide or Hydrocyanic acid, aqueous solutions with less than 5 percent hydrogen cyanide", "number": "1613", "class": "6.1"}
+{
+  "number": "1613",
+  "description": "HYDROCYANIC ACID, AQUEOUS SOLUTION (HYDROGEN CYANIDE, AQUEOUS SOLUTION) with not more than 20 % hydrogen cyanide",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "0 (C/D)"
+}

@@ -1,1 +1,7 @@
-{"description": "Thiophosgene", "number": "2474", "class": "6.1"}
+{
+  "number": "2474",
+  "description": "THIOPHOSGENE",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "1 (C/D)"
+}

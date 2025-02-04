@@ -1,1 +1,7 @@
-{"description": "Aluminum chloride, anhydrous", "number": "1726", "class": "8"}
+{
+  "number": "1726",
+  "description": "ALUMINIUM CHLORIDE, ANHYDROUS",
+  "class": "8",
+  "classCode": "C2",
+  "tunnel": "2 (E)"
+}

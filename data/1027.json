@@ -1,1 +1,7 @@
-{"description": "Cyclopropane", "number": "1027", "class": "2"}
+{
+  "number": "1027",
+  "description": "CYCLOPROPANE",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

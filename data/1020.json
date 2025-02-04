@@ -1,1 +1,7 @@
-{"description": "Chloropentafluoroethane or Refrigerant gas R 115", "number": "1020", "class": "2"}
+{
+  "number": "1020",
+  "description": "CHLOROPENTAFLUORO- ETHANE (REFRIGERANT GAS R 115)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

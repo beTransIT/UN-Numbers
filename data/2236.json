@@ -1,1 +1,7 @@
-{"description": "3-Chloro-4-methylphenyl isocyanate", "number": "2236", "class": "6.1"}
+{
+  "number": "2236",
+  "description": "3-CHLORO-4-METHYLPHENYL ISOCYANATE, LIQUID",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (D/E)"
+}

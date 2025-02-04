@@ -1,1 +1,7 @@
-{"description": "Trichloroisocyanuric acid, dry", "number": "2468", "class": "5.1"}
+{
+  "number": "2468",
+  "description": "TRICHLOROISOCYANURIC ACID, DRY",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "2 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Chromium nitrate", "number": "2720", "class": "5.1"}
+{
+  "number": "2720",
+  "description": "CHROMIUM NITRATE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "3 (E)"
+}

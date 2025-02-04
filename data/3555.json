@@ -1,1 +1,7 @@
-{"description": "Trifluoromethyltetrazole-sodium salt in acetone, with not less than 68 % acetone, by mass", "number": "3555", "class": "3"} 
+{
+  "number": "3555",
+  "description": "TRIFLUOROMETHYLTETRAZOL E-SODIUM SALT IN ACETONE, with not less than 68 % acetone, by mass",
+  "class": "3",
+  "classCode": "D",
+  "tunnel": "2 (B)"
+}

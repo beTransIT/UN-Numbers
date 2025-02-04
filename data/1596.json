@@ -1,1 +1,7 @@
-{"description": "Dinitroanilines", "number": "1596", "class": "6.1"}
+{
+  "number": "1596",
+  "description": "DINITROANILINES",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (D/E)"
+}

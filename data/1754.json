@@ -1,1 +1,7 @@
-{"description": "Chlorosulfonic acid (with or without sulfur trioxide)", "number": "1754", "class": "8"}
+{
+  "number": "1754",
+  "description": "CHLOROSULPHONIC ACID (with or without sulphur trioxide)",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "1 (E)"
+}

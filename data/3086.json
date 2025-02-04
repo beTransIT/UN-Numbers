@@ -1,1 +1,7 @@
-{"description": "Toxic solid, oxidizing, n.o.s.", "number": "3086", "class": "6.1"}
+{
+  "number": "3086",
+  "description": "TOXIC SOLID, OXIDIZING, N.O.S.",
+  "class": "6.1",
+  "classCode": "TO2",
+  "tunnel": "2 (D/E)"
+}

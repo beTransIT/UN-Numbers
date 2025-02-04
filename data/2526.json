@@ -1,1 +1,7 @@
-{"description": "Furfurylamine", "number": "2526", "class": "3"}
+{
+  "number": "2526",
+  "description": "FURFURYLAMINE",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "3 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Potassium hydrogen difluoride solution", "number": "3421", "class": "8"}
+{
+  "number": "3421",
+  "description": "POTASSIUM HYDROGENDIFLUORIDE SOLUTION",
+  "class": "8",
+  "classCode": "CT1",
+  "tunnel": "3 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Corrosive solid, basic, organic, n.o.s.", "number": "3263", "class": "8"}
+{
+  "number": "3263",
+  "description": "CORROSIVE SOLID, BASIC, ORGANIC, N.O.S.",
+  "class": "8",
+  "classCode": "C8",
+  "tunnel": "3 (E)"
+}

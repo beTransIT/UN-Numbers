@@ -1,1 +1,7 @@
-{"description": "Phosphorous acid", "number": "2834", "class": "8"}
+{
+  "number": "2834",
+  "description": "PHOSPHOROUS ACID",
+  "class": "8",
+  "classCode": "C2",
+  "tunnel": "3 (E)"
+}

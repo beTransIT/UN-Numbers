@@ -1,1 +1,7 @@
-{"description": "Benzoyl chloride", "number": "1736", "class": "8"}
+{
+  "number": "1736",
+  "description": "BENZOYL CHLORIDE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

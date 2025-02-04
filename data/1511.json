@@ -1,1 +1,7 @@
-{"description": "Urea hydrogen peroxide", "number": "1511", "class": "5.1"}
+{
+  "number": "1511",
+  "description": "UREA HYDROGEN PEROXIDE",
+  "class": "5.1",
+  "classCode": "OC2",
+  "tunnel": "3 (E)"
+}

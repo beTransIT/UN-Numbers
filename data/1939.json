@@ -1,1 +1,7 @@
-{"description": "Phosphorus oxybromide", "number": "1939", "class": "8"}
+{
+  "number": "1939",
+  "description": "PHOSPHORUS OXYBROMIDE",
+  "class": "8",
+  "classCode": "C2",
+  "tunnel": "2 (E)"
+}

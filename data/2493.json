@@ -1,1 +1,7 @@
-{"description": "Hexamethyleneimine", "number": "2493", "class": "3"}
+{
+  "number": "2493",
+  "description": "HEXAMETHYLENEIMINE",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "2 (D/E)"
+}

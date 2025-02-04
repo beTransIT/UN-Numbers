@@ -1,1 +1,7 @@
-{"description": "Hexafluoroacetone hydrate", "number": "2552", "class": "6.1"}
+{
+  "number": "2552",
+  "description": "HEXAFLUOROACETONE HYDRATE, LIQUID",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (D/E)"
+}

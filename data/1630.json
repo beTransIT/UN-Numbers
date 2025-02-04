@@ -1,1 +1,7 @@
-{"description": "Mercury ammonium chloride", "number": "1630", "class": "6.1"}
+{
+  "number": "1630",
+  "description": "MERCURY AMMONIUM CHLORIDE",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Acrolein dimer, stabilized", "number": "2607", "class": "3"}
+{
+  "number": "2607",
+  "description": "ACROLEIN DIMER, STABILIZED",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

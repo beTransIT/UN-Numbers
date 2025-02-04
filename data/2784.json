@@ -1,1 +1,7 @@
-{"description": "Organophosphorus pesticides, liquid, flammable, toxic, flashpoint less than 23\u00b0 C", "number": "2784", "class": "3"}
+{
+  "number": "2784",
+  "description": "ORGANOPHOSPHORUS PESTICIDE, LIQUID, FLAMMABLE, TOXIC, flash-point less than 23 °C",
+  "class": "3",
+  "classCode": "FT2",
+  "tunnel": "2 (D/E)"
+}

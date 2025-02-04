@@ -1,1 +1,7 @@
-{"description": "Triazine pesticides, liquid, toxic", "number": "2998", "class": "6.1"}
+{
+  "number": "2998",
+  "description": "TRIAZINE PESTICIDE, LIQUID, TOXIC",
+  "class": "6.1",
+  "classCode": "T6",
+  "tunnel": "2 (E)"
+}

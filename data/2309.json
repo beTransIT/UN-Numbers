@@ -1,1 +1,7 @@
-{"description": "Octadiene", "number": "2309", "class": "3"}
+{
+  "number": "2309",
+  "description": "OCTADIENES",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

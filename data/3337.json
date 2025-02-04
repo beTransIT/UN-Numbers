@@ -1,1 +1,7 @@
-{"description": "Refrigerant gas R404A", "number": "3337", "class": "2.2"}
+{
+  "number": "3337",
+  "description": "REFRIGERANT GAS R 404A (Pentafluoroethane, 1,1,1- trifluoroethane, and 1,1,1,2- tetrafluoroethane zeotropic mixture with approximately 44 % pentafluoroethane and 52 % 1,1,1- trifluoroethane)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

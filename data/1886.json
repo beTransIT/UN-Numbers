@@ -1,1 +1,7 @@
-{"description": "Benzylidene chloride", "number": "1886", "class": "6.1"}
+{
+  "number": "1886",
+  "description": "BENZYLIDENE CHLORIDE",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Diborane, compressed", "number": "1911", "class": "2"}
+{
+  "number": "1911",
+  "description": "DIBORANE",
+  "class": "2",
+  "classCode": "2TF",
+  "tunnel": "1 (D)"
+}

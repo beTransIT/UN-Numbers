@@ -1,1 +1,7 @@
-{"description": "Dichloroacetic acid", "number": "1764", "class": "8"}
+{
+  "number": "1764",
+  "description": "DICHLOROACETIC ACID",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

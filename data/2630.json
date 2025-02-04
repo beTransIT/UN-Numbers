@@ -1,1 +1,7 @@
-{"description": "Selenate or Selenite", "number": "2630", "class": "6.1"}
+{
+  "number": "2630",
+  "description": "SELENATES or SELENITES",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "1 (C/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Iodine monochloride", "number": "1792", "class": "8"}
+{
+  "number": "1792",
+  "description": "IODINE MONOCHLORIDE, SOLID",
+  "class": "8",
+  "classCode": "C2",
+  "tunnel": "2 (E)"
+}

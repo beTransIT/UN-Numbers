@@ -1,1 +1,7 @@
-{"description": "Rockets, with inert head", "number": "0183", "class": "1"}
+{
+  "number": "0183",
+  "description": "ROCKETS with inert head",
+  "class": "1",
+  "classCode": "1.3C",
+  "tunnel": "1 (C5000D)"
+}

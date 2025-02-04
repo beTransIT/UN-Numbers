@@ -1,1 +1,7 @@
-{"description": "Nitromethane", "number": "1261", "class": "3"}
+{
+  "number": "1261",
+  "description": "NITROMETHANE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (E)"
+}

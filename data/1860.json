@@ -1,1 +1,7 @@
-{"description": "Vinyl fluoride, inhibited", "number": "1860", "class": "3"}
+{
+  "number": "1860",
+  "description": "VINYL FLUORIDE, STABILIZED",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

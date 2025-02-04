@@ -1,1 +1,7 @@
-{"description": "Explosive, blasting, type B or Agent blasting, Type B", "number": "0331", "class": "1"}
+{
+  "number": "0331",
+  "description": "EXPLOSIVE, BLASTING, TYPE B (AGENT, BLASTING, TYPE B)",
+  "class": "1",
+  "classCode": "1.5D",
+  "tunnel": "1 (B1000C)"
+}

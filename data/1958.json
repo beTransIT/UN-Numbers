@@ -1,1 +1,7 @@
-{"description": "1,2-dichloro-1,1,2,2-tetrafluoroethane or Refrigerant gas R 114", "number": "1958", "class": "2"}
+{
+  "number": "1958",
+  "description": "1,2-DICHLORO-1,1,2,2- TETRAFLUOROETHANE (REFRIGERANT GAS R 114)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

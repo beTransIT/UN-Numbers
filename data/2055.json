@@ -1,1 +1,7 @@
-{"description": "Styrene monomer, inhibited", "number": "2055", "class": "8"}
+{
+  "number": "2055",
+  "description": "STYRENE MONOMER, STABILIZED",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

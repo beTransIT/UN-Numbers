@@ -1,1 +1,7 @@
-{"description": "Petroleum distillates, n.o.s. or petroleum products, n.o.s.", "number": "1268", "class": "3"}
+{
+  "number": "1268",
+  "description": "PETROLEUM DISTILLATES, N.O.S. or PETROLEUM PRODUCTS, N.O.S.",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

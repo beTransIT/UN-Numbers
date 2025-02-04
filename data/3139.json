@@ -1,1 +1,7 @@
-{"description": "Oxidizing liquid, n.o.s.", "number": "3139", "class": "5.1"}
+{
+  "number": "3139",
+  "description": "OXIDIZING LIQUID, N.O.S.",
+  "class": "5.1",
+  "classCode": "O1",
+  "tunnel": "3 (E)"
+}

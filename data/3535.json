@@ -1,1 +1,7 @@
-{"description": "Toxic solid, flammable, inorganic, not otherwise specified", "number": "3535", "class": "6.1"} 
+{
+  "number": "3535",
+  "description": "TOXIC SOLID, FLAMMABLE, INORGANIC, N.O.S.",
+  "class": "6.1",
+  "classCode": "TF3",
+  "tunnel": "2 (D/E)"
+}

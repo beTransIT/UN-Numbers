@@ -1,1 +1,7 @@
-{"description": "Mercury based pesticides, liquid, toxic", "number": "3012", "class": "6.1"}
+{
+  "number": "3012",
+  "description": "MERCURY BASED PESTICIDE, LIQUID, TOXIC",
+  "class": "6.1",
+  "classCode": "T6",
+  "tunnel": "2 (E)"
+}

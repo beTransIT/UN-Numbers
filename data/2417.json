@@ -1,1 +1,7 @@
-{"description": "Carbonyl fluoride, compressed", "number": "2417", "class": "2"}
+{
+  "number": "2417",
+  "description": "CARBONYL FLUORIDE",
+  "class": "2",
+  "classCode": "2TC",
+  "tunnel": "1 (C/D)"
+}

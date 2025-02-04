@@ -1,1 +1,7 @@
-{"description": "Sodium hydroxide, solid", "number": "1823", "class": "8"}
+{
+  "number": "1823",
+  "description": "SODIUM HYDROXIDE, SOLID",
+  "class": "8",
+  "classCode": "C6",
+  "tunnel": "2 (E)"
+}

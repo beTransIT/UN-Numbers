@@ -1,1 +1,7 @@
-{"description": "Pyridine", "number": "1282", "class": "3"}
+{
+  "number": "1282",
+  "description": "PYRIDINE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

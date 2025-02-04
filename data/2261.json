@@ -1,1 +1,7 @@
-{"description": "Xylenols", "number": "2261", "class": "6.1"}
+{
+  "number": "2261",
+  "description": "XYLENOLS, SOLID",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (D/E)"
+}

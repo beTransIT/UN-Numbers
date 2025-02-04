@@ -1,1 +1,7 @@
-{"description": "Chlorotoluidines liquid or Chlorotoluidines solid", "number": "2239", "class": "6.1"}
+{
+  "number": "2239",
+  "description": "CHLOROTOLUIDINES, SOLID",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (E)"
+}

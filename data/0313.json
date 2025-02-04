@@ -1,1 +1,7 @@
-{"description": "Signals, smoke", "number": "0313", "class": "1"}
+{
+  "number": "0313",
+  "description": "SIGNALS, SMOKE",
+  "class": "1",
+  "classCode": "1.2G",
+  "tunnel": "1 (B1000C)"
+}

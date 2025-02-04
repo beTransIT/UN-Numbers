@@ -1,1 +1,7 @@
-{"description": "Acetylene, dissolved", "number": "1001", "class": "2"}
+{
+  "number": "1001",
+  "description": "ACETYLENE, DISSOLVED",
+  "class": "2",
+  "classCode": "4F",
+  "tunnel": "2 (B/D)"
+}

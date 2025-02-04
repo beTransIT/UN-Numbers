@@ -1,1 +1,7 @@
-{"description": "Calcium carbide", "number": "1402", "class": "4.3"}
+{
+  "number": "1402",
+  "description": "CALCIUM CARBIDE",
+  "class": "4.3",
+  "classCode": "W2",
+  "tunnel": "2 (D/E)"
+}

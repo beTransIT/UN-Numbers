@@ -1,1 +1,7 @@
-{"description": "N-Ethyltoluidines", "number": "2754", "class": "6.1"}
+{
+  "number": "2754",
+  "description": "N-ETHYLTOLUIDINES",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (D/E)"
+}

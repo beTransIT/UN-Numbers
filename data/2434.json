@@ -1,1 +1,7 @@
-{"description": "Dibenzyldichlorosilane", "number": "2434", "class": "8"}
+{
+  "number": "2434",
+  "description": "DIBENZYL-DICHLOROSILANE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

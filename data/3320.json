@@ -1,1 +1,7 @@
-{"description": "Sodium borohydride and sodium hydroxide solution, with not more than 12% sodium borohydride and not more than 20% sodium hydroxide, by mass", "number": "3320", "class": "8"}
+{
+  "number": "3320",
+  "description": "SODIUM BOROHYDRIDE AND SODIUM HYDROXIDE SOLUTION, with not more than 12 % sodium borohydride and not more than 40 % sodium hydroxide by mass",
+  "class": "8",
+  "classCode": "C5",
+  "tunnel": "3 (E)"
+}

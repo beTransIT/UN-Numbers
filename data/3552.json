@@ -1,1 +1,7 @@
-{"description": "Sodium ion batteries contained in equipment or sodium ion batteries packed with equipment, with organic electrolyte", "number": "3552", "class": "9"} 
+{
+  "number": "3552",
+  "description": "SODIUM ION BATTERIES CONTAINED IN EQUIPMENT or SODIUM ION BATTERIES PACKED WITH EQUIPMENT, with organic electrolyte",
+  "class": "9",
+  "classCode": "M4",
+  "tunnel": "2 (E)"
+}

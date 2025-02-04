@@ -1,1 +1,7 @@
-{"description": "1,2,3,6-Tetrahydrobenzaldehyde", "number": "2498", "class": "3"}
+{
+  "number": "2498",
+  "description": "1,2,3,6-TETRAHYDROBENZAL- DEHYDE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

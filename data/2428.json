@@ -1,1 +1,7 @@
-{"description": "Sodium chlorate, aqueous solution", "number": "2428", "class": "5.1"}
+{
+  "number": "2428",
+  "description": "SODIUM CHLORATE, AQUEOUS SOLUTION",
+  "class": "5.1",
+  "classCode": "O1",
+  "tunnel": "3 (E)"
+}

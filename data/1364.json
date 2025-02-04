@@ -1,1 +1,7 @@
-{"description": "Cotton waste, oily", "number": "1364", "class": "4.2"}
+{
+  "number": "1364",
+  "description": "COTTON WASTE, OILY",
+  "class": "4.2",
+  "classCode": "S2",
+  "tunnel": "3 (E)"
+}

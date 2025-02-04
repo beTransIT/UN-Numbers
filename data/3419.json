@@ -1,1 +1,7 @@
-{"description": "Boron trifluoride-acetic acid complex, solid", "number": "3419", "class": "8"}
+{
+  "number": "3419",
+  "description": "BORON TRIFLUORIDE ACETIC ACID COMPLEX, SOLID",
+  "class": "8",
+  "classCode": "C4",
+  "tunnel": "2 (E)"
+}

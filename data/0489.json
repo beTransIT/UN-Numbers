@@ -1,1 +1,7 @@
-{"description": "Dinitroglycoluril or Dingu", "number": "0489", "class": "1"}
+{
+  "number": "0489",
+  "description": "DINITROGLYCOLURIL (DINGU)",
+  "class": "1",
+  "classCode": "1.1D",
+  "tunnel": "1 (B1000C)"
+}

@@ -1,1 +1,7 @@
-{"description": "Sludge, acid", "number": "1906", "class": "8"}
+{
+  "number": "1906",
+  "description": "SLUDGE ACID",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "2 (E)"
+}

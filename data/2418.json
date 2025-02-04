@@ -1,1 +1,7 @@
-{"description": "Sulfur tetrafluoride", "number": "2418", "class": "2"}
+{
+  "number": "2418",
+  "description": "SULPHUR TETRAFLUORIDE",
+  "class": "2",
+  "classCode": "2TC",
+  "tunnel": "1 (D)"
+}

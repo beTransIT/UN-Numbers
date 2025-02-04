@@ -1,1 +1,7 @@
-{"description": "Air bag inflators or Air bag modules or Seat-belt pretensioners", "number": "3268", "class": "9"}
+{
+  "number": "3268",
+  "description": "SAFETY DEVICES, electrically initiated",
+  "class": "9",
+  "classCode": "M5",
+  "tunnel": "4 (E)"
+}

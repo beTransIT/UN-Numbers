@@ -1,1 +1,7 @@
-{"description": "Organotin pesticides, liquid, flammable, toxic, flashpoint less than 23\u00b0 C", "number": "2787", "class": "6.1"}
+{
+  "number": "2787",
+  "description": "ORGANOTIN PESTICIDE, LIQUID, FLAMMABLE, TOXIC, flash-point less than 23 °C",
+  "class": "3",
+  "classCode": "FT2",
+  "tunnel": "2 (D/E)"
+}

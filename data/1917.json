@@ -1,1 +1,7 @@
-{"description": "Ethyl acrylate, inhibited", "number": "1917", "class": "3"}
+{
+  "number": "1917",
+  "description": "ETHYL ACRYLATE, STABILIZED",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

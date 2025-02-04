@@ -1,1 +1,7 @@
-{"description": "Chlorophenols, solid", "number": "2020", "class": "6.1"}
+{
+  "number": "2020",
+  "description": "CHLOROPHENOLS, SOLID",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (E)"
+}

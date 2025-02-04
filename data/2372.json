@@ -1,1 +1,7 @@
-{"description": "1,2-Di-(dimethylamino)ethane", "number": "2372", "class": "3"}
+{
+  "number": "2372",
+  "description": "1,2-DI-(DIMETHYLAMINO) ETHANE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

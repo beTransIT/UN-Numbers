@@ -1,1 +1,7 @@
-{"description": "Metal salts of organic compounds, flammable, n.o.s.", "number": "3181", "class": "4.1"}
+{
+  "number": "3181",
+  "description": "METAL SALTS OF ORGANIC COMPOUNDS, FLAMMABLE, N.O.S.",
+  "class": "4.1",
+  "classCode": "F3",
+  "tunnel": "3 (E)"
+}

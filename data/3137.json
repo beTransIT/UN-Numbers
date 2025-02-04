@@ -1,1 +1,7 @@
-{"description": "Oxidizing solid, flammable, n.o.s.", "number": "3137", "class": "5.1"}
+{
+  "number": "3137",
+  "description": "OXIDIZING SOLID, FLAMMABLE, N.O.S.",
+  "class": "5.1",
+  "classCode": "OF",
+  "tunnel": "None"
+}

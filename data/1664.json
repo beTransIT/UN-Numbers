@@ -1,1 +1,7 @@
-{"description": "Nitrotoluenes, liquid (o-; m-; p-;) or Nitrotoluenes, solid (m-; or p-;)", "number": "1664", "class": "6.1"}
+{
+  "number": "1664",
+  "description": "NITROTOLUENES, LIQUID",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Diphenylchloroarsine, liquid or Diphenylchloroarsine, solid", "number": "1699", "class": "6.1"}
+{
+  "number": "1699",
+  "description": "DIPHENYLCHLORO-ARSINE, LIQUID",
+  "class": "6.1",
+  "classCode": "T3",
+  "tunnel": "1 (C/E)"
+}

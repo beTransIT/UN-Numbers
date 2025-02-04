@@ -1,1 +1,7 @@
-{"description": "Diethyldichlorosilane", "number": "1767", "class": "8"}
+{
+  "number": "1767",
+  "description": "DIETHYLDICHLORO-SILANE",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "2 (D/E)"
+}

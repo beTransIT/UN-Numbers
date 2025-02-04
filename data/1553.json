@@ -1,1 +1,7 @@
-{"description": "Arsenic acid, liquid", "number": "1553", "class": "6.1"}
+{
+  "number": "1553",
+  "description": "ARSENIC ACID, LIQUID",
+  "class": "6.1",
+  "classCode": "T4",
+  "tunnel": "1 (C/E)"
+}

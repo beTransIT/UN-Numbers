@@ -1,1 +1,7 @@
-{"description": "Sulfur chlorides", "number": "1828", "class": "8"}
+{
+  "number": "1828",
+  "description": "SULPHUR CHLORIDES",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "1 (E)"
+}

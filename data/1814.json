@@ -1,1 +1,7 @@
-{"description": "Potassium hydroxide, solution", "number": "1814", "class": "8"}
+{
+  "number": "1814",
+  "description": "POTASSIUM HYDROXIDE SOLUTION",
+  "class": "8",
+  "classCode": "C5",
+  "tunnel": "3 (E)"
+}

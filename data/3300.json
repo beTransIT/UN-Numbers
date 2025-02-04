@@ -1,1 +1,7 @@
-{"description": "Ethylene oxide and carbon dioxide mixture with more than 87 percent ethylene oxide", "number": "3300", "class": "2.3"}
+{
+  "number": "3300",
+  "description": "ETHYLENE OXIDE AND CARBON DIOXIDE MIXTURE with more than 87 % ethylene oxide",
+  "class": "2",
+  "classCode": "2TF",
+  "tunnel": "1 (B/D)"
+}

@@ -1,1 +1,7 @@
-{"description": "Diethylamine", "number": "1154", "class": "3"}
+{
+  "number": "1154",
+  "description": "DIETHYLAMINE",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "2 (D/E)"
+}

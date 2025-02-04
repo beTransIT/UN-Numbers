@@ -1,1 +1,7 @@
-{"description": "Fire suppressant dispersing devices†", "number": "3559", "class": "9"} 
+{
+  "number": "3559",
+  "description": "FIRE SUPPRESSANT DISPERSING DEVICES",
+  "class": "9",
+  "classCode": "M5",
+  "tunnel": "4 (E)"
+}

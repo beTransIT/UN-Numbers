@@ -1,1 +1,7 @@
-{"description": "n-Butyl formate", "number": "1128", "class": "3"}
+{
+  "number": "1128",
+  "description": "n-BUTYL FORMATE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

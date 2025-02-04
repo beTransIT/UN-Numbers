@@ -1,1 +1,7 @@
-{"description": "Compressed gas, toxic, flammable, n.o.s. Inhalation Hazard Zone A, B, C, or D", "number": "1953", "class": "2"}
+{
+  "number": "1953",
+  "description": "COMPRESSED GAS, TOXIC, FLAMMABLE, N.O.S.",
+  "class": "2",
+  "classCode": "1TF",
+  "tunnel": "1 (B/D)"
+}

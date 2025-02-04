@@ -1,1 +1,7 @@
-{"description": "Valeryl chloride", "number": "2502", "class": "8"}
+{
+  "number": "2502",
+  "description": "VALERYL CHLORIDE",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "2 (D/E)"
+}

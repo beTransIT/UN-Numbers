@@ -1,1 +1,7 @@
-{"description": "1,1,1-Trichloroethane", "number": "2831", "class": "6.1"}
+{
+  "number": "2831",
+  "description": "1,1,1-TRICHLOROETHANE",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

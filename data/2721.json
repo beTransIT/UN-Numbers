@@ -1,1 +1,7 @@
-{"description": "Copper chlorate", "number": "2721", "class": "5.1"}
+{
+  "number": "2721",
+  "description": "COPPER CHLORATE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "2 (E)"
+}

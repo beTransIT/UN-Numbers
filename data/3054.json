@@ -1,1 +1,7 @@
-{"description": "Cyclohexyl mercaptan", "number": "3054", "class": "3"}
+{
+  "number": "3054",
+  "description": "CYCLOHEXYL MERCAPTAN",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

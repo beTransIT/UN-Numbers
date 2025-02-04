@@ -1,1 +1,7 @@
-{"description": "Methyl acetylene and propadiene mixtures, stabilized", "number": "1060", "class": "2"}
+{
+  "number": "1060",
+  "description": "METHYLACETYLENE AND PROPADIENE MIXTURE, STABILIZED such as mixture P1 or mixture P2",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

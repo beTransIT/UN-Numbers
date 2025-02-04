@@ -1,1 +1,7 @@
-{"description": "Powder, smokeless", "number": "0161", "class": "1"}
+{
+  "number": "0161",
+  "description": "POWDER, SMOKELESS",
+  "class": "1",
+  "classCode": "1.3C",
+  "tunnel": "1 (C5000D)"
+}

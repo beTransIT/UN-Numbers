@@ -1,1 +1,7 @@
-{"description": "Sodium methylate", "number": "1431", "class": "4.2"}
+{
+  "number": "1431",
+  "description": "SODIUM METHYLATE",
+  "class": "4.2",
+  "classCode": "SC4",
+  "tunnel": "2 (D/E)"
+}

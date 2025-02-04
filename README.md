@@ -2,7 +2,25 @@
 
 The data directory contains one JSON file for each UN Number, e.g., data/1203.json.
 
-Each JSON file contains three keys: "description", "class", and "number".
+Each JSON file contains five keys: "description", "class", "classCode", "tunnel" and "number".
+
+## Updating the Data
+
+To update the UN Numbers data from the latest ADR PDF:
+
+1. Install the required Python package:
+```bash
+pip install pdfplumber
+```
+
+2. Place your ADR PDF file named `unnumberdata.pdf` in the root directory
+
+3. Run the script:
+```bash
+python pdftojson.py
+```
+
+This will create/update all JSON files in the `data` directory.
 
 ## API Usage
 
@@ -22,7 +40,9 @@ Response:
 {
     "description": "Ammonium picrate, dry or wetted with less than 10 percent water, by mass",
     "number": "0004",
-    "class": "1"
+    "class": "1",
+    "classCode": "1.1D",
+    "tunnel": "B1000C"
 }
 ```
 

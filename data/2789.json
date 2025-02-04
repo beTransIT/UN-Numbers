@@ -1,1 +1,7 @@
-{"description": "Acetic acid, glacial or Acetic acid solution, with more than 80 percent acid, by mass", "number": "2789", "class": "8"}
+{
+  "number": "2789",
+  "description": "ACETIC ACID, GLACIAL or ACETIC ACID SOLUTION, more than 80 % acid, by mass",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "2 (D/E)"
+}

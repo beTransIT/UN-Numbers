@@ -1,1 +1,7 @@
-{"description": "Mercaptans, liquid, flammable, toxic, n.o.s. or mercaptan mixtures, liquid, flammable, toxic, n.o.s.", "number": "1228", "class": "3"}
+{
+  "number": "1228",
+  "description": "MERCAPTANS, LIQUID, FLAMMABLE, TOXIC, N.O.S. or MERCAPTAN MIXTURE, LIQUID, FLAMMABLE, TOXIC, N.O.S.",
+  "class": "3",
+  "classCode": "FT1",
+  "tunnel": "3 (D/E)"
+}

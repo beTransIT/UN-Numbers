@@ -1,1 +1,7 @@
-{"description": "Bromine chloride", "number": "2901", "class": "2"}
+{
+  "number": "2901",
+  "description": "BROMINE CHLORIDE",
+  "class": "2",
+  "classCode": "2TOC",
+  "tunnel": "1 (C/D)"
+}

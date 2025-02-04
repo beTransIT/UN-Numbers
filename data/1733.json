@@ -1,1 +1,7 @@
-{"description": "Antimony trichloride", "number": "1733", "class": "8"}
+{
+  "number": "1733",
+  "description": "ANTIMONY TRICHLORIDE",
+  "class": "8",
+  "classCode": "C2",
+  "tunnel": "2 (E)"
+}

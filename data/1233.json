@@ -1,1 +1,7 @@
-{"description": "Methylamyl acetate", "number": "1233", "class": "3"}
+{
+  "number": "1233",
+  "description": "METHYLAMYL ACETATE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

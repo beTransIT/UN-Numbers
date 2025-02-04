@@ -1,1 +1,7 @@
-{"description": "Alkyl sulfonic acids, solid or Aryl sulfonic acids, solid with not more than 5 percent free sulfuric acid", "number": "2585", "class": "8"}
+{
+  "number": "2585",
+  "description": "ALKYLSULPHONIC ACIDS, SOLID or ARYLSULPHONIC ACIDS, SOLID with not more than 5 % free sulphuric acid",
+  "class": "8",
+  "classCode": "C4",
+  "tunnel": "3 (E)"
+}

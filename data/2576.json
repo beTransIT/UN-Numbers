@@ -1,1 +1,7 @@
-{"description": "Phosphorus oxybromide, molten", "number": "2576", "class": "8"}
+{
+  "number": "2576",
+  "description": "PHOSPHORUS OXYBROMIDE, MOLTEN",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "2 (E)"
+}

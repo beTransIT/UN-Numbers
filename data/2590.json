@@ -1,1 +1,7 @@
-{"description": "White asbestos (chrysotile, actinolite, anthophyllite, tremolite)", "number": "2590", "class": "9"}
+{
+  "number": "2590",
+  "description": "ASBESTOS, CHRYSOTILE",
+  "class": "9",
+  "classCode": "M1",
+  "tunnel": "3 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Aluminium ferrosilicon powder", "number": "1395", "class": "4.3"}
+{
+  "number": "1395",
+  "description": "ALUMINIUM FERROSILICON POWDER",
+  "class": "4.3",
+  "classCode": "WT2",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Hydrogen chloride, refrigerated liquid", "number": "2186", "class": "2"}
+{
+  "number": "2186",
+  "description": "HYDROGEN CHLORIDE, REFRIGERATED LIQUID",
+  "class": "2",
+  "classCode": "3TC",
+  "tunnel": "None"
+}

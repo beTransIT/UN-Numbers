@@ -1,1 +1,7 @@
-{"description": "Torpedoes with bursting charge", "number": "0330", "class": "1"}
+{
+  "number": "0330",
+  "description": "TORPEDOES with bursting charge",
+  "class": "1",
+  "classCode": "1.1F",
+  "tunnel": "1 (B1000C)"
+}

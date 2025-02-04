@@ -1,1 +1,7 @@
-{"description": "Aviation regulated solid, n.o.s.", "number": "3335", "class": "9"}
+{
+  "number": "3335",
+  "description": "Aviation regulated solid, n.o.s.",
+  "class": "9",
+  "classCode": "M11",
+  "tunnel": "None"
+}

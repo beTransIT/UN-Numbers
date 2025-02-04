@@ -1,1 +1,7 @@
-{"description": "Coal gas, compressed", "number": "1023", "class": "2"}
+{
+  "number": "1023",
+  "description": "COAL GAS, COMPRESSED",
+  "class": "2",
+  "classCode": "1TF",
+  "tunnel": "1 (B/D)"
+}

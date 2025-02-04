@@ -1,1 +1,7 @@
-{"description": "Elevated temperature liquid, flammable, n.o.s., with flashpoint above 60\u00b0 C, at or above its flashpoint", "number": "3256", "class": "3"}
+{
+  "number": "3256",
+  "description": "ELEVATED TEMPERATURE LIQUID, FLAMMABLE, N.O.S. with flashpoint above 60° C, at or above its flashpoint and at or above 100° C",
+  "class": "3",
+  "classCode": "F2",
+  "tunnel": "3 (D/E)"
+}

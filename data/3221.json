@@ -1,1 +1,7 @@
-{"description": "Self-reactive liquid type B", "number": "3221", "class": "4.1"}
+{
+  "number": "3221",
+  "description": "SELF-REACTIVE LIQUID TYPE B",
+  "class": "4.1",
+  "classCode": "SR1",
+  "tunnel": "1 (B)"
+}

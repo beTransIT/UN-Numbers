@@ -1,1 +1,7 @@
-{"description": "Pyrophoric metals, n.o.s. or Pyrophoric alloys, n.o.s.", "number": "1383", "class": "4.2"}
+{
+  "number": "1383",
+  "description": "PYROPHORIC METAL, N.O.S. or PYROPHORIC ALLOY, N.O.S.",
+  "class": "4.2",
+  "classCode": "S4",
+  "tunnel": "0 (B/E)"
+}

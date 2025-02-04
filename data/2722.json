@@ -1,1 +1,7 @@
-{"description": "Lithium nitrate", "number": "2722", "class": "5.1"}
+{
+  "number": "2722",
+  "description": "LITHIUM NITRATE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "3 (E)"
+}

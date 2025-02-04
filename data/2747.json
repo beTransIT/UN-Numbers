@@ -1,1 +1,7 @@
-{"description": "tert-Butylcyclohexylchloroformate", "number": "2747", "class": "6.1"}
+{
+  "number": "2747",
+  "description": "tert-BUTYLCYCLOHEXYL CHLOROFORMATE",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

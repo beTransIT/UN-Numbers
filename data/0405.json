@@ -1,1 +1,7 @@
-{"description": "Cartridges, signal", "number": "0405", "class": "1"}
+{
+  "number": "0405",
+  "description": "CARTRIDGES, SIGNAL",
+  "class": "1",
+  "classCode": "1.4S",
+  "tunnel": "4 (E)"
+}

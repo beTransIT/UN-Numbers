@@ -1,1 +1,7 @@
-{"description": "Phenylphosphorus Dichloride", "number": "2798", "class": "8"}
+{
+  "number": "2798",
+  "description": "PHENYLPHOSPHORUS DICHLORIDE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

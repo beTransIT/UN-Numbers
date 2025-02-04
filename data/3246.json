@@ -1,1 +1,7 @@
-{"description": "Methanesulfonyl chloride", "number": "3246", "class": "6.1"}
+{
+  "number": "3246",
+  "description": "METHANESULPHONYL CHLORIDE",
+  "class": "6.1",
+  "classCode": "TC1",
+  "tunnel": "1 (C/D)"
+}

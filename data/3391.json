@@ -1,1 +1,7 @@
-{"description": "Organometallic substance, solid, pyrophoric", "number": "3391", "class": "4.2"}
+{
+  "number": "3391",
+  "description": "ORGANOMETALLIC SUBSTANCE, SOLID, PYROPHORIC",
+  "class": "4.2",
+  "classCode": "S5",
+  "tunnel": "0 (B/E)"
+}

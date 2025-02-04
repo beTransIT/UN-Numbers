@@ -1,1 +1,7 @@
-{"description": "Isobutane see also Petroleum gases, liquified", "number": "1969", "class": "2"}
+{
+  "number": "1969",
+  "description": "ISOBUTANE",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

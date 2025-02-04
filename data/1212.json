@@ -1,1 +1,7 @@
-{"description": "Isobutanol or isobutyl alcohol", "number": "1212", "class": "3"}
+{
+  "number": "1212",
+  "description": "ISOBUTANOL (ISOBUTYL ALCOHOL)",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

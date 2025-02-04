@@ -1,1 +1,7 @@
-{"description": "Trimethylamine, aqueous solutions with not more than 50 percent trimethylamine by mass", "number": "1297", "class": "3"}
+{
+  "number": "1297",
+  "description": "TRIMETHYLAMINE, AQUEOUS SOLUTION, not more than 50 % trimethylamine, by mass",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "3 (D/E)"
+}

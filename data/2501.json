@@ -1,1 +1,7 @@
-{"description": "Tris-(1-aziridinyl)phosphine oxide, solution", "number": "2501", "class": "6.1"}
+{
+  "number": "2501",
+  "description": "TRIS-(1-AZIRIDINYL) PHOSPHINE OXIDE SOLUTION",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

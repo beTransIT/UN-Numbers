@@ -1,1 +1,7 @@
-{"description": "2-Ethylbutanol", "number": "2275", "class": "3"}
+{
+  "number": "2275",
+  "description": "2-ETHYLBUTANOL",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

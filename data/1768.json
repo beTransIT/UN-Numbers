@@ -1,1 +1,7 @@
-{"description": "Difluorophosphoric acid, anhydrous", "number": "1768", "class": "8"}
+{
+  "number": "1768",
+  "description": "DIFLUOROPHOSPHORIC ACID, ANHYDROUS",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "2 (E)"
+}

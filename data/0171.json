@@ -1,1 +1,7 @@
-{"description": "Ammunition, illuminating with or without burster, expelling charge, or propelling charge", "number": "0171", "class": "1"}
+{
+  "number": "0171",
+  "description": "AMMUNITION, ILLUMINATING with or without burster, expelling charge or propelling charge",
+  "class": "1",
+  "classCode": "1.2G",
+  "tunnel": "1 (B1000C)"
+}

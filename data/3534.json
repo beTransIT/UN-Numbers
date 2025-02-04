@@ -1,1 +1,7 @@
-{"description": "Polymerizing substance, liquid, stabilized, temperature controlled, not otherwise specified", "number": "3534", "class": "4.1"} 
+{
+  "number": "3534",
+  "description": "POLYMERIZING SUBSTANCE, LIQUID, TEMPERATURE CONTROLLED, N.O.S.",
+  "class": "4.1",
+  "classCode": "PM2",
+  "tunnel": "1 (D)"
+}

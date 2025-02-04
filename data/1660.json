@@ -1,1 +1,7 @@
-{"description": "Nitric oxide, compressed", "number": "1660", "class": "2"}
+{
+  "number": "1660",
+  "description": "NITRIC OXIDE, COMPRESSED",
+  "class": "2",
+  "classCode": "1TOC",
+  "tunnel": "1 (D)"
+}

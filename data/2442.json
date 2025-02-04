@@ -1,1 +1,7 @@
-{"description": "Trichloroacetyl chloride", "number": "2442", "class": "8"}
+{
+  "number": "2442",
+  "description": "TRICHLOROACETYL CHLORIDE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Methylamine, aqueous solution", "number": "1235", "class": "3"}
+{
+  "number": "1235",
+  "description": "METHYLAMINE, AQUEOUS SOLUTION",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "2 (D/E)"
+}

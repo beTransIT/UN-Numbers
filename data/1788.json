@@ -1,1 +1,7 @@
-{"description": "Hydrobromic acid, with more than 49 percent hydrobromic acid or Hydrobromic acid, with not more than 49 percent hydrobromic acid", "number": "1788", "class": "8"}
+{
+  "number": "1788",
+  "description": "HYDROBROMIC ACID",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "3 (E)"
+}

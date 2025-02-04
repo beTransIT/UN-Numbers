@@ -1,1 +1,7 @@
-{"description": "Ethanolamine or Ethanolamine solutions", "number": "2491", "class": "8"}
+{
+  "number": "2491",
+  "description": "ETHANOLAMINE or ETHANOLAMINE SOLUTION",
+  "class": "8",
+  "classCode": "C7",
+  "tunnel": "3 (E)"
+}

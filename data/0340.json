@@ -1,1 +1,7 @@
-{"description": "Nitrocellulose, dry or wetted with less than 25 percent water (or alcohol), by mass", "number": "0340", "class": "1"}
+{
+  "number": "0340",
+  "description": "NITROCELLULOSE, dry or wetted with less than 25 % water (or alcohol), by mass",
+  "class": "1",
+  "classCode": "1.1D",
+  "tunnel": "1 (B1000C)"
+}

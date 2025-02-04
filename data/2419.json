@@ -1,1 +1,7 @@
-{"description": "Bromotrifluoroethylene", "number": "2419", "class": "2"}
+{
+  "number": "2419",
+  "description": "BROMOTRIFLUORO-ETHYLENE",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

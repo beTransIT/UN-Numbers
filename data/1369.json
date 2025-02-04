@@ -1,1 +1,7 @@
-{"description": "p-Nitrosodimethylaniline", "number": "1369", "class": "4.2"}
+{
+  "number": "1369",
+  "description": "p-NITROSODIMETHYL-ANILINE",
+  "class": "4.2",
+  "classCode": "S2",
+  "tunnel": "2 (D/E)"
+}

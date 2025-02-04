@@ -1,1 +1,7 @@
-{"description": "Acetylene, solvent free", "number": "3374", "class": "2.1"}
+{
+  "number": "3374",
+  "description": "ACETYLENE, SOLVENT FREE",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (D)"
+}

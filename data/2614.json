@@ -1,1 +1,7 @@
-{"description": "Methallyl alcohol", "number": "2614", "class": "3"}
+{
+  "number": "2614",
+  "description": "METHALLYL ALCOHOL",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

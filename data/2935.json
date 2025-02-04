@@ -1,1 +1,7 @@
-{"description": "Ethyl 2-chloropropionate", "number": "2935", "class": "3.3"}
+{
+  "number": "2935",
+  "description": "ETHYL 2-CHLOROPROPIONATE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

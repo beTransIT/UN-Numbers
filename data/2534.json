@@ -1,1 +1,7 @@
-{"description": "Methylchlorosilane", "number": "2534", "class": "2"}
+{
+  "number": "2534",
+  "description": "METHYLCHLOROSILANE",
+  "class": "2",
+  "classCode": "2TFC",
+  "tunnel": "1 (B/D)"
+}

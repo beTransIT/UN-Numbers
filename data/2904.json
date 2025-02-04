@@ -1,1 +1,7 @@
-{"description": "Chlorophenolates, liquid or Phenolates, liquid", "number": "2904", "class": "8"}
+{
+  "number": "2904",
+  "description": "CHLOROPHENOLATES, LIQUID or PHENOLATES, LIQUID",
+  "class": "8",
+  "classCode": "C9",
+  "tunnel": "3 (E)"
+}

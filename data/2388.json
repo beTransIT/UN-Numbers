@@ -1,1 +1,7 @@
-{"description": "Fluorotoluenes", "number": "2388", "class": "3"}
+{
+  "number": "2388",
+  "description": "FLUOROTOLUENES",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

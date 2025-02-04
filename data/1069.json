@@ -1,1 +1,7 @@
-{"description": "Nitrosyl chloride", "number": "1069", "class": "2"}
+{
+  "number": "1069",
+  "description": "NITROSYL CHLORIDE",
+  "class": "2",
+  "classCode": "2TC",
+  "tunnel": "1 (D)"
+}

@@ -1,1 +1,7 @@
-{"description": "Methyl mercaptan", "number": "1064", "class": "2"}
+{
+  "number": "1064",
+  "description": "METHYL MERCAPTAN",
+  "class": "2",
+  "classCode": "2TF",
+  "tunnel": "1 (B/D)"
+}

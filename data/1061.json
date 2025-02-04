@@ -1,1 +1,7 @@
-{"description": "Methylamine, anhydrous", "number": "1061", "class": "2"}
+{
+  "number": "1061",
+  "description": "METHYLAMINE, ANHYDROUS",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

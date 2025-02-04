@@ -1,1 +1,7 @@
-{"description": "Chloroacetone, stabilized", "number": "1695", "class": "6.1"}
+{
+  "number": "1695",
+  "description": "CHLOROACETONE, STABILIZED",
+  "class": "6.1",
+  "classCode": "TFC",
+  "tunnel": "1 (C/D)"
+}

@@ -1,1 +1,7 @@
-{"description": "Propyleneimine, inhibited", "number": "1921", "class": "3"}
+{
+  "number": "1921",
+  "description": "PROPYLENEIMINE, STABILIZED",
+  "class": "3",
+  "classCode": "FT1",
+  "tunnel": "1 (C/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Hexaldehyde", "number": "1207", "class": "3"}
+{
+  "number": "1207",
+  "description": "HEXALDEHYDE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

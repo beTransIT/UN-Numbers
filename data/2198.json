@@ -1,1 +1,7 @@
-{"description": "Phosphorus pentafluoride, compressed", "number": "2198", "class": "2"}
+{
+  "number": "2198",
+  "description": "PHOSPHORUS PENTAFLUORIDE",
+  "class": "2",
+  "classCode": "2TC",
+  "tunnel": "1 (D)"
+}

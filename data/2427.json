@@ -1,1 +1,7 @@
-{"description": "Potassium chlorate, aqueous solution", "number": "2427", "class": "5.1"}
+{
+  "number": "2427",
+  "description": "POTASSIUM CHLORATE, AQUEOUS SOLUTION",
+  "class": "5.1",
+  "classCode": "O1",
+  "tunnel": "3 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Ethyl methacrylate", "number": "2277", "class": "3"}
+{
+  "number": "2277",
+  "description": "ETHYL METHACRYLATE, STABILIZED",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

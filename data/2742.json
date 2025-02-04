@@ -1,1 +1,7 @@
-{"description": "Chloroformates, toxic, corrosive, flammable, n.o.s.", "number": "2742", "class": "6.1"}
+{
+  "number": "2742",
+  "description": "CHLOROFORMATES, TOXIC, CORROSIVE, FLAMMABLE, N.O.S.",
+  "class": "6.1",
+  "classCode": "TFC",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Butyric acid", "number": "2820", "class": "8"}
+{
+  "number": "2820",
+  "description": "BUTYRIC ACID",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "3 (E)"
+}

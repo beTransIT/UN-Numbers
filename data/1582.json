@@ -1,1 +1,7 @@
-{"description": "Chloropicrin and methyl chloride mixtures", "number": "1582", "class": "2"}
+{
+  "number": "1582",
+  "description": "CHLOROPICRIN AND METHYL CHLORIDE MIXTURE",
+  "class": "2",
+  "classCode": "2T",
+  "tunnel": "1 (C/D)"
+}

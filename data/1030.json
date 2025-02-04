@@ -1,1 +1,7 @@
-{"description": "1,1-Difluoroethane or Refrigerant gas R 152a", "number": "1030", "class": "2"}
+{
+  "number": "1030",
+  "description": "1,1-DIFLUOROETHANE (REFRIGERANT GAS R 152a)",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

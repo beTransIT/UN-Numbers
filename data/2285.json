@@ -1,1 +1,7 @@
-{"description": "Isocyanatobenzotrifluorides", "number": "2285", "class": "6.1"}
+{
+  "number": "2285",
+  "description": "ISOCYANATOBENZO- TRIFLUORIDES",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "2 (D/E)"
+}

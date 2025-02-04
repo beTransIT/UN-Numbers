@@ -1,1 +1,7 @@
-{"description": "Propionitrile", "number": "2404", "class": "3"}
+{
+  "number": "2404",
+  "description": "PROPIONITRILE",
+  "class": "3",
+  "classCode": "FT1",
+  "tunnel": "2 (D/E)"
+}

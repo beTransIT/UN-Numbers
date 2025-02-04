@@ -1,1 +1,7 @@
-{"description": "Chemical under Pressure, N.O.S.}", "number": "3500", "class": "2.2"}
+{
+  "number": "3500",
+  "description": "CHEMICAL UNDER PRESSURE, N.O.S.",
+  "class": "2",
+  "classCode": "8A",
+  "tunnel": "3 (C/E)"
+}

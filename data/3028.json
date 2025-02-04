@@ -1,1 +1,7 @@
-{"description": "Batteries, dry, containing potassium hydroxide solid, electric, storage", "number": "3028", "class": "8"}
+{
+  "number": "3028",
+  "description": "BATTERIES, DRY, CONTAINING POTASSIUM HYDROXIDE SOLID, electric storage",
+  "class": "8",
+  "classCode": "C11",
+  "tunnel": "3 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Chloroacetonitrile", "number": "2668", "class": "6.1"}
+{
+  "number": "2668",
+  "description": "CHLOROACETONITRILE",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "1 (C/D)"
+}

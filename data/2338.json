@@ -1,1 +1,7 @@
-{"description": "Benzotrifluoride", "number": "2338", "class": "3"}
+{
+  "number": "2338",
+  "description": "BENZOTRIFLUORIDE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

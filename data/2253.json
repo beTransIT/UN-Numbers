@@ -1,1 +1,7 @@
-{"description": "N,N-Dimethylaniline", "number": "2253", "class": "6.1"}
+{
+  "number": "2253",
+  "description": "N,N-DIMETHYLANILINE",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (D/E)"
+}

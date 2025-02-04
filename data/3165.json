@@ -1,1 +1,7 @@
-{"description": "Aircraft hydraulic power unit fuel tank (containing a mixture of anhydrous hydrazine and monomethyl hydrazine) (M86 fuel)", "number": "3165", "class": "3"}
+{
+  "number": "3165",
+  "description": "AIRCRAFT HYDRAULIC POWER UNIT FUEL TANK (containing a mixture of anhydrous hydrazine and methylhydrazine) (M86 fuel)",
+  "class": "3",
+  "classCode": "FTC",
+  "tunnel": "1 (E)"
+}

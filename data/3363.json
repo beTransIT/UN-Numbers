@@ -1,1 +1,7 @@
-{"description": "Dangerous goods in machinery or Dangerous goods in apparatus", "number": "3363", "class": "9"}
+{
+  "number": "3363",
+  "description": "DANGEROUS GOODS IN ARTICLES or DANGEROUS GOODS IN MACHINERY or DANGEROUS GOODS IN APPARATUS",
+  "class": "9",
+  "classCode": "M11",
+  "tunnel": ""
+}

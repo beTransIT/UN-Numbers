@@ -1,1 +1,7 @@
-{"description": "Batteries, wet, non-spillable, electric storage", "number": "2800", "class": "8"}
+{
+  "number": "2800",
+  "description": "BATTERIES, WET, NON- SPILLABLE, electric storage",
+  "class": "8",
+  "classCode": "C11",
+  "tunnel": "3 (E)"
+}

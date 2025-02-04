@@ -1,1 +1,7 @@
-{"description": "Flares, surface", "number": "0092", "class": "1"}
+{
+  "number": "0092",
+  "description": "FLARES, SURFACE",
+  "class": "1",
+  "classCode": "1.3G",
+  "tunnel": "1 (C5000D)"
+}

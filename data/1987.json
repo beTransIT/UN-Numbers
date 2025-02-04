@@ -1,1 +1,7 @@
-{"description": "Alcohols, n.o.s.", "number": "1987", "class": "3"}
+{
+  "number": "1987",
+  "description": "ALCOHOLS, N.O.S.",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

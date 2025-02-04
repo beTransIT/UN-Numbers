@@ -1,1 +1,7 @@
-{"description": "2-(2-Aminoethoxy) ethanol", "number": "3055", "class": "8"}
+{
+  "number": "3055",
+  "description": "2-(2-AMINOETHOXY) ETHANOL",
+  "class": "8",
+  "classCode": "C7",
+  "tunnel": "3 (E)"
+}

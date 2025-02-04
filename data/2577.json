@@ -1,1 +1,7 @@
-{"description": "Phenylacetyl chloride", "number": "2577", "class": "8"}
+{
+  "number": "2577",
+  "description": "PHENYLACETYL CHLORIDE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

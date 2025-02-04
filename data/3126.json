@@ -1,1 +1,7 @@
-{"description": "Self-heating solid, corrosive, organic, n.o.s.", "number": "3126", "class": "4.2"}
+{
+  "number": "3126",
+  "description": "SELF-HEATING SOLID, CORROSIVE, ORGANIC, N.O.S.",
+  "class": "4.2",
+  "classCode": "SC2",
+  "tunnel": "3 (E)"
+}

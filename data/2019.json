@@ -1,1 +1,7 @@
-{"description": "Chloroanilines, liquid", "number": "2019", "class": "6.1"}
+{
+  "number": "2019",
+  "description": "CHLOROANILINES, LIQUID",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (D/E)"
+}

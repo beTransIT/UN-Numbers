@@ -1,1 +1,7 @@
-{"description": "N-Aminoethylpiperazine", "number": "2815", "class": "8"}
+{
+  "number": "2815",
+  "description": "N-AMINOETHYLPIPERAZINE",
+  "class": "8",
+  "classCode": "CT1",
+  "tunnel": "3 (E)"
+}

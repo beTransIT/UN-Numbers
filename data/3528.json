@@ -1,1 +1,7 @@
-{"description": "Engine, internal combustion, flammable liquid powered or engine, fuel cell, flammable liquid powered or machinery, internal combustion, flammable liquid powered or machinery, fuel cell, flammable liquid powered", "number": "3528", "class": "3"} 
+{
+  "number": "3528",
+  "description": "ENGINE, INTERNAL COMBUSTION, FLAMMABLE LIQUID POWERED or ENGINE, FUEL CELL, FLAMMABLE LIQUID POWERED or MACHINERY, INTERNAL COMBUSTION, FLAMMABLE LIQUID POWERED or MACHINERY, FUEL CELL, FLAMMABLE LIQUID POWERED",
+  "class": "3",
+  "classCode": "F3",
+  "tunnel": "- (D)"
+}

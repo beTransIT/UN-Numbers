@@ -1,1 +1,7 @@
-{"description": "Dimethyldichlorosilane", "number": "1162", "class": "3"}
+{
+  "number": "1162",
+  "description": "DIMETHYLDICHLORO-SILANE",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "2 (D/E)"
+}

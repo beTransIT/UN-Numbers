@@ -1,1 +1,7 @@
-{"description": "Amylamines", "number": "1106", "class": "3"}
+{
+  "number": "1106",
+  "description": "AMYLAMINE",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "3 (D/E)"
+}

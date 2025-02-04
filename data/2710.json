@@ -1,1 +1,7 @@
-{"description": "Dipropyl ketone", "number": "2710", "class": "3"}
+{
+  "number": "2710",
+  "description": "DIPROPYL KETONE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

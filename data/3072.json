@@ -1,1 +1,7 @@
-{"description": "Life-saving appliances, not self-inflating containing dangerous goods as equipment", "number": "3072", "class": "9"}
+{
+  "number": "3072",
+  "description": "LIFE-SAVING APPLIANCES NOT SELF-INFLATING containing dangerous goods as equipment",
+  "class": "9",
+  "classCode": "M5",
+  "tunnel": "3 (E)"
+}

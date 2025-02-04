@@ -1,1 +1,7 @@
-{"description": "Dichlorodifluoromethane and difluoroethane azeotropic mixture or Refrigerant gas R 500 with approximately 74 percent dichlorodifluoromethane", "number": "2602", "class": "2"}
+{
+  "number": "2602",
+  "description": "DICHLORODIFLUORO-METHANE AND 1,1-DIFLUOROETHANE AZEOTROPIC MIXTURE with approximately 74 % dichlorodifluoromethane (REFRIGERANT GAS R 500)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

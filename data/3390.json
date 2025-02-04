@@ -1,1 +1,7 @@
-{"description": "Toxic by inhalation liquid, corrosive, n.o.s. with an inhalation toxicity lower than or equal to 1000ml/m3 and saturated vapour concentration greater than or equal to 10 LC50", "number": "3390", "class": "6.1"}
+{
+  "number": "3390",
+  "description": "TOXIC BY INHALATION LIQUID, CORROSIVE, N.O.S. with an LC₅₀ lower than or equal to 1000 ml/m³ and saturated vapour concentration greater than or equal to 10 LC₅₀",
+  "class": "6.1",
+  "classCode": "TC1 or\nTC3",
+  "tunnel": "1 (C/D)"
+}

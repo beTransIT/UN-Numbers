@@ -1,1 +1,7 @@
-{"description": "Vinyl bromide, inhibited", "number": "1085", "class": "2"}
+{
+  "number": "1085",
+  "description": "VINYL BROMIDE, STABILIZED",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

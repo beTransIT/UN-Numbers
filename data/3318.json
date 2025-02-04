@@ -1,1 +1,7 @@
-{"description": "Ammonia solution, relative density less than 0.880 at 15 \u00b0C in water, with more than 50% ammonia", "number": "3318", "class": "2.3"}
+{
+  "number": "3318",
+  "description": "AMMONIA SOLUTION, relative density less than 0.880 at 15 °C in water, with more than 50 % ammonia",
+  "class": "2",
+  "classCode": "4TC",
+  "tunnel": "1 (C/D)"
+}

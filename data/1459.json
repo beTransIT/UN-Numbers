@@ -1,1 +1,7 @@
-{"description": "Chlorat und Magnesiumchlorid, Mischung", "number": "1459", "class": "5.1"}
+{
+  "number": "1459",
+  "description": "CHLORATE AND MAGNESIUM CHLORIDE MIXTURE, SOLID",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "3 (E)"
+}

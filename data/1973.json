@@ -1,1 +1,7 @@
-{"description": "Chlorodifluoromethane and chloropentafluoroethane mixture or Refrigerant gas R 502 with fixed boiling point, with approximately 49 percent chlorodifluoromethane", "number": "1973", "class": "2"}
+{
+  "number": "1973",
+  "description": "CHLORODIFLUORO-METHANE AND CHLOROPENTAFLUORO- ETHANE MIXTURE with fixed boiling point, with approximately 49 % chlorodifluoromethane (REFRIGERANT GAS R 502)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Trimethylcyclohexylamine", "number": "2326", "class": "8"}
+{
+  "number": "2326",
+  "description": "TRIMETHYLCYCLO- HEXYLAMINE",
+  "class": "8",
+  "classCode": "C7",
+  "tunnel": "3 (E)"
+}

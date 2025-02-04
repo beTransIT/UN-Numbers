@@ -1,1 +1,7 @@
-{"description": "Cyclobutane", "number": "2601", "class": "2"}
+{
+  "number": "2601",
+  "description": "CYCLOBUTANE",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

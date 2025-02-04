@@ -1,1 +1,7 @@
-{"description": "Methacrylaldehyde, inhibited", "number": "2396", "class": "3"}
+{
+  "number": "2396",
+  "description": "METHACRYLALDEHYDE, STABILIZED",
+  "class": "3",
+  "classCode": "FT1",
+  "tunnel": "2 (D/E)"
+}

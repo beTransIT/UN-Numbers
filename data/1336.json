@@ -1,1 +1,7 @@
-{"description": "Nitroguanidine, wetted or Picrite, wetted with not less than 20 percent water, by mass", "number": "1336", "class": "4.1"}
+{
+  "number": "1336",
+  "description": "NITROGUANIDINE (PICRITE), WETTED with not less than 20 % water, by mass",
+  "class": "4.1",
+  "classCode": "D",
+  "tunnel": "1 (B)"
+}

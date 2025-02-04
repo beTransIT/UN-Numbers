@@ -1,1 +1,7 @@
-{"description": "Isosorbide dinitrate mixture with not less than 60 percent lactose, mannose, starch or calcium hydrogen phosphate", "number": "2907", "class": "4.1"}
+{
+  "number": "2907",
+  "description": "ISOSORBIDE DINITRATE MIXTURE with not less than 60 % lactose, mannose, starch or calcium hydrogen phosphate",
+  "class": "4.1",
+  "classCode": "D",
+  "tunnel": "2 (B)"
+}

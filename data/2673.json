@@ -1,1 +1,7 @@
-{"description": "2-Amino-4-chlorophenol", "number": "2673", "class": "6.1"}
+{
+  "number": "2673",
+  "description": "2-AMINO-4-CHLOROPHENOL",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (D/E)"
+}

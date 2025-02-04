@@ -1,1 +1,7 @@
-{"description": "Benzyl iodide", "number": "2653", "class": "6.1"}
+{
+  "number": "2653",
+  "description": "BENZYL IODIDE",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (D/E)"
+}

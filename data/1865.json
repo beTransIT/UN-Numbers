@@ -1,1 +1,7 @@
-{"description": "n-Propyl nitrate", "number": "1865", "class": "3"}
+{
+  "number": "1865",
+  "description": "n-PROPYL NITRATE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (E)"
+}

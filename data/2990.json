@@ -1,1 +1,7 @@
-{"description": "Life-saving appliances, self-inflating", "number": "2990", "class": "9"}
+{
+  "number": "2990",
+  "description": "LIFE-SAVING APPLIANCES, SELF- INFLATING",
+  "class": "9",
+  "classCode": "M5",
+  "tunnel": "3 (E)"
+}

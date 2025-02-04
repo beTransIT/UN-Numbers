@@ -1,1 +1,7 @@
-{"description": "Liquefied gas, toxic, flammable, corrosive, n.o.s.", "number": "3309", "class": "2.3"}
+{
+  "number": "3309",
+  "description": "LIQUEFIED GAS, TOXIC, FLAMMABLE, CORROSIVE, N.O.S.",
+  "class": "2",
+  "classCode": "2TFC",
+  "tunnel": "1 (B/D)"
+}

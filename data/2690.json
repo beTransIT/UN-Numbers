@@ -1,1 +1,7 @@
-{"description": "N-n-Butyl imidazole", "number": "2690", "class": "6.1"}
+{
+  "number": "2690",
+  "description": "N,n-BUTYLIMIDAZOLE",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (D/E)"
+}

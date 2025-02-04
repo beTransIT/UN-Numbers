@@ -1,1 +1,7 @@
-{"description": "Phosphine, adsorbed", "number": "3525", "class": "2.3"} 
+{
+  "number": "3525",
+  "description": "PHOSPHINE, ADSORBED",
+  "class": "2",
+  "classCode": "9TF",
+  "tunnel": "1 (D)"
+}

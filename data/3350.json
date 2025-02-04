@@ -1,1 +1,7 @@
-{"description": "Pyrethroid pesticide, liquid, flammable, toxic flash point less than 23 \u00b0C", "number": "3350", "class": "3"}
+{
+  "number": "3350",
+  "description": "PYRETHROID PESTICIDE, LIQUID, FLAMMABLE, TOXIC, flash-point less than 23 °C",
+  "class": "3",
+  "classCode": "FT2",
+  "tunnel": "2 (D/E)"
+}

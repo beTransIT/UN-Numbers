@@ -1,1 +1,7 @@
-{"description": "Triazine pesticides, liquid, flammable, toxic, flashpoint less than 23\u00b0 C", "number": "2764", "class": "3"}
+{
+  "number": "2764",
+  "description": "TRIAZINE PESTICIDE, LIQUID, FLAMMABLE, TOXIC, flash-point less than 23 °C",
+  "class": "3",
+  "classCode": "FT2",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Organophosphorus compound, toxic, flammable, n.o.s.", "number": "3279", "class": "6.1"}
+{
+  "number": "3279",
+  "description": "ORGANOPHOSPHORUS COMPOUND, TOXIC, FLAMMABLE, N.O.S.",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "2 (D/E)"
+}

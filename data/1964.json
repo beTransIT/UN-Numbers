@@ -1,1 +1,7 @@
-{"description": "Hydrocarbon gas mixture, compressed, n.o.s.", "number": "1964", "class": "2"}
+{
+  "number": "1964",
+  "description": "HYDROCARBON GAS MIXTURE, COMPRESSED, N.O.S.",
+  "class": "2",
+  "classCode": "1F",
+  "tunnel": "2 (B/D)"
+}

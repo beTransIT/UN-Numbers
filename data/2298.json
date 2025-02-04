@@ -1,1 +1,7 @@
-{"description": "Methylcyclopentane", "number": "2298", "class": "3"}
+{
+  "number": "2298",
+  "description": "METHYLCYCLOPENTANE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

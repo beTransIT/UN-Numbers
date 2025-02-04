@@ -1,1 +1,7 @@
-{"description": "Methoxymethyl isocyanate", "number": "2605", "class": "3"}
+{
+  "number": "2605",
+  "description": "METHOXYMETHYL ISOCYANATE",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "1 (C/D)"
+}

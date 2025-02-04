@@ -1,1 +1,7 @@
-{"description": "4-Chloro-o-toluidine hydrochloride solution", "number": "3410", "class": "6.1"}
+{
+  "number": "3410",
+  "description": "4-CHLORO-o-TOLUIDINE HYDROCHLORIDE SOLUTION",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

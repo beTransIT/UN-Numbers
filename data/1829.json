@@ -1,1 +1,7 @@
-{"description": "Sulfur trioxide, inhibited or Sulfur trioxide, stabilized", "number": "1829", "class": "8"}
+{
+  "number": "1829",
+  "description": "SULPHUR TRIOXIDE, STABILIZED",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "1 (E)"
+}

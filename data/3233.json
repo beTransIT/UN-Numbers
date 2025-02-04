@@ -1,1 +1,7 @@
-{"description": "Self-reactive liquid type C, temperature controlled", "number": "3233", "class": "4.1"}
+{
+  "number": "3233",
+  "description": "SELF-REACTIVE LIQUID TYPE C, TEMPERATURE CONTROLLED",
+  "class": "4.1",
+  "classCode": "SR2",
+  "tunnel": "1 (D)"
+}

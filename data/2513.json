@@ -1,1 +1,7 @@
-{"description": "Bromoacetyl bromide", "number": "2513", "class": "8"}
+{
+  "number": "2513",
+  "description": "BROMOACETYL BROMIDE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

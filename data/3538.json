@@ -1,1 +1,7 @@
-{"description": "Articles containing non-flammable, non toxic gas, not otherwise specified", "number": "3538", "class": "2.2"} 
+{
+  "number": "3538",
+  "description": "ARTICLES CONTAINING NON- FLAMMABLE, NON TOXIC GAS, N.O.S.",
+  "class": "2",
+  "classCode": "6A",
+  "tunnel": "4 (E)"
+}

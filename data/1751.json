@@ -1,1 +1,7 @@
-{"description": "Chloroacetic acid, solid", "number": "1751", "class": "6.1"}
+{
+  "number": "1751",
+  "description": "CHLOROACETIC ACID, SOLID",
+  "class": "6.1",
+  "classCode": "TC2",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Dichloroisocyanuric acid, dry or Dichloroisocyanuric acid salts", "number": "2465", "class": "5.1"}
+{
+  "number": "2465",
+  "description": "DICHLOROISOCYANURIC ACID, DRY or DICHLOROISOCYANURIC ACID SALTS",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "2 (E)"
+}

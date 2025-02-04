@@ -1,1 +1,7 @@
-{"description": "Hydrogen in metal hydride storage system", "number": "3468", "class": "2.1"}
+{
+  "number": "3468",
+  "description": "HYDROGEN IN A METAL HYDRIDE STORAGE SYSTEM or HYDROGEN IN A METAL HYDRIDE STORAGE SYSTEM CONTAINED IN EQUIPMENT or HYDROGEN IN A METAL HYDRIDE STORAGE SYSTEM PACKED WITH EQUIPMENT",
+  "class": "2",
+  "classCode": "1F",
+  "tunnel": "2 (D)"
+}

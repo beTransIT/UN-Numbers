@@ -1,1 +1,7 @@
-{"description": "9-Phosphabicyclonoanes or Cyclooctadiene phosphines", "number": "2940", "class": "4.2"}
+{
+  "number": "2940",
+  "description": "9-PHOSPHABICYCLO-NONANES (CYCLOOCTADIENE PHOSPHINES)",
+  "class": "4.2",
+  "classCode": "S2",
+  "tunnel": "2 (D/E)"
+}

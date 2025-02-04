@@ -1,1 +1,7 @@
-{"description": "Nitrobromobenzenes liquid or Nitrobromobenzenes solid", "number": "2732", "class": "6.1"}
+{
+  "number": "2732",
+  "description": "NITROBROMOBENZENES, LIQUID",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

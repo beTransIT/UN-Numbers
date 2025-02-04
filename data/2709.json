@@ -1,1 +1,7 @@
-{"description": "Butyl benzenes", "number": "2709", "class": "3"}
+{
+  "number": "2709",
+  "description": "BUTYLBENZENES",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

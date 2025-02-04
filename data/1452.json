@@ -1,1 +1,7 @@
-{"description": "Calcium chlorate", "number": "1452", "class": "5.1"}
+{
+  "number": "1452",
+  "description": "CALCIUM CHLORATE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "2 (E)"
+}

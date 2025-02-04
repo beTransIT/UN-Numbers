@@ -1,1 +1,7 @@
-{"description": "Methylphenyldichlorosilane", "number": "2437", "class": "8"}
+{
+  "number": "2437",
+  "description": "METHYLPHENYL- DICHLOROSILANE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

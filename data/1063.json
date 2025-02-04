@@ -1,1 +1,7 @@
-{"description": "Methyl chloride, or Refrigerant gas R 40", "number": "1063", "class": "2"}
+{
+  "number": "1063",
+  "description": "METHYL CHLORIDE (REFRIGERANT GAS R 40)",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

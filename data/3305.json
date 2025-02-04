@@ -1,1 +1,7 @@
-{"description": "Compressed gas, toxic, flammable, corrosive, n.o.s.", "number": "3305", "class": "2.3"}
+{
+  "number": "3305",
+  "description": "COMPRESSED GAS, TOXIC, FLAMMABLE, CORROSIVE, N.O.S.",
+  "class": "2",
+  "classCode": "1TFC",
+  "tunnel": "1 (B/D)"
+}

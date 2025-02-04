@@ -1,1 +1,7 @@
-{"description": "Hexadecyltrichlorosilane", "number": "1781", "class": "8"}
+{
+  "number": "1781",
+  "description": "HEXADECYLTRICHLORO- SILANE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

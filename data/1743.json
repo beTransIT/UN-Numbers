@@ -1,1 +1,7 @@
-{"description": "Boron trifluoride propionic acid complex", "number": "1743", "class": "8"}
+{
+  "number": "1743",
+  "description": "BORON TRIFLUORIDE PROPIONIC ACID COMPLEX, LIQUID",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

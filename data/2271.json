@@ -1,1 +1,7 @@
-{"description": "Ethyl amyl ketone", "number": "2271", "class": "3"}
+{
+  "number": "2271",
+  "description": "ETHYL AMYL KETONE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

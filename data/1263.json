@@ -1,1 +1,7 @@
-{"description": "Paint-related materials including paint, lacquer, enamel, stain, shellac solutions, varnish, polish, liquid filler, and liquid lacquer base, or paint related material including paint thinning, drying, removing, or reducing compound", "number": "1263", "class": "3"}
+{
+  "number": "1263",
+  "description": "PAINT (including paint, lacquer, enamel, stain, shellac, varnish, polish, liquid filler and liquid lacquer base) or PAINT RELATED MATERIAL (including paint thinning and reducing compound) (having a flash-point below 23 °C and viscous according to 2.2.3.1.4) (vapour pressure at 50 °C not more than 110 kPa)",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (E)"
+}

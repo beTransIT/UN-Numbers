@@ -1,1 +1,7 @@
-{"description": "Ammonium hydrogen sulfate", "number": "2506", "class": "8"}
+{
+  "number": "2506",
+  "description": "AMMONIUM HYDROGEN SULPHATE",
+  "class": "8",
+  "classCode": "C2",
+  "tunnel": "2 (E)"
+}

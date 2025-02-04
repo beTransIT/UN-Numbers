@@ -1,1 +1,7 @@
-{"description": "Ethyl crotonate", "number": "1862", "class": "3"}
+{
+  "number": "1862",
+  "description": "ETHYL CROTONATE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

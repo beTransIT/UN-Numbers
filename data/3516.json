@@ -1,1 +1,7 @@
-{"description": "Adsorbed gas, toxic, corrosive, not otherwise specified", "number": "3516", "class": "2.3"} 
+{
+  "number": "3516",
+  "description": "ADSORBED GAS, TOXIC, CORROSIVE, N.O.S.",
+  "class": "2",
+  "classCode": "9TC",
+  "tunnel": "1 (D)"
+}

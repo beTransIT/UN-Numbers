@@ -1,1 +1,7 @@
-{"description": "Diallylamine", "number": "2359", "class": "3"}
+{
+  "number": "2359",
+  "description": "DIALLYLAMINE",
+  "class": "3",
+  "classCode": "FTC",
+  "tunnel": "2 (D/E)"
+}

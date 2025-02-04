@@ -1,1 +1,7 @@
-{"description": "Hexamethylenediamine, solid", "number": "2280", "class": "8"}
+{
+  "number": "2280",
+  "description": "HEXAMETHYLENE-DIAMINE, SOLID",
+  "class": "8",
+  "classCode": "C8",
+  "tunnel": "3 (E)"
+}

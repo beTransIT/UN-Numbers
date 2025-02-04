@@ -1,1 +1,7 @@
-{"description": "Carbonyl sulfide", "number": "2204", "class": "2"}
+{
+  "number": "2204",
+  "description": "CARBONYL SULPHIDE",
+  "class": "2",
+  "classCode": "2TF",
+  "tunnel": "1 (B/D)"
+}

@@ -1,1 +1,7 @@
-{"description": "Nickel cyanide", "number": "1653", "class": "6.1"}
+{
+  "number": "1653",
+  "description": "NICKEL CYANIDE",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (D/E)"
+}

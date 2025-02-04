@@ -1,1 +1,7 @@
-{"description": "Ammunition, incendiary, white phosphorus, with burster, expelling charge, or propelling charge", "number": "0243", "class": "1"}
+{
+  "number": "0243",
+  "description": "AMMUNITION, INCENDIARY, WHITE PHOSPHORUS with burster, expelling charge or propelling charge",
+  "class": "1",
+  "classCode": "1.2H",
+  "tunnel": "1 (B1000C)"
+}

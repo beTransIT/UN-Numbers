@@ -1,1 +1,7 @@
-{"description": "Hexanitrodiphenylamine or Dipicrylamine or Hexyl", "number": "0079", "class": "1"}
+{
+  "number": "0079",
+  "description": "HEXANITRODIPHENYL- AMINE (DIPICRYLAMINE; HEXYL)",
+  "class": "1",
+  "classCode": "1.1D",
+  "tunnel": "1 (B1000C)"
+}

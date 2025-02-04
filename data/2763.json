@@ -1,1 +1,7 @@
-{"description": "Triazine pesticides, solid, toxic", "number": "2763", "class": "6.1"}
+{
+  "number": "2763",
+  "description": "TRIAZINE PESTICIDE, SOLID, TOXIC",
+  "class": "6.1",
+  "classCode": "T7",
+  "tunnel": "2 (E)"
+}

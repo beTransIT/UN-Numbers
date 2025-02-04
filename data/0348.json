@@ -1,1 +1,7 @@
-{"description": "Cartridges for weapons, with bursting charge", "number": "0348", "class": "1"}
+{
+  "number": "0348",
+  "description": "CARTRIDGES FOR WEAPONS with bursting charge",
+  "class": "1",
+  "classCode": "1.4F",
+  "tunnel": "2 (E)"
+}

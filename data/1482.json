@@ -1,1 +1,7 @@
-{"description": "Permanganates, inorganic, n.o.s.", "number": "1482", "class": "5.1"}
+{
+  "number": "1482",
+  "description": "PERMANGANATES, INORGANIC, N.O.S.",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "3 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Rocket motors, liquid fueled", "number": "0396", "class": "1"}
+{
+  "number": "0396",
+  "description": "ROCKET MOTORS, LIQUID FUELLED",
+  "class": "1",
+  "classCode": "1.3J",
+  "tunnel": "1 (C)"
+}

@@ -1,1 +1,7 @@
-{"description": "Mercury iodide, solution or Mercury iodide, solid", "number": "1638", "class": "6.1"}
+{
+  "number": "1638",
+  "description": "MERCURY IODIDE",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (D/E)"
+}

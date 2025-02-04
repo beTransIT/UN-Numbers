@@ -1,1 +1,7 @@
-{"description": "Ethyl chlorothioformate", "number": "2826", "class": "8"}
+{
+  "number": "2826",
+  "description": "ETHYL CHLOROTHIOFORMATE",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "2 (D/E)"
+}

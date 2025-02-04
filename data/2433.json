@@ -1,1 +1,7 @@
-{"description": "Chloronitrotoluenes liquid or Chloronitrotoluenes solid", "number": "2433", "class": "6.1"}
+{
+  "number": "2433",
+  "description": "CHLORONITROTOLUENES, LIQUID",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

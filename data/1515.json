@@ -1,1 +1,7 @@
-{"description": "Zinc permanganate", "number": "1515", "class": "5.1"}
+{
+  "number": "1515",
+  "description": "ZINC PERMANGANATE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "2 (E)"
+}

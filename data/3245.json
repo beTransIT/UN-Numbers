@@ -1,1 +1,7 @@
-{"description": "Genetically modified microorganisms or Genetically modified organisms", "number": "3245", "class": "9"}
+{
+  "number": "3245",
+  "description": "GENETICALLY MODIFIED MICROORGANISMS or GENETICALLY MODIFIED ORGANISMS, in refrigerated liquid nitrogen",
+  "class": "9",
+  "classCode": "M8",
+  "tunnel": "2 (E)"
+}

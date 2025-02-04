@@ -1,1 +1,7 @@
-{"description": "Methyl formate", "number": "1243", "class": "3"}
+{
+  "number": "1243",
+  "description": "METHYL FORMATE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "1 (D/E)"
+}

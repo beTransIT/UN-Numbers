@@ -1,1 +1,7 @@
-{"description": "Allyl formate", "number": "2336", "class": "3"}
+{
+  "number": "2336",
+  "description": "ALLYL FORMATE",
+  "class": "3",
+  "classCode": "FT1",
+  "tunnel": "1 (C/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Pentaerythrite tetranitrate, wetted or Pentaerythritol tetranitrate, wetted or PETN, wetted with not less than 25 percent water, by mass, or Pentaerythrite tetranitrate, or Pentaerythritol tetranitrate, or PETN, desensitized with not less than 15 percent", "number": "0150", "class": "1"}
+{
+  "number": "0150",
+  "description": "PENTAERYTHRITE TETRANITRATE (PENTAERYTHRITOL TETRANITRATE; PETN), WETTED with not less than 25 % water, by mass, or DESENSITIZED with not less than 15 % phlegmatizer, by mass",
+  "class": "1",
+  "classCode": "1.1D",
+  "tunnel": "1 (B1000C)"
+}

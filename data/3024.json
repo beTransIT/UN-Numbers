@@ -1,1 +1,7 @@
-{"description": "Coumarin derivative pesticides, liquid, flammable, toxic, flashpoint less than 23\u00b0C", "number": "3024", "class": "3"}
+{
+  "number": "3024",
+  "description": "COUMARIN DERIVATIVE PESTICIDE, LIQUID, FLAMMABLE, TOXIC, flash-point less than 23 °C",
+  "class": "3",
+  "classCode": "FT2",
+  "tunnel": "2 (D/E)"
+}

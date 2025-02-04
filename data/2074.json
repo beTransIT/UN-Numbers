@@ -1,1 +1,7 @@
-{"description": "Acrylamide, Solid", "number": "2074", "class": "6.1"}
+{
+  "number": "2074",
+  "description": "ACRYLAMIDE, SOLID",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (E)"
+}

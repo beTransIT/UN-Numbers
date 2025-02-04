@@ -1,1 +1,7 @@
-{"description": "Liquefied gas, toxic, n.o.s. Inhalation Hazard Zone A, B, C, or D", "number": "3162", "class": "2.3"}
+{
+  "number": "3162",
+  "description": "LIQUEFIED GAS, TOXIC, N.O.S.",
+  "class": "2",
+  "classCode": "2T",
+  "tunnel": "1 (C/D)"
+}

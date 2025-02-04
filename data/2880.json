@@ -1,1 +1,7 @@
-{"description": "Calcium hypochlorite, hydrated or Calcium hypochlorite, hydrated mixtures, with not less than 5.5 percent but not more than 10 percent water", "number": "2880", "class": "5.1"}
+{
+  "number": "2880",
+  "description": "CALCIUM HYPOCHLORITE, HYDRATED, or CALCIUM HYPOCHLORITE, HYDRATED MIXTURE, with not less than 5.5 % but not more than 16 % water",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "3 (E)"
+}

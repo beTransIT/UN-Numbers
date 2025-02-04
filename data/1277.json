@@ -1,1 +1,7 @@
-{"description": "Propylamine", "number": "1277", "class": "3"}
+{
+  "number": "1277",
+  "description": "PROPYLAMINE",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Allyl chloroformate", "number": "1722", "class": "6.1"}
+{
+  "number": "1722",
+  "description": "ALLYL CHLOROFORMATE",
+  "class": "6.1",
+  "classCode": "TFC",
+  "tunnel": "1 (C/D)"
+}

@@ -1,1 +1,7 @@
-{"description": "Arsenical pesticides, solid, toxic", "number": "2759", "class": "6.1"}
+{
+  "number": "2759",
+  "description": "ARSENICAL PESTICIDE, SOLID, TOXIC",
+  "class": "6.1",
+  "classCode": "T7",
+  "tunnel": "2 (E)"
+}

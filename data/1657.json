@@ -1,1 +1,7 @@
-{"description": "Nicotine salicylate", "number": "1657", "class": "6.1"}
+{
+  "number": "1657",
+  "description": "NICOTINE SALICYLATE",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (D/E)"
+}

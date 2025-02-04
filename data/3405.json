@@ -1,1 +1,7 @@
-{"description": "Barium chlorate solution", "number": "3405", "class": "5.1"}
+{
+  "number": "3405",
+  "description": "BARIUM CHLORATE SOLUTION",
+  "class": "5.1",
+  "classCode": "OT1",
+  "tunnel": "3 (E)"
+}

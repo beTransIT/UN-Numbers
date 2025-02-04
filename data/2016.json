@@ -1,1 +1,7 @@
-{"description": "Ammunition, toxic, non-explosive, without burster or expelling charge, non-fuzed", "number": "2016", "class": "6.1"}
+{
+  "number": "2016",
+  "description": "AMMUNITION, TOXIC, NON- EXPLOSIVE without burster or expelling charge, non-fuzed",
+  "class": "6.1",
+  "classCode": "T10",
+  "tunnel": "2 (E)"
+}

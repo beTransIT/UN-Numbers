@@ -1,1 +1,7 @@
-{"description": "Lithium hydride, fused solid", "number": "2805", "class": "4.3"}
+{
+  "number": "2805",
+  "description": "LITHIUM HYDRIDE, FUSED SOLID",
+  "class": "4.3",
+  "classCode": "W2",
+  "tunnel": "2 (D/E)"
+}

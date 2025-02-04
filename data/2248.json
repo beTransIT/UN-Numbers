@@ -1,1 +1,7 @@
-{"description": "Di-n-butylamine", "number": "2248", "class": "8"}
+{
+  "number": "2248",
+  "description": "DI-n-BUTYLAMINE",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "2 (D/E)"
+}

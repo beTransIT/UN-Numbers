@@ -1,1 +1,7 @@
-{"description": "Dipropylamine", "number": "2383", "class": "3"}
+{
+  "number": "2383",
+  "description": "DIPROPYLAMINE",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "2 (D/E)"
+}

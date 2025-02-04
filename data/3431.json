@@ -1,1 +1,7 @@
-{"description": "Nitrobenzotrifluorides, solid", "number": "3431", "class": "6.1"}
+{
+  "number": "3431",
+  "description": "NITROBENZO-TRIFLUORIDES, SOLID",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Corrosive solids, water-reactive, n.o.s.", "number": "3096", "class": "8"}
+{
+  "number": "3096",
+  "description": "CORROSIVE SOLID, WATER- REACTIVE, N.O.S.",
+  "class": "8",
+  "classCode": "CW2",
+  "tunnel": "2 (E)"
+}

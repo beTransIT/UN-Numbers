@@ -1,1 +1,7 @@
-{"description": "Tetramethylammonium hydroxide, solid", "number": "3423", "class": "8"}
+{
+  "number": "3423",
+  "description": "TETRAMETHYLAMMONIUM HYDROXIDE, SOLID",
+  "class": "6.1",
+  "classCode": "TC2",
+  "tunnel": "1 (C/E)"
+}

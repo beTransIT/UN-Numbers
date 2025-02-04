@@ -1,1 +1,7 @@
-{"description": "Chloroacetyl chloride", "number": "1752", "class": "6.1"}
+{
+  "number": "1752",
+  "description": "CHLOROACETYL CHLORIDE",
+  "class": "6.1",
+  "classCode": "TC1",
+  "tunnel": "1 (C/D)"
+}

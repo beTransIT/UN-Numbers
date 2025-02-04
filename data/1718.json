@@ -1,1 +1,7 @@
-{"description": "Butyl acid phosphate", "number": "1718", "class": "8"}
+{
+  "number": "1718",
+  "description": "BUTYL ACID PHOSPHATE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "3 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Chloroplatinic acid, solid", "number": "2507", "class": "8"}
+{
+  "number": "2507",
+  "description": "CHLOROPLATINIC ACID, SOLID",
+  "class": "8",
+  "classCode": "C2",
+  "tunnel": "3 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Zirconium powder, dry", "number": "2008", "class": "4.2"}
+{
+  "number": "2008",
+  "description": "ZIRCONIUM POWDER, DRY",
+  "class": "4.2",
+  "classCode": "S4",
+  "tunnel": "3 (E)"
+}

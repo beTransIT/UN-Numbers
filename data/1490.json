@@ -1,1 +1,7 @@
-{"description": "Potassium permanganate", "number": "1490", "class": "5.1"}
+{
+  "number": "1490",
+  "description": "POTASSIUM PERMANGANATE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "2 (E)"
+}

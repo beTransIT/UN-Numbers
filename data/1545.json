@@ -1,1 +1,7 @@
-{"description": "Allyl isothiocyanate, stabilized", "number": "1545", "class": "6.1"}
+{
+  "number": "1545",
+  "description": "ALLYL ISOTHIOCYANATE, STABILIZED",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "2 (D/E)"
+}

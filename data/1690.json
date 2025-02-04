@@ -1,1 +1,7 @@
-{"description": "Sodium fluoride", "number": "1690", "class": "6.1"}
+{
+  "number": "1690",
+  "description": "SODIUM FLUORIDE, SOLID",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (E)"
+}

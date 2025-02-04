@@ -1,1 +1,7 @@
-{"description": "Zinc chloride, solution", "number": "1840", "class": "8"}
+{
+  "number": "1840",
+  "description": "ZINC CHLORIDE SOLUTION",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "3 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Disodium trioxosilicate", "number": "3253", "class": "8"}
+{
+  "number": "3253",
+  "description": "DISODIUM TRIOXOSILICATE",
+  "class": "8",
+  "classCode": "C6",
+  "tunnel": "3 (E)"
+}

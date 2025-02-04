@@ -1,1 +1,7 @@
-{"description": "Firelighters, solid with flammable liquid", "number": "2623", "class": "4.1"}
+{
+  "number": "2623",
+  "description": "FIRELIGHTERS, SOLID with flammable liquid",
+  "class": "4.1",
+  "classCode": "F1",
+  "tunnel": "4 (E)"
+}

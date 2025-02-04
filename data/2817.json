@@ -1,1 +1,7 @@
-{"description": "Ammonium hydrogendiflouride, solution", "number": "2817", "class": "8"}
+{
+  "number": "2817",
+  "description": "AMMONIUM HYDROGENDIFLUORIDE SOLUTION",
+  "class": "8",
+  "classCode": "CT1",
+  "tunnel": "3 (E)"
+}

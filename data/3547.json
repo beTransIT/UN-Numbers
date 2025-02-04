@@ -1,1 +1,7 @@
-{"description": "Articles containing corrosive substance, not otherwise specified", "number": "3547", "class": "8"} 
+{
+  "number": "3547",
+  "description": "ARTICLES CONTAINING CORROSIVE SUBSTANCE, N.O.S.",
+  "class": "8",
+  "classCode": "C11",
+  "tunnel": "4 (E)"
+}

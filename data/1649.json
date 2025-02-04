@@ -1,1 +1,7 @@
-{"description": "Motor fuel anti-knock mixtures", "number": "1649", "class": "6.1"}
+{
+  "number": "1649",
+  "description": "MOTOR FUEL ANTI-KNOCK MIXTURE",
+  "class": "6.1",
+  "classCode": "T3",
+  "tunnel": "1 (C/E)"
+}

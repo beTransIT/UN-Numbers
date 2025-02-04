@@ -1,1 +1,7 @@
-{"description": "Uranium hexafluoride, fissile excepted or non-fissile", "number": "2978", "class": "7"}
+{
+  "number": "2978",
+  "description": "RADIOACTIVE MATERIAL, URANIUM HEXAFLUORIDE, non fissile or fissile-excepted",
+  "class": "7",
+  "classCode": "",
+  "tunnel": "0 (C)"
+}

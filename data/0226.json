@@ -1,1 +1,7 @@
-{"description": "Cyclotetramethylenetetranitramine, wetted or HMX, wetted or Octogen, wetted with not less than 15 percent water, by mass", "number": "0226", "class": "1"}
+{
+  "number": "0226",
+  "description": "CYCLOTETRAMETHYLENE- TETRANITRAMINE (HMX; OCTOGEN), WETTED with not less than 15 % water, by mass",
+  "class": "1",
+  "classCode": "1.1D",
+  "tunnel": "1 (B1000C)"
+}

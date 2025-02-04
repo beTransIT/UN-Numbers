@@ -1,1 +1,7 @@
-{"description": "Octafluoropropane or Refrigerant gas R 218", "number": "2424", "class": "2"}
+{
+  "number": "2424",
+  "description": "OCTAFLUOROPROPANE (REFRIGERANT GAS R 218)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Nitroglycerin, solution in alcohol, with not more than 1 percent nitroglycerin", "number": "1204", "class": "3"}
+{
+  "number": "1204",
+  "description": "NITROGLYCERIN SOLUTION IN ALCOHOL with not more than 1 % nitroglycerin",
+  "class": "3",
+  "classCode": "D",
+  "tunnel": "2 (B)"
+}

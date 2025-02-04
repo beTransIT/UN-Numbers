@@ -1,1 +1,7 @@
-{"description": "Nitrocellulose with water with not less than 25 percent water, by mass", "number": "2555", "class": "4.1"}
+{
+  "number": "2555",
+  "description": "NITROCELLULOSE WITH WATER (not less than 25 % water, by mass)",
+  "class": "4.1",
+  "classCode": "D",
+  "tunnel": "2 (B)"
+}

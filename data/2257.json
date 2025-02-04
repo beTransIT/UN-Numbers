@@ -1,1 +1,7 @@
-{"description": "Potassium", "number": "2257", "class": "4.3"}
+{
+  "number": "2257",
+  "description": "POTASSIUM",
+  "class": "4.3",
+  "classCode": "W2",
+  "tunnel": "1 (B/E)"
+}

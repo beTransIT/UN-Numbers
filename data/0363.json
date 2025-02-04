@@ -1,1 +1,7 @@
-{"description": "Ammunition, proof", "number": "0363", "class": "1"}
+{
+  "number": "0363",
+  "description": "AMMUNITION, PROOF",
+  "class": "1",
+  "classCode": "1.4G",
+  "tunnel": "2 (E)"
+}

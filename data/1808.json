@@ -1,1 +1,7 @@
-{"description": "Phosphorus tribromide", "number": "1808", "class": "8"}
+{
+  "number": "1808",
+  "description": "PHOSPHORUS TRIBROMIDE",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "2 (E)"
+}

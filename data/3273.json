@@ -1,1 +1,7 @@
-{"description": "Nitriles, flammable, toxic, n.o.s.", "number": "3273", "class": "3"}
+{
+  "number": "3273",
+  "description": "NITRILES, FLAMMABLE, TOXIC, N.O.S.",
+  "class": "3",
+  "classCode": "FT1",
+  "tunnel": "2 (D/E)"
+}

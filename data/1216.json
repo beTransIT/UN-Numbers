@@ -1,1 +1,7 @@
-{"description": "Isooctenes", "number": "1216", "class": "3"}
+{
+  "number": "1216",
+  "description": "ISOOCTENES",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

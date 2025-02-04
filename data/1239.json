@@ -1,1 +1,7 @@
-{"description": "Methyl chloromethyl ether", "number": "1239", "class": "6.1"}
+{
+  "number": "1239",
+  "description": "METHYL CHLORO-METHYL ETHER",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "1 (C/D)"
+}

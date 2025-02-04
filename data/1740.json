@@ -1,1 +1,7 @@
-{"description": "Hydrogen difluorides, n.o.s. solid", "number": "1740", "class": "8"}
+{
+  "number": "1740",
+  "description": "HYDROGENDIFLUORIDES, SOLID, N.O.S.",
+  "class": "8",
+  "classCode": "C2",
+  "tunnel": "3 (E)"
+}

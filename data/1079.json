@@ -1,1 +1,7 @@
-{"description": "Sulfur dioxide", "number": "1079", "class": "2"}
+{
+  "number": "1079",
+  "description": "SULPHUR DIOXIDE",
+  "class": "2",
+  "classCode": "2TC",
+  "tunnel": "1 (C/D)"
+}

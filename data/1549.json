@@ -1,1 +1,7 @@
-{"description": "Antimony compounds, inorganic, solid, n.o.s.", "number": "1549", "class": "6.1"}
+{
+  "number": "1549",
+  "description": "ANTIMONY COMPOUND, INORGANIC, SOLID, N.O.S.",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (E)"
+}

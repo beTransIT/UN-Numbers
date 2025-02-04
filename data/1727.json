@@ -1,1 +1,7 @@
-{"description": "Ammonium hydrogendifluoride, solid", "number": "1727", "class": "8"}
+{
+  "number": "1727",
+  "description": "AMMONIUM HYDROGENDIFLUORIDE, SOLID",
+  "class": "8",
+  "classCode": "C2",
+  "tunnel": "2 (E)"
+}

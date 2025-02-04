@@ -1,1 +1,7 @@
-{"description": "Charges, propelling, for cannon", "number": "0279", "class": "1"}
+{
+  "number": "0279",
+  "description": "CHARGES, PROPELLING, FOR CANNON",
+  "class": "1",
+  "classCode": "1.1C",
+  "tunnel": "1 (B1000C)"
+}

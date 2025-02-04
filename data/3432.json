@@ -1,1 +1,7 @@
-{"description": "Polychlorinated biphenyls, solid", "number": "3432", "class": "9"}
+{
+  "number": "3432",
+  "description": "POLYCHLORINATED BIPHENYLS, SOLID",
+  "class": "9",
+  "classCode": "M2",
+  "tunnel": "0 (D/E)"
+}

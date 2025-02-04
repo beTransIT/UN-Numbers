@@ -1,1 +1,7 @@
-{"description": "Chlorophenols, liquid", "number": "2021", "class": "6.1"}
+{
+  "number": "2021",
+  "description": "CHLOROPHENOLS, LIQUID",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

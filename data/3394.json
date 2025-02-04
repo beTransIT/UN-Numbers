@@ -1,1 +1,7 @@
-{"description": "Organometallic substance, liquid, pyrophoric, water-reactive", "number": "3394", "class": "4.2"}
+{
+  "number": "3394",
+  "description": "ORGANOMETALLIC SUBSTANCE, LIQUID, PYROPHORIC, WATER- REACTIVE",
+  "class": "4.2",
+  "classCode": "SW1",
+  "tunnel": "0 (B/E)"
+}

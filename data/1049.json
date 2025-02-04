@@ -1,1 +1,7 @@
-{"description": "Hydrogen, compressed", "number": "1049", "class": "2"}
+{
+  "number": "1049",
+  "description": "HYDROGEN, COMPRESSED",
+  "class": "2",
+  "classCode": "1F",
+  "tunnel": "2 (B/D)"
+}

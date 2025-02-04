@@ -1,1 +1,7 @@
-{"description": "Benzyldimethylamine", "number": "2619", "class": "8"}
+{
+  "number": "2619",
+  "description": "BENZYLDIMETHYLAMINE",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "2 (D/E)"
+}

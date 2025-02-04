@@ -1,1 +1,7 @@
-{"description": "n-Decane", "number": "2247", "class": "3"}
+{
+  "number": "2247",
+  "description": "n-DECANE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

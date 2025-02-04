@@ -1,1 +1,7 @@
-{"description": "Organometallic substance, liquid, water-reactive, flammable", "number": "3399", "class": "4.3"}
+{
+  "number": "3399",
+  "description": "ORGANOMETALLIC SUBSTANCE, LIQUID, WATER- REACTIVE, FLAMMABLE",
+  "class": "4.3",
+  "classCode": "WF1",
+  "tunnel": "0 (E)"
+}

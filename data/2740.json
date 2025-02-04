@@ -1,1 +1,7 @@
-{"description": "n-Propyl chloroformate", "number": "2740", "class": "6.1"}
+{
+  "number": "2740",
+  "description": "n-PROPYL CHLOROFORMATE",
+  "class": "6.1",
+  "classCode": "TFC",
+  "tunnel": "1 (C/D)"
+}

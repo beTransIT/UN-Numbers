@@ -1,1 +1,7 @@
-{"description": "Boron trifluoride, compressed", "number": "1008", "class": "2"}
+{
+  "number": "1008",
+  "description": "BORON TRIFLUORIDE",
+  "class": "2",
+  "classCode": "2TC",
+  "tunnel": "1 (C/D)"
+}

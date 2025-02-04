@@ -1,1 +1,7 @@
-{"description": "Helium, compressed", "number": "1046", "class": "2"}
+{
+  "number": "1046",
+  "description": "HELIUM, COMPRESSED",
+  "class": "2",
+  "classCode": "1A",
+  "tunnel": "3 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Cartridges, power device", "number": "0276", "class": "1"}
+{
+  "number": "0276",
+  "description": "CARTRIDGES, POWER DEVICE",
+  "class": "1",
+  "classCode": "1.4C",
+  "tunnel": "2 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Alkaloids, liquid, n.o.s. or Alkaloid salts, liquid, n.o.s.", "number": "3140", "class": "6.1"}
+{
+  "number": "3140",
+  "description": "ALKALOIDS, LIQUID, N.O.S. or ALKALOID SALTS, LIQUID, N.O.S.",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

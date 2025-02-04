@@ -1,1 +1,7 @@
-{"description": "Organic peroxide type C, solid", "number": "3104", "class": "5.2"}
+{
+  "number": "3104",
+  "description": "ORGANIC PEROXIDE TYPE C, SOLID",
+  "class": "5.2",
+  "classCode": "P1",
+  "tunnel": "1 (D)"
+}

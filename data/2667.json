@@ -1,1 +1,7 @@
-{"description": "Butyltoluenes", "number": "2667", "class": "6.1"}
+{
+  "number": "2667",
+  "description": "BUTYLTOLUENES",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

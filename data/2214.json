@@ -1,1 +1,7 @@
-{"description": "Phthalic anhydride with more than .05 percent maleic anhydride", "number": "2214", "class": "8"}
+{
+  "number": "2214",
+  "description": "PHTHALIC ANHYDRIDE with more than 0.05 % of maleic anhydride",
+  "class": "8",
+  "classCode": "C4",
+  "tunnel": "3 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Dinitrotoluenes, molten", "number": "1600", "class": "6.1"}
+{
+  "number": "1600",
+  "description": "DINITROTOLUENES, MOLTEN",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "0 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Lead nitrate", "number": "1469", "class": "5.1"}
+{
+  "number": "1469",
+  "description": "LEAD NITRATE",
+  "class": "5.1",
+  "classCode": "OT2",
+  "tunnel": "2 (E)"
+}

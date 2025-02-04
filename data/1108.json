@@ -1,1 +1,7 @@
-{"description": "1-Pentene (n-amylene)", "number": "1108", "class": "3"}
+{
+  "number": "1108",
+  "description": "1-PENTENE (n-AMYLENE)",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "1 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Gas sample, non-pressurized, toxic, flammable, n.o.s., not refrigerated liquid", "number": "3168", "class": "2.3"}
+{
+  "number": "3168",
+  "description": "GAS SAMPLE, NON- PRESSURIZED, TOXIC, FLAMMABLE, N.O.S., not refrigerated liquid",
+  "class": "2",
+  "classCode": "7TF",
+  "tunnel": "1 (D)"
+}

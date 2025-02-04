@@ -1,1 +1,7 @@
-{"description": "n-Butyl methacrylate, inhibited", "number": "2227", "class": "3"}
+{
+  "number": "2227",
+  "description": "n-BUTYL METHACRYLATE, STABILIZED",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

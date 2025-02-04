@@ -1,1 +1,7 @@
-{"description": "Articles, pyrotechnic for technical purposes", "number": "0430", "class": "1"}
+{
+  "number": "0430",
+  "description": "ARTICLES, PYROTECHNIC for technical purposes",
+  "class": "1",
+  "classCode": "1.3G",
+  "tunnel": "1 (C5000D)"
+}

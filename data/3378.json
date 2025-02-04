@@ -1,1 +1,7 @@
-{"description": "Sodium carbonate peroxyhydrate", "number": "3378", "class": "5.1"}
+{
+  "number": "3378",
+  "description": "SODIUM CARBONATE PEROXYHYDRATE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "3 (E)"
+}

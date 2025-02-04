@@ -1,1 +1,7 @@
-{"description": "Potassium fluoride", "number": "1812", "class": "8"}
+{
+  "number": "1812",
+  "description": "POTASSIUM FLUORIDE, SOLID",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (E)"
+}

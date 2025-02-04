@@ -1,1 +1,7 @@
-{"description": "Diisobutyl ketone", "number": "1157", "class": "3"}
+{
+  "number": "1157",
+  "description": "DIISOBUTYL KETONE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

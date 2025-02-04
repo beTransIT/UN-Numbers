@@ -1,1 +1,7 @@
-{"description": "Cerium, slabs, ingots, or rods", "number": "1333", "class": "4.1"}
+{
+  "number": "1333",
+  "description": "CERIUM, slabs, ingots or rods",
+  "class": "4.1",
+  "classCode": "F3",
+  "tunnel": "2 (E)"
+}

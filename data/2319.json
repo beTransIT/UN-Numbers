@@ -1,1 +1,7 @@
-{"description": "Terpene hydrocarbons, n.o.s.", "number": "2319", "class": "3"}
+{
+  "number": "2319",
+  "description": "TERPENE HYDROCARBONS, N.O.S.",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

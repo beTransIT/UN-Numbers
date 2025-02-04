@@ -1,1 +1,7 @@
-{"description": "Methyl isobutyl carbinol", "number": "2053", "class": "3"}
+{
+  "number": "2053",
+  "description": "METHYL ISOBUTYL CARBINOL",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

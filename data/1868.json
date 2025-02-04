@@ -1,1 +1,7 @@
-{"description": "Decaborane", "number": "1868", "class": "4.1"}
+{
+  "number": "1868",
+  "description": "DECABORANE",
+  "class": "4.1",
+  "classCode": "FT2",
+  "tunnel": "2 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Warheads, rocket with burster or expelling charge", "number": "0371", "class": "1"}
+{
+  "number": "0371",
+  "description": "WARHEADS, ROCKET with burster or expelling charge",
+  "class": "1",
+  "classCode": "1.4F",
+  "tunnel": "2 (E)"
+}

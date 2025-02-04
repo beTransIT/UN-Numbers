@@ -1,1 +1,7 @@
-{"description": "Vinyl acetate, inhibited", "number": "1301", "class": "3"}
+{
+  "number": "1301",
+  "description": "VINYL ACETATE, STABILIZED",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

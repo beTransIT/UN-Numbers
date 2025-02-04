@@ -1,1 +1,7 @@
-{"description": "Ethylene, acetylene and propylene mixture, refrigerated liquid, with not less than 71,5 % ethylene, not more than 22,5 % acetylene and not more than 6 % propylene", "number": "3138", "class": "2.1"}
+{
+  "number": "3138",
+  "description": "ETHYLENE, ACETYLENE AND PROPYLENE MIXTURE, REFRIGERATED LIQUID containing at least 71.5 % ethylene with not more than 22.5 % acetylene and not more than 6 % propylene",
+  "class": "2",
+  "classCode": "3F",
+  "tunnel": "2 (B/D)"
+}

@@ -1,1 +1,7 @@
-{"description": "Octafluorobut-2-ene or Refrigerant gas R 1318", "number": "2422", "class": "2"}
+{
+  "number": "2422",
+  "description": "OCTAFLUOROBUT-2-ENE (REFRIGERANT GAS R 1318)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

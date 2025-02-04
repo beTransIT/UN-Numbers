@@ -1,1 +1,7 @@
-{"description": "Diisopropyl ether", "number": "1159", "class": "3"}
+{
+  "number": "1159",
+  "description": "DIISOPROPYL ETHER",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

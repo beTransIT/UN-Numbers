@@ -1,1 +1,7 @@
-{"description": "Chlorate and borate mixtures", "number": "1458", "class": "5.1"}
+{
+  "number": "1458",
+  "description": "CHLORATE AND BORATE MIXTURE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "3 (E)"
+}

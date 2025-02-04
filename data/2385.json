@@ -1,1 +1,7 @@
-{"description": "Ethyl isobutyrate", "number": "2385", "class": "3"}
+{
+  "number": "2385",
+  "description": "ETHYL ISOBUTYRATE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

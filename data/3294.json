@@ -1,1 +1,7 @@
-{"description": "Hydrogen cyanide, solution in alcohol with not more than 45 percent hydrogen cyanide", "number": "3294", "class": "6.1"}
+{
+  "number": "3294",
+  "description": "HYDROGEN CYANIDE, SOLUTION IN ALCOHOL with not more than 45 % hydrogen cyanide",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "0 (C/D)"
+}

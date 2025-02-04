@@ -1,1 +1,7 @@
-{"description": "Turpentine substitute or mineral turpentine (Australia)", "number": "1300", "class": "3"}
+{
+  "number": "1300",
+  "description": "TURPENTINE SUBSTITUTE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

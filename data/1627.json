@@ -1,1 +1,7 @@
-{"description": "Mercurous nitrate", "number": "1627", "class": "6.1"}
+{
+  "number": "1627",
+  "description": "MERCUROUS NITRATE",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Refrigerant gas R407A", "number": "3338", "class": "2.2"}
+{
+  "number": "3338",
+  "description": "REFRIGERANT GAS R 407A (Difluoromethane, pentafluoroethane, and 1,1,1,2-tetrafluoroethane zeotropic mixture with approximately 20 % difluoromethane and 40 % pentafluoroethane)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

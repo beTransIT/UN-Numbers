@@ -1,1 +1,7 @@
-{"description": "Methyl chloride and methylene chloride mixtures", "number": "1912", "class": "2"}
+{
+  "number": "1912",
+  "description": "METHYL CHLORIDE AND METHYLENE CHLORIDE MIXTURE",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

@@ -1,1 +1,7 @@
-{"description": "Rockets, line-throwing", "number": "0238", "class": "1"}
+{
+  "number": "0238",
+  "description": "ROCKETS, LINE-THROWING",
+  "class": "1",
+  "classCode": "1.2G",
+  "tunnel": "1 (B1000C)"
+}

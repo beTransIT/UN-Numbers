@@ -1,1 +1,7 @@
-{"description": "Mercury based pesticides, liquid, flammable, toxic, flashpoint less than 23\u00b0 C", "number": "2778", "class": "3"}
+{
+  "number": "2778",
+  "description": "MERCURY BASED PESTICIDE, LIQUID, FLAMMABLE, TOXIC, flash-point less than 23 °C",
+  "class": "3",
+  "classCode": "FT2",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Metallic substance, water-reactive, self-heating, n.o.s.", "number": "3209", "class": "4.3"}
+{
+  "number": "3209",
+  "description": "METALLIC SUBSTANCE, WATER- REACTIVE, SELF-HEATING, N.O.S.",
+  "class": "4.3",
+  "classCode": "WS",
+  "tunnel": "3 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Mercury contained in manufactured articles", "number": "3506", "class": "8"} 
+{
+  "number": "3506",
+  "description": "MERCURY CONTAINED IN MANUFACTURED ARTICLES",
+  "class": "8",
+  "classCode": "CT3",
+  "tunnel": "3 (E)"
+}

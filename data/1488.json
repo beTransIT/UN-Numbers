@@ -1,1 +1,7 @@
-{"description": "Potassium nitrite", "number": "1488", "class": "5.1"}
+{
+  "number": "1488",
+  "description": "POTASSIUM NITRITE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "2 (E)"
+}

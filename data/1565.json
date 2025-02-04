@@ -1,1 +1,7 @@
-{"description": "Barium cyanide", "number": "1565", "class": "6.1"}
+{
+  "number": "1565",
+  "description": "BARIUM CYANIDE",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "1 (C/E)"
+}

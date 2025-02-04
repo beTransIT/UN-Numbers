@@ -1,1 +1,7 @@
-{"description": "Sulfamic acid", "number": "2967", "class": "8"}
+{
+  "number": "2967",
+  "description": "SULPHAMIC ACID",
+  "class": "8",
+  "classCode": "C2",
+  "tunnel": "3 (E)"
+}

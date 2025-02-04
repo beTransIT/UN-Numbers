@@ -1,1 +1,7 @@
-{"description": "Corrosive liquids, n.o.s.", "number": "1760", "class": "8"}
+{
+  "number": "1760",
+  "description": "CORROSIVE LIQUID, N.O.S.",
+  "class": "8",
+  "classCode": "C9",
+  "tunnel": "3 (E)"
+}

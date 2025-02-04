@@ -1,1 +1,7 @@
-{"description": "Alkylsulfuric acids", "number": "2571", "class": "8"}
+{
+  "number": "2571",
+  "description": "ALKYLSULPHURIC ACIDS",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}

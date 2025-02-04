@@ -1,1 +1,7 @@
-{"description": "Isopropenyl acetate", "number": "2403", "class": "3"}
+{
+  "number": "2403",
+  "description": "ISOPROPENYL ACETATE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

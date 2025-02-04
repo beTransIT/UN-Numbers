@@ -1,1 +1,7 @@
-{"description": "Nitric oxide and dinitrogen tetroxide mixtures or Nitric oxide and nitrogen dioxide mixtures", "number": "1975", "class": "2"}
+{
+  "number": "1975",
+  "description": "NITRIC OXIDE AND DINITROGEN TETROXIDE MIXTURE (NITRIC OXIDE AND NITROGEN DIOXIDE MIXTURE)",
+  "class": "2",
+  "classCode": "2TOC",
+  "tunnel": "1 (D)"
+}

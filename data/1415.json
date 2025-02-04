@@ -1,1 +1,7 @@
-{"description": "Lithium", "number": "1415", "class": "4.3"}
+{
+  "number": "1415",
+  "description": "LITHIUM",
+  "class": "4.3",
+  "classCode": "W2",
+  "tunnel": "1 (B/E)"
+}

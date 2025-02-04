@@ -1,1 +1,7 @@
-{"description": "Amyl acid phosphate", "number": "2819", "class": "8"}
+{
+  "number": "2819",
+  "description": "AMYL ACID PHOSPHATE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "3 (E)"
+}

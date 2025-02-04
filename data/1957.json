@@ -1,1 +1,7 @@
-{"description": "Deuterium, compressed", "number": "1957", "class": "2"}
+{
+  "number": "1957",
+  "description": "DEUTERIUM, COMPRESSED",
+  "class": "2",
+  "classCode": "1F",
+  "tunnel": "2 (B/D)"
+}

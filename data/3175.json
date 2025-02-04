@@ -1,1 +1,7 @@
-{"description": "Solids containing flammable liquid, n.o.s.", "number": "3175", "class": "4.1"}
+{
+  "number": "3175",
+  "description": "SOLIDS or mixtures of solids (such as preparations and wastes) CONTAINING FLAMMABLE LIQUID, N.O.S. having a flash-point up to 60 °C",
+  "class": "4.1",
+  "classCode": "F1",
+  "tunnel": "2 (E)"
+}

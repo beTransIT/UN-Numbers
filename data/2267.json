@@ -1,1 +1,7 @@
-{"description": "Dimethyl thiophosphoryl chloride", "number": "2267", "class": "6.1"}
+{
+  "number": "2267",
+  "description": "DIMETHYL THIOPHOSPHORYL CHLORIDE",
+  "class": "6.1",
+  "classCode": "TC1",
+  "tunnel": "2 (D/E)"
+}

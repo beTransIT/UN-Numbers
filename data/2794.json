@@ -1,1 +1,7 @@
-{"description": "Batteries, wet, filled with acid, electric storage", "number": "2794", "class": "8"}
+{
+  "number": "2794",
+  "description": "BATTERIES, WET, FILLED WITH ACID, electric storage",
+  "class": "8",
+  "classCode": "C11",
+  "tunnel": "3 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Hydrazine, aqueous solution with not more than 37 percent hydrazine, by mass", "number": "3293", "class": "6.1"}
+{
+  "number": "3293",
+  "description": "HYDRAZINE, AQUEOUS SOLUTION with not more than 37 % hydrazine, by mass",
+  "class": "6.1",
+  "classCode": "T4",
+  "tunnel": "2 (E)"
+}

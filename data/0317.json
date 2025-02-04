@@ -1,1 +1,7 @@
-{"description": "Fuzes, igniting", "number": "0317", "class": "1"}
+{
+  "number": "0317",
+  "description": "FUZES, IGNITING",
+  "class": "1",
+  "classCode": "1.4G",
+  "tunnel": "2 (E)"
+}

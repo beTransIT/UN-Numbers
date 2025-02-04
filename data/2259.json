@@ -1,1 +1,7 @@
-{"description": "Triethylenetetramine", "number": "2259", "class": "8"}
+{
+  "number": "2259",
+  "description": "TRIETHYLENETETRAMINE",
+  "class": "8",
+  "classCode": "C7",
+  "tunnel": "2 (E)"
+}

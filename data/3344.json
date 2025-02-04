@@ -1,1 +1,7 @@
-{"description": "Pentaerythritol tetranitrate mixture, desensitized, solid, n.o.s., with more than 10% but not more than 20% PETN by mass", "number": "3344", "class": "4.1"}
+{
+  "number": "3344",
+  "description": "PENTAERYTHRITE TETRANITRATE (PENTAERYTHRITOL TETRANITRATE; PETN) MIXTURE, DESENSITIZED, SOLID, N.O.S. with more than 10 % but not more than 20 % PETN, by mass",
+  "class": "4.1",
+  "classCode": "D",
+  "tunnel": "2 (B)"
+}

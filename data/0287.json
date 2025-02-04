@@ -1,1 +1,7 @@
-{"description": "Warheads, rocket with bursting charge", "number": "0287", "class": "1"}
+{
+  "number": "0287",
+  "description": "WARHEADS, ROCKET with bursting charge",
+  "class": "1",
+  "classCode": "1.2D",
+  "tunnel": "1 (B1000C)"
+}

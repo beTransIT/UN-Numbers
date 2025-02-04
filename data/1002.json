@@ -1,1 +1,7 @@
-{"description": "Air, compressed", "number": "1002", "class": "2"}
+{
+  "number": "1002",
+  "description": "AIR, COMPRESSED",
+  "class": "2",
+  "classCode": "1A",
+  "tunnel": "3 (E)"
+}

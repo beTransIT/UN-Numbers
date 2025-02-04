@@ -1,1 +1,7 @@
-{"description": "Mercury fulminate, wetted with not less than 20 percent water, or mixture of alcohol and water, by mass", "number": "0135", "class": "1"}
+{
+  "number": "0135",
+  "description": "MERCURY FULMINATE, WETTED with not less than 20 % water, or mixture of alcohol and water, by mass",
+  "class": "1",
+  "classCode": "1.1A",
+  "tunnel": "0 (B)"
+}

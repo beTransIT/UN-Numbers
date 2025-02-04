@@ -1,1 +1,7 @@
-{"description": "2-Diethylaminoethanol", "number": "2686", "class": "8"}
+{
+  "number": "2686",
+  "description": "2-DIETHYLAMINO-ETHANOL",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "2 (D/E)"
+}

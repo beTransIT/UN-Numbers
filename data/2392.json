@@ -1,1 +1,7 @@
-{"description": "Iodopropanes", "number": "2392", "class": "3"}
+{
+  "number": "2392",
+  "description": "IODOPROPANES",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Fluorosilicic acid", "number": "1778", "class": "8"}
+{
+  "number": "1778",
+  "description": "FLUOROSILICIC ACID",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "2 (E)"
+}

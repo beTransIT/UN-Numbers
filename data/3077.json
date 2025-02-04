@@ -1,1 +1,7 @@
-{"description": "Environmentally hazardous substance, solid, n.o.s. (not including waste)", "number": "3077", "class": "9"}
+{
+  "number": "3077",
+  "description": "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S.",
+  "class": "9",
+  "classCode": "M7",
+  "tunnel": "3 (-)"
+}

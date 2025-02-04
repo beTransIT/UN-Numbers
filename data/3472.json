@@ -1,1 +1,7 @@
-{"description": "Crotonic acid, liquid", "number": "3472", "class": "8"}
+{
+  "number": "3472",
+  "description": "CROTONIC ACID, LIQUID",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "3 (E)"
+}

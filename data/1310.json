@@ -1,1 +1,7 @@
-{"description": "Ammonium picrate, wetted with not less than 10 percent water, by mass", "number": "1310", "class": "4.1"}
+{
+  "number": "1310",
+  "description": "AMMONIUM PICRATE, WETTED with not less than 10 % water, by mass",
+  "class": "4.1",
+  "classCode": "D",
+  "tunnel": "1 (B)"
+}

@@ -1,1 +1,7 @@
-{"description": "Bipyridilium pesticides, liquid, toxic, flammable, flashpoint not less than 23\u00b0C", "number": "3015", "class": "6.1"}
+{
+  "number": "3015",
+  "description": "BIPYRIDILIUM PESTICIDE, LIQUID, TOXIC, FLAMMABLE, flash-point not less than 23 °C",
+  "class": "6.1",
+  "classCode": "TF2",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Methyl methacrylate monomer, inhibited", "number": "1247", "class": "3"}
+{
+  "number": "1247",
+  "description": "METHYL METHACRYLATE MONOMER, STABILIZED",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

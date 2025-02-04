@@ -1,1 +1,7 @@
-{"description": "Methylcyclohexanone", "number": "2297", "class": "3"}
+{
+  "number": "2297",
+  "description": "METHYLCYCLO-HEXANONE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

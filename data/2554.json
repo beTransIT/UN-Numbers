@@ -1,1 +1,7 @@
-{"description": "Methyl allyl chloride", "number": "2554", "class": "3"}
+{
+  "number": "2554",
+  "description": "METHYLALLYL CHLORIDE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

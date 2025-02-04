@@ -1,1 +1,7 @@
-{"description": "Hydrogen selenide, adsorbed", "number": "3526", "class": "2.3"} 
+{
+  "number": "3526",
+  "description": "HYDROGEN SELENIDE, ADSORBED",
+  "class": "2",
+  "classCode": "9TF",
+  "tunnel": "1 (D)"
+}

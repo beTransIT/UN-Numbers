@@ -1,1 +1,7 @@
-{"description": "Chromic fluoride, solution", "number": "1757", "class": "8"}
+{
+  "number": "1757",
+  "description": "CHROMIC FLUORIDE SOLUTION",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "3 (E)"
+}

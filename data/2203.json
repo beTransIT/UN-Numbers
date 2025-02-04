@@ -1,1 +1,7 @@
-{"description": "Silane, compressed", "number": "2203", "class": "2"}
+{
+  "number": "2203",
+  "description": "SILANE",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

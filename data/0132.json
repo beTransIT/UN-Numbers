@@ -1,1 +1,7 @@
-{"description": "Deflagrating metal salts of aromatic nitroderivatives, n.o.s.", "number": "0132", "class": "1"}
+{
+  "number": "0132",
+  "description": "DEFLAGRATING METAL SALTS OF AROMATIC NITRODERIVATIVES, N.O.S.",
+  "class": "1",
+  "classCode": "1.3C",
+  "tunnel": "1 (C5000D)"
+}

@@ -1,1 +1,7 @@
-{"description": "Refrigerating machines, containing flammable, non-toxic, liquefied gas", "number": "3358", "class": "2.1"}
+{
+  "number": "3358",
+  "description": "REFRIGERATING MACHINES containing flammable, non-toxic, liquefied gas",
+  "class": "2",
+  "classCode": "6F",
+  "tunnel": "2 (D)"
+}

@@ -1,1 +1,7 @@
-{"description": "Sodium cacodylate", "number": "1688", "class": "6.1"}
+{
+  "number": "1688",
+  "description": "SODIUM CACODYLATE",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (D/E)"
+}

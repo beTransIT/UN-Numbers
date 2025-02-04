@@ -1,1 +1,7 @@
-{"description": "Blue asbestos (Crocidolite) or Brown asbestos (amosite, mysorite)", "number": "2212", "class": "9"}
+{
+  "number": "2212",
+  "description": "ASBESTOS, AMPHIBOLE (amosite, tremolite, actinolite, anthophyllite, crocidolite)",
+  "class": "9",
+  "classCode": "M1",
+  "tunnel": "2 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "3,3-Diethoxypropene", "number": "2374", "class": "3"}
+{
+  "number": "2374",
+  "description": "3,3-DIETHOXYPROPENE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

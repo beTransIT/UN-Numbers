@@ -1,1 +1,7 @@
-{"description": "3-Bromopropyne", "number": "2345", "class": "3"}
+{
+  "number": "2345",
+  "description": "3-BROMOPROPYNE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Difluoromethane or Refrigerant gas R 32", "number": "3252", "class": "2.1"}
+{
+  "number": "3252",
+  "description": "DIFLUOROMETHANE (REFRIGERANT GAS R 32)",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

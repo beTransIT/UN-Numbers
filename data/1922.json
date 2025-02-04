@@ -1,1 +1,7 @@
-{"description": "Pyrrolidine", "number": "1922", "class": "3"}
+{
+  "number": "1922",
+  "description": "PYRROLIDINE",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "2 (D/E)"
+}

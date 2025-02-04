@@ -1,1 +1,7 @@
-{"description": "Manganese nitrate", "number": "2724", "class": "5.1"}
+{
+  "number": "2724",
+  "description": "MANGANESE NITRATE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "3 (E)"
+}

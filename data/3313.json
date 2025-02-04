@@ -1,1 +1,7 @@
-{"description": "Organic pigments, self-heating", "number": "3313", "class": "4.2"}
+{
+  "number": "3313",
+  "description": "ORGANIC PIGMENTS, SELF- HEATING",
+  "class": "4.2",
+  "classCode": "S2",
+  "tunnel": "3 (E)"
+}

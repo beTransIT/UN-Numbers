@@ -1,1 +1,7 @@
-{"description": "Nitrocresols", "number": "2446", "class": "6.1"}
+{
+  "number": "2446",
+  "description": "NITROCRESOLS, SOLID",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "2 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Ethylbenzene", "number": "1175", "class": "3"}
+{
+  "number": "1175",
+  "description": "ETHYLBENZENE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

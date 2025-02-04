@@ -1,1 +1,7 @@
-{"description": "Diethylaminopropylamine", "number": "2684", "class": "3"}
+{
+  "number": "2684",
+  "description": "3-DIETHYLAMINOPROPYL- AMINE",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "3 (D/E)"
+}

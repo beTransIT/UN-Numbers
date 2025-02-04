@@ -1,1 +1,7 @@
-{"description": "Methyl fluoride, or Refrigerant gas R 41", "number": "2454", "class": "2"}
+{
+  "number": "2454",
+  "description": "METHYL FLUORIDE (REFRIGERANT GAS R 41)",
+  "class": "2",
+  "classCode": "2F",
+  "tunnel": "2 (B/D)"
+}

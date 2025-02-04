@@ -1,1 +1,7 @@
-{"description": "Chromium oxychloride", "number": "1758", "class": "8"}
+{
+  "number": "1758",
+  "description": "CHROMIUM OXYCHLORIDE",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "1 (E)"
+}

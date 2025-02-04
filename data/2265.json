@@ -1,1 +1,7 @@
-{"description": "N,N-Dimethylformamide", "number": "2265", "class": "3"}
+{
+  "number": "2265",
+  "description": "N,N-DIMETHYL-FORMAMIDE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

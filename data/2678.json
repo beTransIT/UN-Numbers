@@ -1,1 +1,7 @@
-{"description": "Rubidium hydroxide", "number": "2678", "class": "8"}
+{
+  "number": "2678",
+  "description": "RUBIDIUM HYDROXIDE",
+  "class": "8",
+  "classCode": "C6",
+  "tunnel": "2 (E)"
+}

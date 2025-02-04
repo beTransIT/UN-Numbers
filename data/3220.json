@@ -1,1 +1,7 @@
-{"description": "Pentafluoroethane or Refrigerant gas R 125", "number": "3220", "class": "2.2"}
+{
+  "number": "3220",
+  "description": "PENTAFLUOROETHANE (REFRIGERANT GAS R 125)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

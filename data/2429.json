@@ -1,1 +1,7 @@
-{"description": "Calcium chlorate aqueous solution", "number": "2429", "class": "5.1"}
+{
+  "number": "2429",
+  "description": "CALCIUM CHLORATE, AQUEOUS SOLUTION",
+  "class": "5.1",
+  "classCode": "O1",
+  "tunnel": "3 (E)"
+}

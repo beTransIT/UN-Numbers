@@ -1,1 +1,7 @@
-{"description": "Adsorbed gas, flammable, not otherwise specified", "number": "3510", "class": "2.1"} 
+{
+  "number": "3510",
+  "description": "ADSORBED GAS, FLAMMABLE, N.O.S.",
+  "class": "2",
+  "classCode": "9F",
+  "tunnel": "2 (D)"
+}

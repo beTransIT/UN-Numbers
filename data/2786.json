@@ -1,1 +1,7 @@
-{"description": "Organotin pesticides, solid, toxic", "number": "2786", "class": "6.1"}
+{
+  "number": "2786",
+  "description": "ORGANOTIN PESTICIDE, SOLID, TOXIC",
+  "class": "6.1",
+  "classCode": "T7",
+  "tunnel": "2 (E)"
+}

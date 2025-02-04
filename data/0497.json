@@ -1,1 +1,7 @@
-{"description": "Propellant, liquid", "number": "0497", "class": "1"}
+{
+  "number": "0497",
+  "description": "PROPELLANT, LIQUID",
+  "class": "1",
+  "classCode": "1.1C",
+  "tunnel": "1 (B1000C)"
+}

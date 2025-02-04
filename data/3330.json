@@ -1,1 +1,7 @@
-{"description": "Radioactive material, Type C package, fissile", "number": "3330", "class": "7"}
+{
+  "number": "3330",
+  "description": "RADIOACTIVE MATERIAL, TYPE C PACKAGE, FISSILE",
+  "class": "7",
+  "classCode": "",
+  "tunnel": "0 (E)"
+}

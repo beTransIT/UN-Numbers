@@ -1,1 +1,7 @@
-{"description": "Silicon tetrafluoride, compressed", "number": "1859", "class": "2"}
+{
+  "number": "1859",
+  "description": "SILICON TETRAFLUORIDE",
+  "class": "2",
+  "classCode": "2TC",
+  "tunnel": "1 (C/D)"
+}

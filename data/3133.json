@@ -1,1 +1,7 @@
-{"description": "Water-reactive solid, oxidixing, n.o.s.", "number": "3133", "class": "4.3"}
+{
+  "number": "3133",
+  "description": "WATER-REACTIVE SOLID, OXIDIZING, N.O.S.",
+  "class": "4.3",
+  "classCode": "WO",
+  "tunnel": "None"
+}

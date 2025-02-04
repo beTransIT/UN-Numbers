@@ -1,1 +1,7 @@
-{"description": "Sodium cuprocyanide, solution", "number": "2317", "class": "6.1"}
+{
+  "number": "2317",
+  "description": "SODIUM CUPROCYANIDE SOLUTION",
+  "class": "6.1",
+  "classCode": "T4",
+  "tunnel": "1 (C/E)"
+}

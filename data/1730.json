@@ -1,1 +1,7 @@
-{"description": "Antimony pentachloride, liquid", "number": "1730", "class": "8"}
+{
+  "number": "1730",
+  "description": "ANTIMONY PENTACHLORIDE, LIQUID",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "2 (E)"
+}

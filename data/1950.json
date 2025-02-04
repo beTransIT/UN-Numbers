@@ -1,1 +1,7 @@
-{"description": "Aerosols, corrosive, Packing Group II or III, (each not exceeding 1 L capacity) or Aerosols, flammable (each not exceeding 1 L capacity) or Aerosols, flammable, n.o.s. (engine starting fluid) (each not exceeding 1 L capacity) or Aerosols, nonflammable (each not exceeding 1 L capacity) or Aerosols, poison, each not exceeding 1 L capacity", "number": "1950", "class": "2"}
+{
+  "number": "1950",
+  "description": "AEROSOLS, toxic, oxidizing, corrosive",
+  "class": "2",
+  "classCode": "5TOC",
+  "tunnel": "1 (D)"
+}

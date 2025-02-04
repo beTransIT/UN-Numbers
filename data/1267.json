@@ -1,1 +1,7 @@
-{"description": "Petroleum crude oil", "number": "1267", "class": "3"}
+{
+  "number": "1267",
+  "description": "PETROLEUM CRUDE OIL",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

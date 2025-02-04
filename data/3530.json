@@ -1,1 +1,7 @@
-{"description": "Engine, internal combustion or machinery, internal combustion", "number": "3530", "class": "9"} 
+{
+  "number": "3530",
+  "description": "ENGINE, INTERNAL COMBUSTION or MACHINERY, INTERNAL COMBUSTION",
+  "class": "9",
+  "classCode": "M11",
+  "tunnel": "- (E)"
+}

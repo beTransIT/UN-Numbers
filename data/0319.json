@@ -1,1 +1,7 @@
-{"description": "Primers, tubular", "number": "0319", "class": "1"}
+{
+  "number": "0319",
+  "description": "PRIMERS, TUBULAR",
+  "class": "1",
+  "classCode": "1.3G",
+  "tunnel": "1 (C5000D)"
+}

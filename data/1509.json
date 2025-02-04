@@ -1,1 +1,7 @@
-{"description": "Strontium peroxide", "number": "1509", "class": "5.1"}
+{
+  "number": "1509",
+  "description": "STRONTIUM PEROXIDE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "2 (E)"
+}

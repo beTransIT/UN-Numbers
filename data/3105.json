@@ -1,1 +1,7 @@
-{"description": "Organic peroxide type D, liquid", "number": "3105", "class": "5.2"}
+{
+  "number": "3105",
+  "description": "ORGANIC PEROXIDE TYPE D, LIQUID",
+  "class": "5.2",
+  "classCode": "P1",
+  "tunnel": "2 (D)"
+}

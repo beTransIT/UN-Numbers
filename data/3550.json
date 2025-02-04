@@ -1,1 +1,7 @@
-{"description": "Cobalt dihydroxide powder, containing not less than 10 % respirable particles", "number": "3550", "class": "6.1"} 
+{
+  "number": "3550",
+  "description": "COBALT DIHYDROXIDE POWDER, containing not less than 10 % respirable particles",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "1 (C/E)"
+}

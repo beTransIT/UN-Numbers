@@ -1,1 +1,7 @@
-{"description": "Nitrates, inorganic, n.o.s.", "number": "1477", "class": "5.1"}
+{
+  "number": "1477",
+  "description": "NITRATES, INORGANIC, N.O.S.",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "3 (E)"
+}

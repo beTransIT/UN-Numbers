@@ -1,1 +1,7 @@
-{"description": "Dimethylcyclohexanes", "number": "2263", "class": "3"}
+{
+  "number": "2263",
+  "description": "DIMETHYL-CYCLOHEXANES",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

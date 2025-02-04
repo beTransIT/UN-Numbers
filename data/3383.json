@@ -1,1 +1,7 @@
-{"description": "Toxic by inhalation liquid, flammable, n.o.s. with an inhalation toxicity lower than or equal to 200ml/m3 and saturated vapour concentration greater than or equal to 500 LC50", "number": "3383", "class": "6.1"}
+{
+  "number": "3383",
+  "description": "TOXIC BY INHALATION LIQUID, FLAMMABLE, N.O.S. with an LC₅₀ lower than or equal to 200 ml/m³ and saturated vapour concentration greater than or equal to 500 LC₅₀",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "1 (C/D)"
+}

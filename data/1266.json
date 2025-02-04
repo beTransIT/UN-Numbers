@@ -1,1 +1,7 @@
-{"description": "Perfumery products with flammable solvents", "number": "1266", "class": "3"}
+{
+  "number": "1266",
+  "description": "PERFUMERY PRODUCTS with flammable solvents (having a flash- point below 23 °C and viscous according to 2.2.3.1.4) (vapour pressure at 50 °C not more than 110 kPa)",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Furfuryl alcohol", "number": "2874", "class": "6.1"}
+{
+  "number": "2874",
+  "description": "FURFURYL ALCOHOL",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

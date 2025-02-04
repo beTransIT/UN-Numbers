@@ -1,1 +1,7 @@
-{"description": "Hydrogen bromide, anhydrous", "number": "1048", "class": "2"}
+{
+  "number": "1048",
+  "description": "HYDROGEN BROMIDE, ANHYDROUS",
+  "class": "2",
+  "classCode": "2TC",
+  "tunnel": "1 (C/D)"
+}

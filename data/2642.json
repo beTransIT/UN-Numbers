@@ -1,1 +1,7 @@
-{"description": "Fluoroacetic acid", "number": "2642", "class": "6.1"}
+{
+  "number": "2642",
+  "description": "FLUOROACETIC ACID",
+  "class": "6.1",
+  "classCode": "T2",
+  "tunnel": "1 (C/E)"
+}

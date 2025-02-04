@@ -1,1 +1,7 @@
-{"description": "Hydrogen iodide, anhydrous", "number": "2197", "class": "2"}
+{
+  "number": "2197",
+  "description": "HYDROGEN IODIDE, ANHYDROUS",
+  "class": "2",
+  "classCode": "2TC",
+  "tunnel": "1 (C/D)"
+}

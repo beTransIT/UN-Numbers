@@ -1,1 +1,7 @@
-{"description": "Acetaldehyde", "number": "1089", "class": "3"}
+{
+  "number": "1089",
+  "description": "ACETALDEHYDE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "1 (D/E)"
+}

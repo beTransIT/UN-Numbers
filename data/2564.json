@@ -1,1 +1,7 @@
-{"description": "Trichloroacetic acid, solution", "number": "2564", "class": "8"}
+{
+  "number": "2564",
+  "description": "TRICHLOROACETIC ACID SOLUTION",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "3 (E)"
+}

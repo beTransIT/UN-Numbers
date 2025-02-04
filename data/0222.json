@@ -1,1 +1,7 @@
-{"description": "Ammonium nitrate, with more than 0.2 percent combustible substances, including any organic substance calculated as carbon, to the exclusion of any other added substance", "number": "0222", "class": "1"}
+{
+  "number": "0222",
+  "description": "AMMONIUM NITRATE",
+  "class": "1",
+  "classCode": "1.1D",
+  "tunnel": "1 (B1000C)"
+}

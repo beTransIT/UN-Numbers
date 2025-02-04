@@ -1,1 +1,7 @@
-{"description": "Lithium ion batteries contained in equipment or Lithium ion batteries packed with equipment (including lithium ion polymer batteries)", "number": "3481", "class": "9"}
+{
+  "number": "3481",
+  "description": "LITHIUM ION BATTERIES CONTAINED IN EQUIPMENT or LITHIUM ION BATTERIES PACKED WITH EQUIPMENT (including lithium ion polymer batteries)",
+  "class": "9",
+  "classCode": "M4",
+  "tunnel": "2 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Isobutyronitrile", "number": "2284", "class": "3"}
+{
+  "number": "2284",
+  "description": "ISOBUTYRONITRILE",
+  "class": "3",
+  "classCode": "FT1",
+  "tunnel": "2 (D/E)"
+}

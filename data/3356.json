@@ -1,1 +1,7 @@
-{"description": "Oxygen generator, chemical", "number": "3356", "class": "5.1"}
+{
+  "number": "3356",
+  "description": "OXYGEN GENERATOR, CHEMICAL",
+  "class": "5.1",
+  "classCode": "O3",
+  "tunnel": "2 (E)"
+}

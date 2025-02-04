@@ -1,1 +1,7 @@
-{"description": "Caproic acid", "number": "2829", "class": "8"}
+{
+  "number": "2829",
+  "description": "CAPROIC ACID",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "3 (E)"
+}

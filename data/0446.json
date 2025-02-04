@@ -1,1 +1,7 @@
-{"description": "Cases, combustible, empty, without primer", "number": "0446", "class": "1"}
+{
+  "number": "0446",
+  "description": "CASES, COMBUSTIBLE, EMPTY, WITHOUT PRIMER",
+  "class": "1",
+  "classCode": "1.4C",
+  "tunnel": "2 (E)"
+}

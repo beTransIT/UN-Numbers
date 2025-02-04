@@ -1,1 +1,7 @@
-{"description": "Nitrosylsulfuric acid", "number": "2308", "class": "8"}
+{
+  "number": "2308",
+  "description": "NITROSYLSULPHURIC ACID, LIQUID",
+  "class": "8",
+  "classCode": "C1",
+  "tunnel": "2 (E)"
+}

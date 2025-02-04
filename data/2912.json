@@ -1,1 +1,7 @@
-{"description": "Radioactive material, low specific activity, n.o.s. or Radioactive material, LSA, n.o.s.", "number": "2912", "class": ""}
+{
+  "number": "2912",
+  "description": "RADIOACTIVE MATERIAL, LOW SPECIFIC ACTIVITY (LSA-I), non fissile or fissile-excepted",
+  "class": "7",
+  "classCode": "",
+  "tunnel": "0 (E)"
+}

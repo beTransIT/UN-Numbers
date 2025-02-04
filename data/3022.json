@@ -1,1 +1,7 @@
-{"description": "1,2-Butylene oxide, stabilized", "number": "3022", "class": "3"}
+{
+  "number": "3022",
+  "description": "1,2-BUTYLENE OXIDE, STABILIZED",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

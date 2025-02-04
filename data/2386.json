@@ -1,1 +1,7 @@
-{"description": "1-Ethylpiperidine", "number": "2386", "class": "3"}
+{
+  "number": "2386",
+  "description": "1-ETHYLPIPERIDINE",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "2 (D/E)"
+}

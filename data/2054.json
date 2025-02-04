@@ -1,1 +1,7 @@
-{"description": "Morpholine", "number": "2054", "class": "3"}
+{
+  "number": "2054",
+  "description": "MORPHOLINE",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "1 (D/E)"
+}

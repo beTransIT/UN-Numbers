@@ -1,1 +1,7 @@
-{"description": "Cupriethylenediamine solution", "number": "1761", "class": "8"}
+{
+  "number": "1761",
+  "description": "CUPRIETHYLENEDIAMINE SOLUTION",
+  "class": "8",
+  "classCode": "CT1",
+  "tunnel": "3 (E)"
+}

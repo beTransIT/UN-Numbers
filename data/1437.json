@@ -1,1 +1,7 @@
-{"description": "Zirconium hydride", "number": "1437", "class": "4.1"}
+{
+  "number": "1437",
+  "description": "ZIRCONIUM HYDRIDE",
+  "class": "4.1",
+  "classCode": "F3",
+  "tunnel": "2 (E)"
+}

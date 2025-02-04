@@ -1,1 +1,7 @@
-{"description": "Crotonylene", "number": "1144", "class": "3"}
+{
+  "number": "1144",
+  "description": "CROTONYLENE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "1 (D/E)"
+}

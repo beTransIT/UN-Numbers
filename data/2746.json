@@ -1,1 +1,7 @@
-{"description": "Phenyl chloroformate", "number": "2746", "class": "6.1"}
+{
+  "number": "2746",
+  "description": "PHENYL CHLOROFORMATE",
+  "class": "6.1",
+  "classCode": "TC1",
+  "tunnel": "2 (D/E)"
+}

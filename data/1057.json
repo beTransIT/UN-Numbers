@@ -1,1 +1,7 @@
-{"description": "Lighters or Lighter refills cigarettes, containing flammable gas", "number": "1057", "class": "2"}
+{
+  "number": "1057",
+  "description": "LIGHTERS or LIGHTER REFILLS containing flammable gas",
+  "class": "2",
+  "classCode": "6F",
+  "tunnel": "2 (D)"
+}

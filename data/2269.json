@@ -1,1 +1,7 @@
-{"description": "3,3'-Iminodipropylamine", "number": "2269", "class": "8"}
+{
+  "number": "2269",
+  "description": "3,3'-IMINODIPROPYLAMINE",
+  "class": "8",
+  "classCode": "C7",
+  "tunnel": "3 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Chloroprene, inhibited", "number": "1991", "class": "3"}
+{
+  "number": "1991",
+  "description": "CHLOROPRENE, STABILIZED",
+  "class": "3",
+  "classCode": "FT1",
+  "tunnel": "1 (C/E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Sulfuryl chloride", "number": "1834", "class": "8"}
+{
+  "number": "1834",
+  "description": "SULPHURYL CHLORIDE",
+  "class": "6.1",
+  "classCode": "TC3",
+  "tunnel": "1 (C/D)"
+}

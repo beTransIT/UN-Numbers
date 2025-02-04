@@ -1,1 +1,7 @@
-{"description": "Nicotine compound, liquid, n.o.s. or Nicotine preparation, liquid, n.o.s. ", "number": "3144", "class": "6.1"}
+{
+  "number": "3144",
+  "description": "NICOTINE COMPOUND, LIQUID, N.O.S. or NICOTINE PREPARATION, LIQUID, N.O.S.",
+  "class": "6.1",
+  "classCode": "T1",
+  "tunnel": "2 (E)"
+}

@@ -1,1 +1,7 @@
-{"description": "Chloropicrin and methyl bromide mixtures", "number": "1581", "class": "2"}
+{
+  "number": "1581",
+  "description": "CHLOROPICRIN AND METHYL BROMIDE MIXTURE with more than 2 % chloropicrin",
+  "class": "2",
+  "classCode": "2T",
+  "tunnel": "1 (C/D)"
+}

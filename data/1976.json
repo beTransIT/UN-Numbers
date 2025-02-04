@@ -1,1 +1,7 @@
-{"description": "Octafluorocyclobutane, or Refrigerant gas RC 318", "number": "1976", "class": "2"}
+{
+  "number": "1976",
+  "description": "OCTAFLUOROCYCLO-BUTANE (REFRIGERANT GAS RC 318)",
+  "class": "2",
+  "classCode": "2A",
+  "tunnel": "3 (C/E)"
+}

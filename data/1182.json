@@ -1,1 +1,7 @@
-{"description": "Ethyl chloroformate", "number": "1182", "class": "6.1"}
+{
+  "number": "1182",
+  "description": "ETHYL CHLOROFORMATE",
+  "class": "6.1",
+  "classCode": "TFC",
+  "tunnel": "1 (C/D)"
+}

@@ -1,1 +1,7 @@
-{"description": "Packaging, discarded, empty, uncleaned", "number": "3509", "class": "9"} 
+{
+  "number": "3509",
+  "description": "PACKAGINGS, DISCARDED, EMPTY, UNCLEANED",
+  "class": "9",
+  "classCode": "M11",
+  "tunnel": "4 (E)"
+}

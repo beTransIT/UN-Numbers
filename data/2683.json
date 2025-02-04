@@ -1,1 +1,7 @@
-{"description": "Ammonium sulfide solution", "number": "2683", "class": "8"}
+{
+  "number": "2683",
+  "description": "AMMONIUM SULPHIDE SOLUTION",
+  "class": "8",
+  "classCode": "CFT",
+  "tunnel": "2 (D/E)"
+}

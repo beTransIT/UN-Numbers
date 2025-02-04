@@ -1,1 +1,7 @@
-{"description": "Arsenic pentoxide", "number": "1559", "class": "6.1"}
+{
+  "number": "1559",
+  "description": "ARSENIC PENTOXIDE",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (D/E)"
+}

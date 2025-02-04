@@ -1,1 +1,7 @@
-{"description": "Sodium fluorosilicate", "number": "2674", "class": "6.1"}
+{
+  "number": "2674",
+  "description": "SODIUM FLUOROSILICATE",
+  "class": "6.1",
+  "classCode": "T5",
+  "tunnel": "2 (E)"
+}

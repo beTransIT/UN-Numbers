@@ -1,1 +1,7 @@
-{"description": "Ethylamine, aqueous solution with not less than 50 percent but not more than 70 percent ethylamine", "number": "2270", "class": "3"}
+{
+  "number": "2270",
+  "description": "ETHYLAMINE, AQUEOUS SOLUTION with not less than 50 % but not more than 70 % ethylamine",
+  "class": "3",
+  "classCode": "FC",
+  "tunnel": "2 (D/E)"
+}

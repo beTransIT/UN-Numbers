@@ -1,1 +1,7 @@
-{"description": "Tetraethylenepentamine", "number": "2320", "class": "8"}
+{
+  "number": "2320",
+  "description": "TETRAETHYLENE-PENTAMINE",
+  "class": "8",
+  "classCode": "C7",
+  "tunnel": "3 (E)"
+}

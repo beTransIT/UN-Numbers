@@ -1,1 +1,7 @@
-{"description": "Ethyl isocyanate", "number": "2481", "class": "3"}
+{
+  "number": "2481",
+  "description": "ETHYL ISOCYANATE",
+  "class": "6.1",
+  "classCode": "TF1",
+  "tunnel": "1 (C/D)"
+}

@@ -1,1 +1,7 @@
-{"description": "n-Propyl benzene", "number": "2364", "class": "3"}
+{
+  "number": "2364",
+  "description": "n-PROPYLBENZENE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

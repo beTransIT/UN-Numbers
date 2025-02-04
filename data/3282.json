@@ -1,1 +1,7 @@
-{"description": "Organometallic compound, toxic, liquid, n.o.s.", "number": "3282", "class": "6.1"}
+{
+  "number": "3282",
+  "description": "ORGANOMETALLIC COMPOUND, LIQUID, TOXIC, N.O.S.",
+  "class": "6.1",
+  "classCode": "T3",
+  "tunnel": "2 (E)"
+}

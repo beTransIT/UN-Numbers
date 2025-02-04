@@ -1,1 +1,7 @@
-{"description": "Arsenical pesticides, liquid, toxic, flammable, flashpoint not less than 23 \u00b0C", "number": "2993", "class": "3"}
+{
+  "number": "2993",
+  "description": "ARSENICAL PESTICIDE, LIQUID, TOXIC, FLAMMABLE, flash-point not less than 23 °C",
+  "class": "6.1",
+  "classCode": "TF2",
+  "tunnel": "2 (D/E)"
+}

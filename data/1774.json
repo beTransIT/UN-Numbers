@@ -1,1 +1,7 @@
-{"description": "Fire extinguisher charges, corrosive liquid", "number": "1774", "class": "8"}
+{
+  "number": "1774",
+  "description": "FIRE EXTINGUISHER CHARGES, corrosive liquid",
+  "class": "8",
+  "classCode": "C9",
+  "tunnel": "2 (E)"
+}

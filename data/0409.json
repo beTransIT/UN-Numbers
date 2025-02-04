@@ -1,1 +1,7 @@
-{"description": "Fuzes, detonating, with protective features", "number": "0409", "class": "1"}
+{
+  "number": "0409",
+  "description": "FUZES, DETONATING with protective features",
+  "class": "1",
+  "classCode": "1.2D",
+  "tunnel": "1 (B1000C)"
+}

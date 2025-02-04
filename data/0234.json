@@ -1,1 +1,7 @@
-{"description": "Sodium dinitro-o-cresolate, dry or wetted with less than 15 percent water, by mass", "number": "0234", "class": "4.1"}
+{
+  "number": "0234",
+  "description": "SODIUM DINITRO-o-CRESOLATE, dry or wetted with less than 15 % water, by mass",
+  "class": "1",
+  "classCode": "1.3C",
+  "tunnel": "1 (C5000D)"
+}

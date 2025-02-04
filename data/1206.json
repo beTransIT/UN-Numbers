@@ -1,1 +1,7 @@
-{"description": "Heptanes", "number": "1206", "class": "3"}
+{
+  "number": "1206",
+  "description": "HEPTANES",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

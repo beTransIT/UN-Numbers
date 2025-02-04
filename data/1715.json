@@ -1,1 +1,7 @@
-{"description": "Acetic anhydride", "number": "1715", "class": "8"}
+{
+  "number": "1715",
+  "description": "ACETIC ANHYDRIDE",
+  "class": "8",
+  "classCode": "CF1",
+  "tunnel": "2 (D/E)"
+}

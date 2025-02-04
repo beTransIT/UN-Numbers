@@ -1,1 +1,7 @@
-{"description": "Coal tar distillates, flammable", "number": "1136", "class": "3"}
+{
+  "number": "1136",
+  "description": "COAL TAR DISTILLATES, FLAMMABLE",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

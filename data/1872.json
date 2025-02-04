@@ -1,1 +1,7 @@
-{"description": "Lead dioxide", "number": "1872", "class": "5.1"}
+{
+  "number": "1872",
+  "description": "LEAD DIOXIDE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "3 (E)"
+}

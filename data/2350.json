@@ -1,1 +1,7 @@
-{"description": "Butyl methyl ether", "number": "2350", "class": "3"}
+{
+  "number": "2350",
+  "description": "BUTYL METHYL ETHER",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "2 (D/E)"
+}

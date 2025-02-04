@@ -1,1 +1,7 @@
-{"description": "Butyl acrylates, inhibited", "number": "2348", "class": "3"}
+{
+  "number": "2348",
+  "description": "BUTYL ACRYLATES, STABILIZED",
+  "class": "3",
+  "classCode": "F1",
+  "tunnel": "3 (D/E)"
+}

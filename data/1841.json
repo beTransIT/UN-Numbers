@@ -1,1 +1,7 @@
-{"description": "Acetaldehyde ammonia", "number": "1841", "class": "9"}
+{
+  "number": "1841",
+  "description": "ACETALDEHYDE AMMONIA",
+  "class": "9",
+  "classCode": "M11",
+  "tunnel": "3 (E)"
+}

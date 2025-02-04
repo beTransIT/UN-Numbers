@@ -1,1 +1,7 @@
-{"description": "Beryllium nitrate", "number": "2464", "class": "5.1"}
+{
+  "number": "2464",
+  "description": "BERYLLIUM NITRATE",
+  "class": "5.1",
+  "classCode": "OT2",
+  "tunnel": "2 (E)"
+}

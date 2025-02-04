@@ -1,1 +1,7 @@
-{"description": "Lithium peroxide", "number": "1472", "class": "5.1"}
+{
+  "number": "1472",
+  "description": "LITHIUM PEROXIDE",
+  "class": "5.1",
+  "classCode": "O2",
+  "tunnel": "2 (E)"
+}

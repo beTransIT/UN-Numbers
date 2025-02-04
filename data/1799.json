@@ -1,1 +1,7 @@
-{"description": "Nonyltrichlorosilane", "number": "1799", "class": "8"}
+{
+  "number": "1799",
+  "description": "NONYLTRICHLOROSILANE",
+  "class": "8",
+  "classCode": "C3",
+  "tunnel": "2 (E)"
+}
